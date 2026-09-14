@@ -1,9 +1,11 @@
-name: 섹터 뉴스 수집
+name: 대시보드 갱신
 
 on:
   schedule:
-    # UTC 기준입니다. 아래는 한국시간 평일 오전 8시~오후 8시 매시 정각.
-    - cron: "0 23,0-11 * * 0-4"
+    # UTC 기준입니다. 한국시간 평일 아침 8시와 저녁 6시 반, 하루 두 번.
+    # 스크리너가 2,000종목을 훑기 때문에 매시간 돌리지 않습니다.
+    - cron: "0 23 * * 0-4"
+    - cron: "30 9 * * 1-5"
   workflow_dispatch:        # 저장소 Actions 탭에서 손으로도 돌릴 수 있습니다
 
 permissions:
@@ -25,6 +27,16 @@ jobs:
           cache: pip
 
       - run: pip install -r requirements.txt
+
+      - name: 가격 캐시 복원
+        uses: actions/cache@v4
+        with:
+          path: screener/us_px_cache.pkl.gz
+          key: px-cache-${{ github.run_id }}
+          restore-keys: px-cache-
+
+      - name: 스크리너 실행
+        run: python scripts/us_breakout.py -w screener -u SPX NDX R2K
 
       - name: 오늘의 종목 선정
         run: python scripts/make_picks.py
