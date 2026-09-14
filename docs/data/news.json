@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-14T17:32:20.826882+09:00",
+ "updated_at": "2026-09-14T18:17:19.181400+09:00",
  "lookback_hours": 48,
- "total": 65,
+ "total": 68,
  "stocks": [
   {
    "code": "LILAK",
@@ -58,6 +58,22 @@
    "push": true,
    "items": [
     {
+     "title": "다시 등장한 반도체주 하락 베팅...실적 발표 앞둔 마이크론은 매수[서학픽] - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtZ0c1cmEyZ0s0NWo3b1ZCREh2OG94YkFrLTZuSVlZanA3NHV6RkFkQ3RsRWhvWGNNTWxBTG12V1F5ZzFYcHhIQ1g4TmdSOGRoRURSZ1MxdnFSYjlnbFF3OHhfV3VEWlkz0gFuQVVfeXFMUGxyWXFuRzQyS1VLTGNHak4tWHpnVEw2ZVIwY0ZwcmRkTTNRZXJnTm16R3RIbFBJUEhBZHFVUGwxYXh1TlVzU3dmQ2FKNTd1YnZxeDE1U0pJUG5qVkxUT0pMU3BESU1TMDhSczNnR3c?oc=5",
+     "source": "머니투데이",
+     "published": "2026-09-14T18:05:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "삼성전자 4%·하이닉스 6% 급락 ... 아시아 반도체 관련주에 '직격탄'",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NRVpQcGlPbUxmSzN3VHlwNzdFNzl2dDB3MVFOWXFBeUNDVW9wOFliQVFDVDZTYVF0dmZ2T3p1c3IwNmdoN05hY0prRzB1YndVYmc?oc=5",
+     "source": "매일경제 마켓",
+     "published": "2026-09-14T17:55:08+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
      "title": "LG화학, 中 장화웨이와 '반도체 세정액' 동맹... 글로벌 AI·HBM 소재 거점 뚫는다",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FcDNTSC1Qei01WHBaZXEzSXlRaC0xeFFzeTJral9SaUZNNFpSSWl2MEIxZm4wbUMyTkJjZE1PSHNZYjJfY2lLN0pyaTRuellhT0l3Q2R6R0xwYnJrSmo1ZXVIYw?oc=5",
      "source": "매일산업뉴스",
@@ -76,16 +92,8 @@
     {
      "title": "LG화학, 中서 반도체 세정소재 공략...AI·HBM 겨냥",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91ZTdWNl9ac0xLTXFZelV4Q25UcGpGQzBtX21jNXloeDVXal93Ujl5d2I3ZHRNZUM4a2M0cVMydkN4aXd4ZlVXMHU4Wk10Tk1pU0NoRUozN0RPNnFKdFZtckFYZlo?oc=5",
-     "source": "4th.kr",
+     "source": "포쓰저널",
      "published": "2026-09-14T17:16:39+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "LG화학, 중국 장화웨이와 손잡고 AI·HBM용 초고순도 반도체 세정제 공급 확대",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0dnpmOFlCVzBBVmR4NjRvaDdHNDZGTURpbHJzWklaTUJlUVhCdVRZb3UtQWdxN1h3ZWNiLWtwU3AzX0dlODBrYWJDc1djQU9lZjdLdTJJN1pJY1prUS1fR3Izck52Y0lRa21tSEJmUzFRdw?oc=5",
-     "source": "스페셜타임스",
-     "published": "2026-09-14T17:04:07+09:00",
      "dup_count": 0,
      "summary": ""
     },
@@ -196,7 +204,7 @@
     {
      "title": "'SK하이닉스 독점' 끝난 한미반도체, 실적 성장 여지 더 커진 이유는",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RWXE5VjNBZU95d0M4UkdJa0xHUW51YUVoZnQ0RDhzalNzOXlLNUtDUmZRZVpzaE5obk1CdkxhejN6MU8tNFBMaF84YUx2c25QeUFMY2g3R1VKc0xDVlBRUm5hV3FJajZK0gFsQVVfeXFMUHEzNXNXSlEyOVB5WkNnWFFJZk9Tbzktem9xR3YyYzFPLVBsVGtBOWFOamZDSnZGZjZyQzhqVFBwZkZ2dkRVZnlWamFhUHh5dnRJTDBVR01hajVsdzVTYUE3c3lMMGw2M1V4RWdB?oc=5",
-     "source": "bloter.net",
+     "source": "블로터",
      "published": "2026-09-14T11:19:06+09:00",
      "dup_count": 0,
      "summary": ""
@@ -206,14 +214,6 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGJmVlQyUmNXRHE2MTk1ZXN0LTZYVDBuTzl4dVhSR000MkgyVE9tZjh4cHQxY0lUcXBZcjZDUjVLbkwxb2xlMm1pV0N4dlZreVV0dXZvX0pLOEZCX3hkMHJqUjNGRlJqSFE2a0p3TjNiR1hwc0d6THA3NEJ3emFRRw?oc=5",
      "source": "edaily.co.kr",
      "published": "2026-09-14T11:01:46+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "“미국 규제 없었으면 중국산 HBM 쏟아졌을 것”...중국연구원의 분석",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzX3hnMUdXVlQtWDJLaE1mMTZIZ1k0YjZMTmtDaGlfM3JmV19FWWJCLTZpTXNqU3dfVDhmRFJobkVQZEN5aERuODdqcEplMlU?oc=5",
-     "source": "v.daum.net",
-     "published": "2026-09-14T10:48:11+09:00",
      "dup_count": 0,
      "summary": ""
     }
@@ -233,16 +233,16 @@
     },
     {
      "title": "K뷰티 수출 늘자 '짝퉁'도 기승...화장품업계, 대응 수위 높인다",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZaHdLazdfZlVfbXNWNk1fQmxXdy1nQ1R4MjBLSFBjamcwT0VoMlk3Rl9ncjMyMl8tZnBhMGFSS2FudktybTZzOGVGcEVxN2ZXdEprbm9WM0JhYnlmTzhkV1FqX28zUXNtTHd30gFvQVVfeXFMTUxyYk92bmdKcXMyVkx0NnpwektSVVFnejBSVWlnWFVTRzZsOW9jb1BYWGRnOHR1S1ZaU2tQSURLSF9QMGdiZnpqMy1XRTgzVXJhWXVVemR2dmlFa2FTdjFTTEF0bnk4ZF9FeENVQWhz?oc=5",
-     "source": "한국아이닷컴",
-     "published": "2026-09-14T16:45:03+09:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pSi1uT2QxeG9YQTEzNnFnbWo4djZGX1ZZWXRnem5GRFRfcVVWbUFlMVIybnl5M0V0UUJ2N1dTajZtZ0JVSmhEMi00OEhGZWs2ei1mblhINXdSMjZyZG5xdkJIclQ0akZxVkJEMGhuONIBc0FVX3lxTE9lZi1OeHc5ajJyZTBCOTFXRUZLSDFQTEhUal9wOHFlby1qVDRPMUlUeFIyd2tvLXdIcEpKanM5YUNnU3NlaHpLcXJCTFk5aHM3M0lENE5vdzUtWVhpelF3aUszdktTMFljZWhrdnJFOEo2S0U?oc=5",
+     "source": "데일리한국",
+     "published": "2026-09-14T16:42:18+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
      "title": "실리콘투 주가, 9월 14일 44,900원 3.22% 상승",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBURXRrcG45bGUwV0Frdy13Y2xvakQzb2gzdDIxYWhkSzQwdGZfczNPSVkxaUpDcW5EYmROY05KOFNfMmhHQ00yOG9QVUdkM3EtR0xxUndKaDZYNmVBeTBoN0N0SmN3d2tsM2xEVWJGb18zZw?oc=5",
-     "source": "topstarnews.net",
+     "source": "톱스타뉴스",
      "published": "2026-09-14T16:37:29+09:00",
      "dup_count": 0,
      "summary": ""
@@ -360,14 +360,6 @@
      "summary": ""
     },
     {
-     "title": "“주변에 잘 팔리는 물건, 그 기업을 사라”...K뷰티, 남미·중동시장 공략 속도",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OZXRsc3o2NXo1N2ZQRkYySWJKQWVVRFFwdm1VWmlhN2ZiZzc3cDVIRmZWUjVoTUxqczhRNGFpbi1oQzluMlE?oc=5",
-     "source": "매일경제",
-     "published": "2026-09-14T05:54:46+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
      "title": "\"한국 화장품, 세계 최고수준 품질\" 해외 바이어 몰린 ‘뷰티트레이드쇼’",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FVHVURkJ5Q25TMm5EWnlRcEN3Z2ZWMHhqOF80NG1GTWRvaDJFOU45aE5kazhIdTRUNzNaQTEtTVp0aVg2am0zMDJhVHpmcFpSOUJaTEhldS02UQ?oc=5",
      "source": "파이낸셜뉴스",
@@ -382,6 +374,14 @@
      "published": "2026-09-13T17:11:58+09:00",
      "dup_count": 0,
      "summary": ""
+    },
+    {
+     "title": "기후위기 속 K뷰티...피부 온도 낮추는 쿨링 효과에 중동-남미 수출 급증",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NRzhrUjRvbU5kTkdvc0lydE5ROC1wMzVieXo3U2ZUQWE0US14ZXNVWUM2V2hVSC1uNnpEdTJudW85WlR6cjdqOEppTUdnUGhrZWNfN0ZDU3RJUUJqem51eUtZT1A3ZmxDTmRZSlJYYkU0b0lQSkHSAWZBVV95cUxNeDBmWVc0R3dFREQ0eGFOTnNiYUtVZnlyb29MTjFvMTN3ZmF2b0gxY3lLRDBPaWkyZDVHaFp2QWxTSnlxOWdOZldHcGpldnp0YkItcU13U1FLZVB4dHJKcUpGZkNJV0E?oc=5",
+     "source": "donga.com",
+     "published": "2026-09-13T17:10:00+09:00",
+     "dup_count": 0,
+     "summary": ""
     }
    ]
   },
@@ -389,6 +389,14 @@
    "name": "제약·바이오",
    "push": false,
    "items": [
+    {
+     "title": "[HOT 마켓 트렌드] 제약업계, 추석 건기식 특수 공략...프로모션 확대",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQTFDb0Zob0ZHYkczM3NpaW1HT0pUa091YUlMMFpvbEU3MC1BNV9PeW54VDU2NlpOLUh2VWptVEVlU0w2NTNDLXpaMHZVMFgtVTd0NUcxTndyUWQ0T3NzUWR6OE9JdUZnR3c?oc=5",
+     "source": "비즈월드",
+     "published": "2026-09-14T17:35:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
     {
      "title": "[K-뷰티 부스팅] 동국제약, 파마시 뷰티 전략 확대일로...제조공장 인수 '시너지 UP'2",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zZ0p2TmVXNEk1eUVESEZCMjVYbUxIMDhISU1MY3JQcUxVQ1lEWjB2SE9LVFQ4WTctek9xQXMxRkIxVXpWN1huVmlkX3dHR3pyeE5yLXJsbVF2YjVhLW40YnRQWTE1a1U0?oc=5",
@@ -416,7 +424,7 @@
     {
      "title": "동국제약, 추석 앞두고 가족 건강 챙길 일반의약품 4종 제안",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sblFELWktWnk4M1lFbUUyME0xWEdybzlBUTh0SWJYQ2lhenQ5SmVwLTlUWUhPTlBQcnd2OVMxWHE0Yk5rSWVLdEVCRWE1d1ltamk5S2NNYVhybE9HYjZhY0IwUmtFaDdxMno0dUdFdw?oc=5",
-     "source": "리드경제",
+     "source": "leadeconomy.co.kr",
      "published": "2026-09-14T12:44:14+09:00",
      "dup_count": 0,
      "summary": ""
@@ -451,6 +459,22 @@
    "name": "전력·조선",
    "push": false,
    "items": [
+    {
+     "title": "삼성重, 1.6조 수주 '잭팟'...이미 작년 실적 넘었다",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlU09kemtMTnc3RHdZZHF1VFVzYjJoeXNfODRJLVFfNmREQlp1bDdfWUdGeTZRNFBSbkJhdFFReXppeDcyQ3FCamJhNWtEODVpUjZ3aHhRZVVUQQ?oc=5",
+     "source": "한국경제",
+     "published": "2026-09-14T18:13:38+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "삼성중공업, 1조6476억원 수주...올해 상선 실적 지난해 넘어",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10Z3VSWjNTRUpvREpwNkpkaFpONFZibVk2N0J2ODFkVnpzUHdZWUJWMEUwX1RhQmx1QURoYnlHM2RjeTBfOUFVMHY0a1N1ZVNlS1NySC1JaWdVVTRIY0dHbld3WHpxSUlNMV9IVWFn?oc=5",
+     "source": "거제신문",
+     "published": "2026-09-14T17:23:31+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
     {
      "title": "삼성重, 1.4조원 LNG선 수주 잭팟...조선 3사, 가스텍서 미래 먹거리 공개",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lVVA5RTU0bzZ0ZUd1VkJVdHZjTGppUy1TT1hUUmU4ZzNVTndkMFRFa20zR1dOR0RsWTVlblNNMzBzdHdYM2hHeXZzbzhmTk0?oc=5",
@@ -494,7 +518,7 @@
     {
      "title": "1조 6476억 잭팟...삼성중공업이 오세아니아 선주와 계약한 '이것'",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjZlJrT0hOTml0bklKYmZlbzRkdDZPdVZFQzZZQnplWU5QUTJrdVJESU9wSFpCb19oVDE1LWJNajNKS0Vyemt3NlNyZEF1MlUtT2s3bU93?oc=5",
-     "source": "위키트리",
+     "source": "wikitree.co.kr",
      "published": "2026-09-14T14:33:00+09:00",
      "dup_count": 0,
      "summary": ""
@@ -518,7 +542,7 @@
     {
      "title": "삼성중공업, 20만m3 LNG선 앞세워 1.6조원 수주...연간 목표 128%",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sUVZSeWxvNjVkM0NKSHpKOEo4TG83RXY0cGdTZ2RpeHNsSDN6bnA2M2M0WVBMWkctT0w0SWpUTXpDcHd5cjQ0NHhKTEprQUlkMWVteGdSOWFGX3VIcG9DcG9uVWpCajctd2VIWllUM0k?oc=5",
-     "source": "geojetimes.co.kr",
+     "source": "거제타임즈",
      "published": "2026-09-14T11:48:38+09:00",
      "dup_count": 0,
      "summary": ""
@@ -542,7 +566,7 @@
     {
      "title": "삼성중공업, LNG선 등 6척 1.6조원 수주···상선 목표 28% 초과",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMTNjY2RyRGdDWlhxZFV5RGplTXpNQ3I5T2VGMi1qN0VRY1Y4TkFKemNWSElGQmt6WFZfT1piVjl3aEd5Z211bXZsRm9tLWZBWDdXMjZqcHhUdFBFdEo4MVpRWHhqMmRiSkt0NQ?oc=5",
-     "source": "smartbizn.com",
+     "source": "스마트비즈",
      "published": "2026-09-14T10:47:15+09:00",
      "dup_count": 0,
      "summary": ""
@@ -550,7 +574,7 @@
     {
      "title": "삼성重, 1.6조원 규모 선박 6척 수주...상선 목표 28% 초과 달성",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQd1RZNnlMOTZiX09zTE5xOXVDUjZQVFVXdGgtUWFDVXRBRUhQSlluejJnMEt2MUJJdE5oRWVrZlRjRzRUcTNIbm9BbUZWb2F0X0xxSi1Fak5zdmhhRGxIOWk4S2dJbkJwaEp0M0NXbXEyUQ?oc=5",
-     "source": "중앙이코노미뉴스",
+     "source": "joongangenews.com",
      "published": "2026-09-14T10:35:34+09:00",
      "dup_count": 0,
      "summary": ""
@@ -558,7 +582,7 @@
     {
      "title": "‘수주 총력’ 롯데바이오, 10월 유럽·일본·미국 누빈다 - 조선비즈",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1RZY3kxSVZtR0F0cUtJVG4xRVVfemVfVWtRREQyZDA4alFPQ3drSkEyTFNFUDRZRGEwOUlBRGlsZGJKQmw5NU1NZ0tUSkhvZzRsMmZEdjZIajZsMWNCVWNMT3hBNW1wS0RhR3JtQ3czTDNCLW1TOXU5NnQzWnpYNVkweHpPYzTSAZsBQVVfeXFMTkFIdkNjc1E2eFJtUjBDNWEycjI0aXVYR1hjS3VwdWE3d3dTazRIR2NiVkxndFZnQjNnVEp3ZDFVcjdEaFBNMTVTdEt1cWFCdkQ3c3dzV3RhWHJxdkdic0hLaTcxYTBNR3FKQl9UUF84TUROMWo1d0h0bkFDalZzNUE2cE5DOHdac2EtaG9qT2FyVy1aSno4dWNiODQ?oc=5",
-     "source": "Chosunbiz",
+     "source": "biz.chosun.com",
      "published": "2026-09-14T10:03:19+09:00",
      "dup_count": 0,
      "summary": ""
@@ -582,7 +606,7 @@
     {
      "title": "삼성물산, 5122억 규모 여의도 목화아파트 재건축 수주 - 조선비즈",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHVIeEowdk1VQXVzNXE5ZlpYbG51QjZ2elRmMUVOUXZ5LVpSbDBvVExHSWlyaFUzaW1qc05HUS1YYzRvbGZjR1lUZW1zbjdURGZzNm1PS1RWZ1BabWVSVHp3T1NuNWJPNmN0cnpDRXVGVE9TbGJuVDQ4U3dSQlB1eVVza2dsaVdpNU95V3czQVZGdU5ZUVpaYtIBrAFBVV95cUxQTGpmTUxfbWFQUWpreGdud2gtRXN5cEZXdFNMcElvTEdhLWZMMERpM0tHQnFWcTBya0FhWU1EYWd0b1M5d1dXLXZjaEdoTDhVRkl0R3ZHN202NjJ0OVRhMF9jazRwRGc0RWhZLXhwSGxJLXpkX1VscXBfWXJWYnpXUTZnekF2NlBTSWI5ZzRGc1lWZnc5MDJmcFRkMm5PbF9XWU1yc2FSTnFzXzlG?oc=5",
-     "source": "Chosunbiz",
+     "source": "biz.chosun.com",
      "published": "2026-09-13T09:50:00+09:00",
      "dup_count": 0,
      "summary": ""
@@ -591,7 +615,7 @@
      "title": "세계 선박 발주 줄었는데 중국은 85%...K조선 수주 점유율 7%로",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YbE1vMDBqck1waWFrV2pNOERqb0VVc3pTYzEyVGJnYmF2LVhGNW44Q0NrMGVLMXBLZUo2b1JVMzVkeUxBVnRZaENWcmc0c0k?oc=5",
      "source": "v.daum.net",
-     "published": "2026-09-13T08:00:00+09:00",
+     "published": "2026-09-13T08:00:11+09:00",
      "dup_count": 0,
      "summary": ""
     }
