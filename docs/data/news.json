@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-14T20:45:10.944571+09:00",
+ "updated_at": "2026-09-14T21:03:17.327378+09:00",
  "lookback_hours": 48,
- "total": 86,
+ "total": 87,
  "stocks": [
   {
    "code": "LILAK",
@@ -26,6 +26,14 @@
    "note": "G2",
    "source": "신고가·물극필반",
    "items": [
+    {
+     "title": "10X Genomics Inc (TXG) Stock Price Today: $68.41",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nMm13eU1qXzZSUjdidjUzbDVXZlBpVURvRjhOUFJ6RkFfZmxmWW5QNjFRNVNYUlNXYVEtUnNRQUQ1b2VsMlZyVnBGbXpWbk9fc05nSmtCeGo?oc=5",
+     "source": "pluang.com",
+     "published": "2026-09-14T16:54:53+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
     {
      "title": "10x Genomics Stock (TXG) Opinions on Insider Selling and Atera Platform",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVc5cy1nNURoRzE3VmRiVnctVG5ZVEVXV0tFOWl3Z1R0Wkw4M3BlM0VLbWVUZlNLZnlCLWJVbW45X1NMbmV1MDFxUVgwakVOZmc0OWkyWkRUVVhJRmEyenpqQkpVR1B2VFZRTWJCN21BR1RvMUpTMXRjd3FtMUhCNlNrWm9wRWUwVnFHMmdVcEhQZUxabjA3T2t6Skx4aUxyWEV3Tg?oc=5",
@@ -98,7 +106,7 @@
     {
      "title": "HP Raises Outlook as Premium AI PCs and Tariff Refunds Boost Results",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHRVWF9DWmtpTnZGLUo1WXlyZnpQdHJqZ3BVUHMtOEk0NDhhemVPTjVCdjl2TXpHN05BTzJWQzI1UTlsUjVuRE54WDJ6emtHSDRBNFpKZ0JrSWxQOHZWdlQwbUIwT0tMZ0o3LTNLbDhfd0ZuR1FZR2JTMjJkdHRCalN5dDhMSzhQNXF0WF9RcjdaUkU?oc=5",
-     "source": "finance.yahoo.com",
+     "source": "Yahoo Finance",
      "published": "2026-09-14T00:01:58+09:00",
      "dup_count": 0,
      "summary": ""
@@ -143,7 +151,7 @@
     {
      "title": "AtriCure CTO Sells 3,657 Shares",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFlLTm1fYndVVWl0dzBSdEdpOWllamROSHM2VUtRM0d4T09MOGR5aTBnd3FsVHBneVN5MTh2Vm5aSVFkY3lBR2tlQjBJSEVLa2FjZmp0a3c0bkVZNjFWeUpCbWFPUjBzRGtURGYyWmM3TW9IREp0SVJjNVBsUktqWXRqWjY1S0dW?oc=5",
-     "source": "The Motley Fool",
+     "source": "fool.com",
      "published": "2026-09-13T09:45:00+09:00",
      "dup_count": 1,
      "summary": ""
@@ -350,7 +358,7 @@
     {
      "title": "[이슈] 반도체 잘 팔수록 원화 강세...삼성·SK하이닉스 덮친 '반도체 달러의 역설'",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WZjFTSUI3WDJITXliekVtVTRlajg2UFNRMVJDNTFSUGxZcmxmeWN5MTBxbjRKUUFfSlRHaGpGLVFaelBhUlVMeWVnYkIyN3dpdWhvZ2dZbjJVSDhfVHM5V3ZYRFFEcGRrU2pSWDZn0gFyQVVfeXFMUDJOUGVRYUxTNzZES2o1NkpqRzZrTHRFNVpHeWlGNl9GbUNDeDB4V29XS3VVRGFyZnlGNnY5MmpxZXpjbEhRblF4WEhidkNBMFBTT3VDMm82MEg0dGMyVnd3SDdYZG1xbWRWX2ZCSlZTQ213?oc=5",
-     "source": "polinews.co.kr",
+     "source": "폴리뉴스 Polinews",
      "published": "2026-09-14T15:45:45+09:00",
      "dup_count": 0,
      "summary": ""
@@ -380,14 +388,6 @@
      "summary": ""
     },
     {
-     "title": "AI가 바꾼 반도체 판...메모리 비중 사상 첫 과반 [AI칩 인사이드]",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94dkN4YVJMcGd5bHFiSThWbUl4VHBLZlIwNXQ1QWt1Vmp3NHgtcW8tZDdkOHhJZkJRUW1oYTdOaHE0Z2tqaFZ6N0FwdU56R0U?oc=5",
-     "source": "v.daum.net",
-     "published": "2026-09-14T13:54:06+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
      "title": "LG화학, 中서 반도체 세정소재 공급망 구축...AI·HBM 시장 공략",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50UXdlaVlNWVlCbGs1eC1qLW5hbVA0VW9aRUQ4WUxZdUNUOXNsM2hIU0sxZktGSjdjeGhQNXNfUnNOVjJXclVvM1ZTTEYzNUx0U1NQaFgxcWNWazBMOExLWTdIcmk0MmxrY0t5MTl3?oc=5",
      "source": "아시아투데이",
@@ -400,6 +400,14 @@
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSXRmVGw5U09KVU13TUJMNGdJdXdEYzRjMmxiYWJ0NXgwZmtpVWxpUXNySGhVc1h1YV9PNk56VFNBY0MxNERsYnJuSHk5ZjVZU2ZQaF9mOUtsN1hMdjFJTUs2WmtZc1I2NTdF?oc=5",
      "source": "ksdaily.co.kr",
      "published": "2026-09-14T12:18:20+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "中 HBM 추격 빨라졌다...한국 메모리, 기술 넘어 공급망 경쟁 직면",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jM3N1M1d6SWVRUmtRbFI3Zks0NGdhQjg2c1JIR2U5MERXeGxUVGtNOG9qTEdLa2UwZEJqRkFCLTU2bk5BelQzUERFcjdZdld2UDJhUmo5NGZSVDhrUjRLZ0ZQNlZsY1FobHFrWg?oc=5",
+     "source": "mstoday.co.kr",
+     "published": "2026-09-14T11:53:45+09:00",
      "dup_count": 0,
      "summary": ""
     }
@@ -430,6 +438,14 @@
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Tb2ZqSGdzZGRDRU9wcllxenFuQjVmN3oxdlAwTFJ2V05MN18xSjk3Zld0ZXZmcjlKZ0lvcnMwYTZBMW9VR18wS2hac3VFZEFYOVZ3aWxNLURVZUk4czZMM25mM09mY2VaMnNTR25jbw?oc=5",
      "source": "yakup.com",
      "published": "2026-09-14T17:21:47+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "[Why] 립스틱보다 로션·세럼... K뷰티 ‘스킨케어’ 공장 늘어나는 이유 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNkoxTHcwM3FNeXhfbmVqSlFhRmtNakFyc2xnR2JDUGlGbjZ5bjhjRmxuYThRMy1rbVhQVG5YYlQ0LVJOWkdWcTZkRGpIS1NRQnZFaFlacTVEVWkyZ1dlQzVfcW9ONVF6dWRCOGMyZXdfRE9hZW81LVVJVlluWGRnYlBVYzVOSUlPYms0NVlRMklYczjSAacBQVVfeXFMUHhINXBtVndIUmQxVm1iemw0ZWRoLUltZlYweVpYMnJsUXRBdFVZZlRKTHVodXY2VHBjVHlvdVA3VUh0RTFiVzdqRFV5LWVjTm44TFdBSVhORm9HMnhmSEdmdlVSM2o0amJUNUthbTltNjZqMkhMRHc5T2poYWxnSHFzSDBJUnVhTDYzOW0wWU0ySHF3Y09LWUlTOFgtYm1RR3VlZWJqMVU?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-09-14T16:43:00+09:00",
      "dup_count": 0,
      "summary": ""
     },
@@ -558,14 +574,6 @@
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43Y1lrUVFkNm5ldVVHYXo5Q01sQ3JUVk9vaWVodnVfdWkwX0ttekNycXNqS2d6RVNJR28xSzhIT2JFQlRDeUFrUTVCaWVfNVpXUGxmSFJpcG41U1FpRkV0aQ?oc=5",
      "source": "아시아경제",
      "published": "2026-09-14T07:11:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "K-의료 해외진출, ‘병원 수출’ 넘어 의료기기·ICT 결합 패키지형으로",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RWDllcF9KLVphWnV0VENiVzJYVDF2MUJrdUluUEgxNnY2VDZ1VUdlakUzd2JmQXRaZXpyRHd2YXMzYm8x?oc=5",
-     "source": "후생신보",
-     "published": "2026-09-14T07:00:00+09:00",
      "dup_count": 0,
      "summary": ""
     }
@@ -718,6 +726,14 @@
      "summary": ""
     },
     {
+     "title": "금호건설, 수원 파장1구역 재건축 수주... 공사비 927억원 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNy0tZlpwQm9YMEp1Mm5sV0hEeV9mTWZqN09mZGRhdzNPZEwxZENjT2I1VXRpT19zWGVsYnU1ZXlMMkZaYWhLOXdCZjRoSUxpbGRnVWtaY0E2MWI0NnBoOUFpSmtvazJQREJSTjhRdU1WSS16cEZyU3hnbGN5N1VRVTBSVzhQcS0yUnZNR00yTU0wOHdYNDN5Q9IBrAFBVV95cUxOVThpeFVDN3ZoY08xQnZhWmxQNFdleVdzcTNsSTNoNjFOeHNIMmFwM3VCRmpUWEJtMGxZdUJub1RneVl1NEJQVGhZZ2dCVFNMbF9mSHc3RnE2Y3FlOWpYczVUbGdOVlZxeUoxSUhjSnV4b1ZyY0ZHdzlSV1JVSGltbGdncUdBc1lzNi04UGZET2FuRmpyTU1hM0ZHaThVQUFXem9naE44T25RbWFN?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-09-14T13:41:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
      "title": "'26년 상반기 공작기계 수주 1.8조 원 돌파... 전기·전자·조선 설비투자 '폭발적' 성장",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14c1JZa0JVeUtneElhek5XUHo3MVI4RjFPVE9mR0wtNGZjSHEzelctMEg4YVJfcmFHNVV3NGNiZFNNYXVrUHlOS0ttZ09nWHFWSWw2SU5hNnE5WDN4Wjd1VFhxbjZGZ00?oc=5",
      "source": "기계신문",
@@ -776,7 +792,7 @@
     {
      "title": "‘수주 총력’ 롯데바이오, 10월 유럽·일본·미국 누빈다 - 조선비즈",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1RZY3kxSVZtR0F0cUtJVG4xRVVfemVfVWtRREQyZDA4alFPQ3drSkEyTFNFUDRZRGEwOUlBRGlsZGJKQmw5NU1NZ0tUSkhvZzRsMmZEdjZIajZsMWNCVWNMT3hBNW1wS0RhR3JtQ3czTDNCLW1TOXU5NnQzWnpYNVkweHpPYzTSAZsBQVVfeXFMTkFIdkNjc1E2eFJtUjBDNWEycjI0aXVYR1hjS3VwdWE3d3dTazRIR2NiVkxndFZnQjNnVEp3ZDFVcjdEaFBNMTVTdEt1cWFCdkQ3c3dzV3RhWHJxdkdic0hLaTcxYTBNR3FKQl9UUF84TUROMWo1d0h0bkFDalZzNUE2cE5DOHdac2EtaG9qT2FyVy1aSno4dWNiODQ?oc=5",
-     "source": "biz.chosun.com",
+     "source": "Chosunbiz",
      "published": "2026-09-14T10:03:19+09:00",
      "dup_count": 0,
      "summary": ""
@@ -794,14 +810,6 @@
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV0psSEpDcF9BSnMzSktIMzg5blFFSnRLbzRqMHMwWlp2MFJnb2NadmVfVmlRWllXaVA0aVUxX19FemhqNGZFVl8wQVhzNlVZRUN3YmxvN3NvbW4wQnZBd2pudHVGcXU0UlFNd3ZtVFJGZ2JCTy0tR0ItSmRaaGVIUmtQejhsVGdVU1FmUl9wb01hd05DSTdiVXhLWkVMS1BQR3h3QzJQZVh6enNBVV9GYzdTQkl5eXRMMzkyQ0lBOW9lQ0lMSnE1bWZDQ2sybG50Mi1yVFRoNndnUQ?oc=5",
      "source": "IndexBox",
      "published": "2026-09-13T22:31:17+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "“현지 인재가 수주 경쟁력”...K조선, 글로벌 인력 양성 속도전",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOG5YQWFvblNVODVRVmtaaV95VjBkSGprZGF2T2MwLTNyb1ZNc2U0OWNpTmRWWnVlWjRObmlrekYySVF0VWMwNWJHUVNhTURHQW9id0Q1Rm9taVRiZHVFTm5pWDZiZ1BTZmd1WlZPSGZxcmFZU1JHWkIwQ3dTZ0JaNA?oc=5",
-     "source": "edaily.co.kr",
-     "published": "2026-09-13T16:00:31+09:00",
      "dup_count": 0,
      "summary": ""
     }
