@@ -70,9 +70,13 @@ def from_naver(query, creds):
     return out
 
 
-def from_google(query):
-    url = ("https://news.google.com/rss/search?q="
-           f"{quote(query)}&hl=ko&gl=KR&ceid=KR:ko")
+def from_google(query, lang="ko"):
+    """lang='ko' 면 한국 기사, 'en' 이면 영문 기사를 가져온다."""
+    if lang == "en":
+        locale = "hl=en-US&gl=US&ceid=US:en"
+    else:
+        locale = "hl=ko&gl=KR&ceid=KR:ko"
+    url = f"https://news.google.com/rss/search?q={quote(query)}&{locale}"
     try:
         r = get(url)
         r.raise_for_status()
@@ -97,8 +101,18 @@ def from_google(query):
     return out
 
 
-def search(query, creds):
-    rows = from_naver(query, creds) if creds["naver_id"] else from_google(query)
+def search(query, creds, market="kr"):
+    """국내는 네이버, 해외는 구글 영문.
+
+    미국 종목을 네이버에 물으면 한국 기사가 거의 없어 0건이 된다.
+    반대로 국내 종목은 네이버가 원문 주소와 매체명을 정확히 준다.
+    """
+    if market == "us":
+        rows = from_google(query, lang="en")
+    elif creds["naver_id"]:
+        rows = from_naver(query, creds)
+    else:
+        rows = from_google(query, lang="ko")
     time.sleep(0.25)
     return rows
 
@@ -141,11 +155,11 @@ def summarize(items, api_key):
     return items
 
 
-def gather(queries, creds, excludes=(), limit=DEFAULT_MAX):
+def gather(queries, creds, excludes=(), limit=DEFAULT_MAX, market="kr"):
     cutoff = now_kst() - timedelta(hours=LOOKBACK_HOURS)
     raw = []
     for q in queries:
-        raw.extend(search(q, creds))
+        raw.extend(search(q, creds, market))
 
     rows = []
     for it in raw:
@@ -179,8 +193,13 @@ def main():
     picks = (read_json(DATA_DIR / "picks.json") or {}).get("picks", [])
     stocks = []
     for p in picks:
-        print(f"종목 뉴스: {p['name']}")
-        items = gather([p["name"]], creds, limit=DEFAULT_MAX)
+        market = p.get("market", "kr")
+        queries = [p["name"]]
+        if market == "us" and p.get("code"):
+            # 회사명이 길거나 흔한 단어일 때를 대비해 티커도 같이 던진다
+            queries.append(f'{p["code"]} stock')
+        print(f"종목 뉴스: {p['name']} ({market})")
+        items = gather(queries, creds, limit=DEFAULT_MAX, market=market)
         total += len(items)
         stocks.append({**p, "items": items})
 

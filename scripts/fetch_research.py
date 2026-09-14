@@ -52,9 +52,15 @@ def from_naver_research(code):
     return out[:MAX_PER_STOCK]
 
 
-def from_google(name):
-    url = ("https://news.google.com/rss/search?q="
-           f"{quote(name + ' 목표주가')}&hl=ko&gl=KR&ceid=KR:ko")
+def from_google(name, market="kr"):
+    """국내는 '목표주가', 해외는 영문 analyst 기사로 찾는다."""
+    if market == "us":
+        q = f"{name} analyst price target"
+        locale = "hl=en-US&gl=US&ceid=US:en"
+    else:
+        q = f"{name} 목표주가"
+        locale = "hl=ko&gl=KR&ceid=KR:ko"
+    url = f"https://news.google.com/rss/search?q={quote(q)}&{locale}"
     try:
         r = get(url)
         r.raise_for_status()
@@ -91,7 +97,7 @@ def main():
         else:
             rows = []
         if not rows:
-            rows = from_google(p["name"])
+            rows = from_google(p["name"], p.get("market", "kr"))
         rows = dedupe(rows)[:MAX_PER_STOCK]
         total += len(rows)
         print(f"리포트 {p['name']}: {len(rows)}건")
