@@ -1,0 +1,48 @@
+name: 섹터 뉴스 수집
+
+on:
+  schedule:
+    # UTC 기준입니다. 아래는 한국시간 평일 오전 8시~오후 8시 매시 정각.
+    - cron: "0 23,0-11 * * 0-4"
+  workflow_dispatch:        # 저장소 Actions 탭에서 손으로도 돌릴 수 있습니다
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: 뉴스 수집
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/fetch_news.py
+
+      - name: 텔레그램 발송
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/push_telegram.py
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "dashboard-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/data
+          git diff --staged --quiet || git commit -m "뉴스 갱신 $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
