@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-14T19:52:10.482209+09:00",
- "total": 22,
+ "updated_at": "2026-09-14T20:45:16.340130+09:00",
+ "total": 40,
  "stocks": [
   {
    "code": "LILAK",
@@ -62,7 +62,7 @@
    "items": [
     {
      "title": "10x Genomics Stock (TXG) Opinions on Insider Selling and Atera Platform",
-     "broker": "quiverquant.com",
+     "broker": "Quiver Quantitative",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1Ria3hxU0ZkTDlvZWdlQkhZTnpINWJCSXB4M0owd09LcENOTE4zMEQ5VUc3Yk51WTRfelNzbFdSSDVnNmxSVXE5azlnV3NHUjlIX0hRS0dXNXR0dnVfeFkwTUFQUEVGUmxPbVJaWWY4RnYxeFlSWVY2NW1pVHBYaC14UHRuSGtNRWI0MVI0SldFdnVOZk5XNTdIZ0VoNzJ1Q0lwTkZNa2JlNl9t?oc=5",
      "kind": "기사",
@@ -86,7 +86,7 @@
     },
     {
      "title": "TXG Stock Climbs As Wall Street Hikes Price Targets",
-     "broker": "StocksToTrade",
+     "broker": "stockstotrade.com",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuTk5XN3JKTGxDcXhUYkdyODJtRXNhWGs0aGdleDN3dVA5LTBhZ2JQcnYtLXVhWkt3ZGozUkZlX0dsek1Mc21UUVYzdW9uYnhKMWotWjJZUENpeGJzR1JORWlUd2gwTFdtYmtNSmhNeENKblFSaU9N?oc=5",
      "kind": "기사",
@@ -94,7 +94,7 @@
     },
     {
      "title": "10x Genomics Gains as Investors Extend Post-Earnings Rally on Atera Demand",
-     "broker": "quiverquant.com",
+     "broker": "Quiver Quantitative",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEV4ak12dHpMcDk3WGw5NHlZcmNOZ2FMc2poNWM3Wl9CcGZQSkpYMkdieERTRjBlQjhxNTRId0hTdTdnSlJzRlJNaHFFdFFMVVFZbEFCaFA1dmNxQnc1cVl2V01adVBuNU80RElXRXNEV3RHelpCcUxaMEVaZEFGak9VVk0yaXZrVVFrYUVHUXlYc2FFVml6MUQ2cnl6UDNKSm8wc2xlaktzRmc?oc=5",
      "kind": "기사",
@@ -140,7 +140,7 @@
     },
     {
      "title": "HPQ rises as investors revisit upbeat quarterly results and higher full-year outlook",
-     "broker": "quiverquant.com",
+     "broker": "Quiver Quantitative",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkIzSVdGUXpsdlVFbEdRWThxTzZjOUVGUmFHZnZOVGRZQVNDOEtTcmJtN1lPNmlfMm9MR0FqamkyN1JUMGRoYnlNU2tmaWM0UGU3NTVzZ3ZOTzVVdE5fVVFVd1RDTGN6d3Q5b0txU2Fjb2xXcnZDT2x5U2V1RFZuZnFoYXotMG9iUzduREJSRnRfN3JiOWlGZHRHa0hTYkJkS1RRd3Y2cnl4ZU5EVWNmNzVIa2VadTNR?oc=5",
      "kind": "기사",
@@ -194,9 +194,171 @@
     },
     {
      "title": "AtriCure, Inc. ($ATRC) CEO 2025 Pay Revealed | ATRC Stock News",
-     "broker": "quiverquant.com",
+     "broker": "Quiver Quantitative",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWVl2cE4xMjZyZEN3X2NIUmowSnoxeDRpLTkwZ2lPeGlSOTEzd0JNZFYta0VZTXc2TjVXc3RCekdpOFo5TlFYVUozUXNYd29GLUI4WUdrZmg3WTZQS0JMcjZOMTBGaldESElvUl8ydnpoN1d0V29lQ3pRWTBfZ08wX0Z0Zl82NTgzbnV2MjB3?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    }
+   ]
+  },
+  {
+   "code": "APTV",
+   "name": "Aptiv PLC",
+   "items": [
+    {
+     "title": "Wall Street Analysts See APTIV PLC (APTV) as a Buy: Should You Invest?",
+     "broker": "finance.yahoo.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYjRoQkJMUDBiekhPc0VKMFZRVkVLenVUbGJqaWdqdmlheEE3ZVE1U1VyQlFNWE9PSEdDRHhTZEU1MnBoV1d0SlZBZkxhaGxqS2kwb0dkUklvb3F3LUg3SU5rbmVLdnZueWJQaW9Gd2hLWWRhb1FheXh1S19xTnpDX1I3aDNsdW1ZWm9JY2hOWjFvTEtjVjdsd0ttNA?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "APTV Forecast — Price Target — Prediction for 2027",
+     "broker": "TradingView",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aQ2Jodk53cEt2OUx2YjcyUUdmZF9hc1BnR0NDOVZsdFBpU2NENmdhLV9kVFRXVXhiRURVX0VXTi1mRmhXVkhvM2JDSHFsTzJraFEzRjMyVHZtUzFrejMybWRPVjZfSDZuWFNOVDlJTjQxbFlBQk0w?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Piper Sandler cuts Aptiv stock price target on non-auto growth",
+     "broker": "Investing.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkx3NjQzM1JEOERfNGs2SWNMOFI5c1dDbmV1RWltTkxWcW0zTWM3RW9wekRTVEZENks5VEVIUTZadzhpOGhvTko4eXRCNFdRaXRkOVlGUkRIRnRWOWtWMEdpVGVUYlFoTVMxV01fdlpTbkpLSHVzNFdNWk1acmZobjhaVmJwd196MVBfb3RvM0FXQmFlV2FPb1djZ1BZU0RzVFJKUEFMcGpNT0c2aU5KRXBHMWVtbUdDQjVHaWNR?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Is Wall Street Bullish or Bearish on Aptiv Stock?",
+     "broker": "Barchart.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnhnVzJPaHZIRTNSMmZZcFVLSE9zM1N6WFdkU3hlQ1k2cVZJX0RKZ1VwUXZTeXlpN3NaVFpfYnhFa1FmclU1akpsY3liRURRUXYxX0hnTmJaQXZrN0kwR2owY3g3VUl4M0ZSV0FGX2R5bEVUeHhoNGpJY1NDZFFxQ3p0Z283S3kzVzdSRlF6dG9WN2tTTXpJ?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Aptiv stock heads into the open near a fresh 52-week low",
+     "broker": "ad-hoc-news.de",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQThrM0VnOXVsT2VTNGVnN3pUb1lxVERpajFXTEU2VkZMR2RfM2hwbFZFSTJTQUFPMG5rMHRJa2ZIYU9kVC1acE1FRkxEQ1JQamlwYWFTNk5LY25ZbHRYRGFwYUNuU2tOZVFXY0NZRjhyVDRpdnlwa0kwdHNaVnp5U2xYdXhIeXZjVlJFaE1zT3BRTHlYMFlpWTF4VmVJTTlzQ084b0xLbjNvUXNFb21iRF9nX2tCN0FNd3A0?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "UBS Maintains Aptiv PLC(APTV.US) With Buy Rating, Maintains Target Price $80",
+     "broker": "Moomoo",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUhvZHhkZTVBTjJJNE5VWU5JNzNsMlpOUFVMeFU1UHBscnVFUG9tUV8xQ0NPTmVXdkktdWxJcEszaHc1NVZkR0ktQnlHbFVMZGJBR0RHaEZVVkFFcXotMUloTFlWUUx1UjZZbE5hWnVrQ0pKVjg4UDlsSW5XLVpzUmJ2cmo4TVpNUHhZWlRaTHFGdGN0clJ0WklYZXY5c3JYcmpCQV9Mamk?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    }
+   ]
+  },
+  {
+   "code": "ZTS",
+   "name": "Zoetis Inc.",
+   "items": [
+    {
+     "title": "Zoetis (ZTS) Stock Draws Fresh Price Target Split After Difficult Q1 Update",
+     "broker": "finance.yahoo.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0E3VU03WHpWbUt4RnNzODB1UnNmNTdQNllCZWRQZkRlNkRkYmxRR3dkOUd3QUpoWUFRT1gzbk4zRk9FUGktaXlBZU5xa3NIb2I4SFFKQV9LU213ZjdVeVlNN1A5MFR5R0NlbHZHWC1vR2RmU0pyZ3R5UllHUGpoSmJsdERWcEtpYWpXM29peTY1d2VyT1JheA?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "ZTS Forecast — Price Target — Prediction for 2027",
+     "broker": "TradingView",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qRHl6OVN2Q19jdDhoZDdxWDhoaTI4ZWZWcU9jWTFuckdiOFY5U0RoLXJESTFCZDlmOExMNU45UWcxX2FjSk9XMUQwZXhSTFc5eEFYRDVWZUJGbk5DQVl6eHVROHlULVJsWjVLeFdqbWU5aGlWemc?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Stifel cuts Zoetis stock price target on weak quarter, competition",
+     "broker": "Investing.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaV9Ubk1pbHNFbXU0a3lmdTZ0enRYT2pmMmdPVVM0QVM4Si1RVkxjOHBtRmgtRjdqUU5YNmQ3Z2FlLXFUSWVmVEIxcllOdlJXVnU4ZWVWMnN5dG51c09CQk5yTDNxNkJGNjVqcERYTDJtUXVRWldLM0dyVm50MGlmS3FrZUlkbWVRWV9SOXBhZkhZWGVmRGEydzI1SVB2dEdJNzFlNDFvbnU3S0dSdXdSTHJaZXUzTjBJTTdjVmVRMzVtS00?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "The Bull Case for Zoetis Stock as Michael Burry Doubles Down",
+     "broker": "Barchart.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTFnZ3IxYWRXLTFhbGZ1NVlsTzVULU9aTkZxMTNtZVNDbmNHRWJzWjhMa0ZtYm03cnRkQVMwbFZfWkpyZ3prSGNIY0Nqcy1QcERCUFVVczR0VkR6Q3Q1MjNOOHk2UFQtRGk5ZF81UjZfcldYU1pvbHdVNXNhME00YlBDMi1ZQ1NJSEVQQU5hMGhac2tRUy1DaUV6TFZXbWdsRk9HRmxqYw?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Zoetis Stock Fell 20% in Last Year. Do Analysts See a Recovery in 2026?",
+     "broker": "TIKR.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWdDWjVDMXMtaGRPY2d0TlY0aWZpUVd6NVlKUnpjZ0VoQXdrWEd5cms4Q3JwY2t3SG9ZODNBYlEwZ1dfVEJTZ1p4UWxXX0xGWUpubkhwc3RSTTRqRmNfVGgxbjJXOUNEVGRrTm5ud3VHWi01R1N0MHU3MDM2SmFBRURLeS1VRGZoTmtsMTVyc3o4OU00ZGZOMUtR?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Zoetis Stock (ZTS) Opinions on Q1 Earnings Miss and Guidance Cut | ZTS Stock News",
+     "broker": "Quiver Quantitative",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaGtYSVVkdUpBOW5oelU5SURIN2N4QmNEVGFyekR6MFN1RzJMUzhlTzQ0YlFlV0RvbVBFbGR6X3ktbHFXdDdRMmdEaUtISU5jTG5MMmU0VlJ1bzA2QmdPcDVlWUhVOW1vZ193SWtncVRDWGpBY3JXclFnNUxnQ2xqam1sUE1mNXFSRkpfZmNpMlRSdUYzaGhSaVJVdy1GTXpGYmk0?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    }
+   ]
+  },
+  {
+   "code": "PNR",
+   "name": "Pentair plc.",
+   "items": [
+    {
+     "title": "Do Wall Street Analysts Like Pentair Stock?",
+     "broker": "finance.yahoo.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzE5RXZ3YXlHRE1JbGl2WFJGQTZOMEtFcF93YWFNM0QyWGpwMHl6SkUyVlFqV3U0UF9rMml2cklOUG4ya1pRM3VXa3BNaGItd2psbm50d1dQMzB1Zlh1X0R4azM0SVJ0aWJvVVQ2VVMtVk9sREdTSWM3ZTVRTUd2OFpVdDBXZ19DY1VtOWdfZC0yQUZhN01Bc2JQOW0xX0VX?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Pentair plc. Stock 12‐Month Price Target Cut to $79.62, Implies 26% Upside",
+     "broker": "TradingView",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWRGRkNtejdtZlNOWmtUNUhWTzlFcEQxeko0Vkdka1B6MWVYM0RPWHlyamJROGFINUhyWDZLaHVlYklDZ09GZWRqMUMxT3hrNE45RWZYUEpyazBMSFZZYWh0T1N2VWlwWlIwWG03OHZqZ3RGazRZelJWeDRaUUZJRVQwYU1pb09FczlQeEFuaVhnd2xwQ0llamtMZFVUMkZ3Y3RTRnoyaHFVSXQzaTRjdFlySzRGbE5wRF9FZXlYV01JaEdjWmV4WmdQZUk?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Pentair plc stock edges down as lawsuits highlight pool segment risks",
+     "broker": "ad-hoc-news.de",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYU5admhYaEdGNW9WX3J5SzFNQkItS2RaOTVnaUZhVVhxNGhzTjVEN08zeFp0V3dpUU1VSE1RTGNiZDA0WnBqOWlQSFhLR0tBSFpieFlzVXF5WjZsLThmWmFrTHdXUVJWWVc3d2FYMGU3b2ZIMDhtZmp0QV95MmxYTXNXZW01NnNFNG16aXF1dnAzSUNJM25FTlNLckl4UEhiek85dGt5dkt1bEE3UkxaSEpxZ1psLUROcHVkT1BqaU5DLXhzWm1UNGJublo?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Pentair: A 12-Month Update With A Price Target Cut (NYSE:PNR)",
+     "broker": "Seeking Alpha",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXlHdmdTaVF4TUZ2UkxNUkZmQW9EZy1PVGNrZFVnRHZjdmtCaEw4TUhBVVRlLTl5MHpRRkItNnc3cEFnX29kQ1dpM0JKU1lYQTQ3X05iaXpGUHVnZkpGbVBoZXI2U0ppYnJDa0FWOFNqSDJJSUJ2R1R4RWk4YzVCMUtDYWhWZ0pRSEtGZ19rSUh3SnpBUGZ3?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Pentair Stock Forecast: Where Analysts See the Stock Going by 2027",
+     "broker": "TIKR.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczNkWmdOeTBqOEVTTS1fWmNQemtzZW5QWFZib2QxeThUanBqaG5YbzlpcDJWMDRlRGNUcGlodjJSWlpqSFRZcHJnS0x1RTRMZW14SF9yaFU4RmlSTGZ2WTZUa09SVERiMm8wS0JrNGs2YlFnN05GelY3NzNralRCXzM5UlZMWlhyR3RBcF93U2NobWZ4SlE?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "RBC Capital downgrades Pentair stock rating on pool destocking",
+     "broker": "Investing.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWx0RHQyRnVnRUtEaGM4RnhVdVRETWhPNEFZdEptRGJvSElLNHV5MUFrV1ZHQ0ZnX3NOOTRYNUR2Nl8wOWUwaXVyelZ2M29HcDB1WWZBb0h3LW5HM056RnV0VnVwU0dRNGF6eVRaS2FnbDFXYTIwWU5oX20xZnhyeDBlNmxBWWdRODNHRUZaanU3c01hQklUOFNSblQ0QlJXYXo5RERDV1prbWlwWDNtbWZzMEF4cVRaa1BJanNJUQ?oc=5",
      "kind": "기사",
      "dup_count": 0
     }

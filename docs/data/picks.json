@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-14T19:51:52.077331+09:00",
+ "updated_at": "2026-09-14T20:44:52.672074+09:00",
  "picks": [
   {
    "code": "LILAK",
@@ -44,6 +44,39 @@
    "score": 0.636,
    "note": "G2",
    "source": "신고가·물극필반"
+  },
+  {
+   "code": "APTV",
+   "name": "Aptiv PLC",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Consumer Cyclical",
+   "score": 0.791,
+   "note": "F8",
+   "source": "딥밸류"
+  },
+  {
+   "code": "ZTS",
+   "name": "Zoetis Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Healthcare",
+   "score": 0.689,
+   "note": "F8",
+   "source": "딥밸류"
+  },
+  {
+   "code": "PNR",
+   "name": "Pentair plc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Industrials",
+   "score": 0.674,
+   "note": "F9",
+   "source": "딥밸류"
   }
  ],
  "table": [
@@ -376,6 +409,182 @@
    "score": 0.381,
    "note": "G1",
    "rank": 30
+  },
+  {
+   "code": "APTV",
+   "name": "Aptiv PLC",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Consumer Cyclical",
+   "score": 0.791,
+   "note": "F8",
+   "rank": 1
+  },
+  {
+   "code": "ZTS",
+   "name": "Zoetis Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Healthcare",
+   "score": 0.689,
+   "note": "F8",
+   "rank": 2
+  },
+  {
+   "code": "PNR",
+   "name": "Pentair plc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Industrials",
+   "score": 0.674,
+   "note": "F9",
+   "rank": 3
+  },
+  {
+   "code": "FDS",
+   "name": "FactSet Research Systems Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Financial Services",
+   "score": 0.633,
+   "note": "F7",
+   "rank": 4
+  },
+  {
+   "code": "NKE",
+   "name": "Nike, Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Consumer Cyclical",
+   "score": 0.633,
+   "note": "F7",
+   "rank": 5
+  },
+  {
+   "code": "FISV",
+   "name": "Fiserv, Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Unknown",
+   "score": 0.621,
+   "note": "F6",
+   "rank": 6
+  },
+  {
+   "code": "CPRT",
+   "name": "Copart, Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Industrials",
+   "score": 0.542,
+   "note": "F7",
+   "rank": 7
+  },
+  {
+   "code": "STZ",
+   "name": "Constellation Brands, Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Consumer Defensive",
+   "score": 0.525,
+   "note": "F7",
+   "rank": 8
+  },
+  {
+   "code": "INTU",
+   "name": "Intuit Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Technology",
+   "score": 0.506,
+   "note": "F7",
+   "rank": 9
+  },
+  {
+   "code": "BF-B",
+   "name": "Brown Forman Inc",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Consumer Defensive",
+   "score": 0.498,
+   "note": "F6",
+   "rank": 10
+  },
+  {
+   "code": "PODD",
+   "name": "Insulet Corporation",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Healthcare",
+   "score": 0.485,
+   "note": "F7",
+   "rank": 11
+  },
+  {
+   "code": "TYL",
+   "name": "Tyler Technologies, Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Technology",
+   "score": 0.474,
+   "note": "F7",
+   "rank": 12
+  },
+  {
+   "code": "BSX",
+   "name": "Boston Scientific Corporation",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Healthcare",
+   "score": 0.464,
+   "note": "F8",
+   "rank": 13
+  },
+  {
+   "code": "APP",
+   "name": "Applovin Corporation",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Communication Services",
+   "score": 0.451,
+   "note": "F9",
+   "rank": 14
+  },
+  {
+   "code": "TSCO",
+   "name": "Tractor Supply Company",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Consumer Cyclical",
+   "score": 0.406,
+   "note": "F6",
+   "rank": 15
+  },
+  {
+   "code": "ORCL",
+   "name": "Oracle Corporation",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Technology",
+   "score": 0.341,
+   "note": "F6",
+   "rank": 16
   }
  ]
 }
