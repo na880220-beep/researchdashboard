@@ -26,12 +26,18 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: 오늘의 종목 선정
+        run: python scripts/make_picks.py
+
       - name: 뉴스 수집
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/fetch_news.py
+
+      - name: 리포트 링크 수집
+        run: python scripts/fetch_research.py
 
       - name: 텔레그램 발송
         env:
