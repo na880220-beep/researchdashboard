@@ -1,3 +1,4 @@
+
 name: 대시보드 갱신
 
 on:
@@ -53,6 +54,11 @@ jobs:
 
       - name: 오늘의 종목 선정
         run: python scripts/make_picks.py
+
+      - name: 결과 표 생성
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/make_tables.py
 
       - name: 뉴스 수집
         env:
