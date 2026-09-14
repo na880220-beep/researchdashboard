@@ -1,19 +1,59 @@
 {
- "updated_at": "2026-09-14T11:03:47.956592+09:00",
+ "updated_at": "2026-09-14T14:05:00.248844+09:00",
  "lookback_hours": 36,
- "total": 3,
+ "total": 22,
  "sectors": [
   {
    "name": "반도체·메모리",
    "push": true,
    "items": [
     {
-     "title": "샘플 기사 제목이 여기 들어갑니다",
-     "summary": "한 줄 요약이 여기 붙습니다",
-     "url": "https://example.com/1",
-     "source": "예시매체",
-     "published": "2026-09-14T09:03:47.956592+09:00",
-     "dup_count": 4
+     "title": "AI가 바꾼 반도체 판...메모리 비중 사상 첫 과반 [AI칩 인사이드]",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94dkN4YVJMcGd5bHFiSThWbUl4VHBLZlIwNXQ1QWt1Vmp3NHgtcW8tZDdkOHhJZkJRUW1oYTdOaHE0Z2tqaFZ6N0FwdU56R0U?oc=5",
+     "source": "v.daum.net",
+     "published": "2026-09-14T13:54:06+09:00",
+     "dup_count": 0,
+     "summary": "AI가 바꾼 반도체 판...메모리 비중 사상 첫 과반 [AI칩 인사이드]&nbsp;&nbsp;v.daum.net"
+    },
+    {
+     "title": "LG화학, 中서 반도체 세정소재 공급망 구축...AI·HBM 시장 공략",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yTmZyZVN0aWRYZzdQRVdUbmZBNHgwLUsxRGVldmx4eGU3ZkdhNGlrTXV5V3NJZkZKOGRBV1VpSno0TTZvaWUwbUo1QkFIdXFHV1NGVVl3bUNHRDVsR3FiRDNVSHFCUUpZa0RsYg?oc=5",
+     "source": "아시아투데이",
+     "published": "2026-09-14T13:50:07+09:00",
+     "dup_count": 0,
+     "summary": "LG화학, 中서 반도체 세정소재 공급망 구축...AI·HBM 시장 공략&nbsp;&nbsp;아시아투데이"
+    },
+    {
+     "title": "비싸진 SSD 어떻게 고를까?, 가격 상승기 SSD 선택 가이드",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53WVhLVHZXYWlwaXdMeHhZWjJGNXZyTm5STmdURDdiT3FxTWRzMU40RmpHYnBubmFWSVhLa0pPLWhzZHpqVWxiQWpFcmhYV3FVc1ZrWVNicXRjeHNqWEVtTVR1dw?oc=5",
+     "source": "보드나라",
+     "published": "2026-09-14T13:00:00+09:00",
+     "dup_count": 0,
+     "summary": "비싸진 SSD 어떻게 고를까?, 가격 상승기 SSD 선택 가이드&nbsp;&nbsp;보드나라"
+    },
+    {
+     "title": "피에스케이홀딩스, HBM・CoWoS 증설 수혜 실적 개선 기대...목표주가↑",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSXRmVGw5U09KVU13TUJMNGdJdXdEYzRjMmxiYWJ0NXgwZmtpVWxpUXNySGhVc1h1YV9PNk56VFNBY0MxNERsYnJuSHk5ZjVZU2ZQaF9mOUtsN1hMdjFJTUs2WmtZc1I2NTdF?oc=5",
+     "source": "ksdaily.co.kr",
+     "published": "2026-09-14T12:18:20+09:00",
+     "dup_count": 0,
+     "summary": "피에스케이홀딩스, HBM・CoWoS 증설 수혜 실적 개선 기대...목표주가↑&nbsp;&nbsp;ksdaily.co.kr"
+    },
+    {
+     "title": "中 HBM 추격 빨라졌다...한국 메모리, 기술 넘어 공급망 경쟁 직면",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jM3N1M1d6SWVRUmtRbFI3Zks0NGdhQjg2c1JIR2U5MERXeGxUVGtNOG9qTEdLa2UwZEJqRkFCLTU2bk5BelQzUERFcjdZdld2UDJhUmo5NGZSVDhrUjRLZ0ZQNlZsY1FobHFrWg?oc=5",
+     "source": "mstoday.co.kr",
+     "published": "2026-09-14T11:53:45+09:00",
+     "dup_count": 0,
+     "summary": "中 HBM 추격 빨라졌다...한국 메모리, 기술 넘어 공급망 경쟁 직면&nbsp;&nbsp;mstoday.co.kr"
+    },
+    {
+     "title": "'SK하이닉스 독점' 끝난 한미반도체, 실적 성장 여지 더 커진 이유는",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RWXE5VjNBZU95d0M4UkdJa0xHUW51YUVoZnQ0RDhzalNzOXlLNUtDUmZRZVpzaE5obk1CdkxhejN6MU8tNFBMaF84YUx2c25QeUFMY2g3R1VKc0xDVlBRUm5hV3FJajZK0gFsQVVfeXFMUHEzNXNXSlEyOVB5WkNnWFFJZk9Tbzktem9xR3YyYzFPLVBsVGtBOWFOamZDSnZGZjZyQzhqVFBwZkZ2dkRVZnlWamFhUHh5dnRJTDBVR01hajVsdzVTYUE3c3lMMGw2M1V4RWdB?oc=5",
+     "source": "bloter.net",
+     "published": "2026-09-14T11:19:06+09:00",
+     "dup_count": 1,
+     "summary": "'SK하이닉스 독점' 끝난 한미반도체, 실적 성장 여지 더 커진 이유는&nbsp;&nbsp;bloter.net"
     }
    ]
   },
@@ -22,12 +62,52 @@
    "push": true,
    "items": [
     {
-     "title": "두 번째 샘플 기사",
-     "summary": "수집이 성공하면 실제 기사로 바뀝니다",
-     "url": "https://example.com/2",
-     "source": "예시매체",
-     "published": "2026-09-14T05:03:47.956592+09:00",
-     "dup_count": 0
+     "title": "[리포트 브리핑]실리콘투, '이번 역은 유럽입니다' 목표가 58,000원 - 상상인증권",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkTGdPVGhTTUllNnJwYzNRd1Fpa1FIWnhSMXdNYWY0MDhkdDBJZzctcWlWaDNpUS16Q3Y3ZWhzUjIyZWxOWXlHamp5RFNkekZ5LXRURjRQZ0d3MklX?oc=5",
+     "source": "뉴스핌",
+     "published": "2026-09-14T12:20:00+09:00",
+     "dup_count": 0,
+     "summary": "[리포트 브리핑]실리콘투, '이번 역은 유럽입니다' 목표가 58,000원 - 상상인증권&nbsp;&nbsp;뉴스핌"
+    },
+    {
+     "title": "코스맥스, 증권사 목표가 상향에 강세...3.51%",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQnJDbzNiamNDZFRyal9IVHgyLUk0YTloaW5VTjBGLWNPTjRvVFA3YlJGWkdZV01VR1FXNURfdTF0eElWOENhRnVhcDA3a25OaEE?oc=5",
+     "source": "매일경제 마켓",
+     "published": "2026-09-14T12:03:24+09:00",
+     "dup_count": 0,
+     "summary": "코스맥스, 증권사 목표가 상향에 강세...3.51%&nbsp;&nbsp;매일경제 마켓"
+    },
+    {
+     "title": "[화장품신문 34주년 특집] 7 안전성·효능 모두 갖춰야 '진짜 더마'",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Tb2ZqSGdzZGRDRU9wcllxenFuQjVmN3oxdlAwTFJ2V05MN18xSjk3Zld0ZXZmcjlKZ0lvcnMwYTZBMW9VR18wS2hac3VFZEFYOVZ3aWxNLURVZUk4czZMM25mM09mY2VaMnNTR25jbw?oc=5",
+     "source": "약업신문",
+     "published": "2026-09-14T11:21:47+09:00",
+     "dup_count": 0,
+     "summary": "[화장품신문 34주년 특집] 7 안전성·효능 모두 갖춰야 '진짜 더마'&nbsp;&nbsp;약업신문"
+    },
+    {
+     "title": "[특징주] 수출 호조에 화장품株 동반 강세...아모레퍼시픽 5%↑",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tNWZILXJaV2dGVktkTFhWU3Y2UEp6bzRMeERwQmR3NEFBNkR1TXBrZzNVTzduSmZGelliZVhtZUwxWUpmQ2dNcjYwMVY3Y2VLUWRPckc3MUR2Qkg4?oc=5",
+     "source": "뉴스핌",
+     "published": "2026-09-14T11:06:00+09:00",
+     "dup_count": 1,
+     "summary": "[특징주] 수출 호조에 화장품株 동반 강세...아모레퍼시픽 5%↑&nbsp;&nbsp;뉴스핌"
+    },
+    {
+     "title": "K-헤어케어 수출 성장세...바이오인터체인지, 특허 성분으로 글로벌 탈모 시장 공략",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UQUU2dEpMUVdiYjVFcjhOQ1MzRE5lRWlGMXpwTjFTSnZzaDI0eFROSXlXdWdWRDJEZTRmaFM1a0lNQ3d0bUs0SEl5dVNOem9CVXVRUW5OZmdYX3NYUmdlbkYxM21Yc2pxVGc?oc=5",
+     "source": "뷰티경제",
+     "published": "2026-09-14T09:55:00+09:00",
+     "dup_count": 0,
+     "summary": "K-헤어케어 수출 성장세...바이오인터체인지, 특허 성분으로 글로벌 탈모 시장 공략&nbsp;&nbsp;뷰티경제"
+    },
+    {
+     "title": "[특징주] 화장품주, 원화 강세 우려에도 수출호조에 장초반 강세",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hNFNQQXMtZ1VIZjRVcjdqXzFOTlotVTA0V2xPQ2U3X3BDeHRhU3NCa1RNenFHTkNhbzhUM2RPRGZPU0NQLWhubGtBS2xsMExaVmJrSjlyVXZNMzZ3YWd0WdIBYEFVX3lxTE1hNFNQQXMtZ1VIZjRVcjdqXzFOTlotVTA0V2xPQ2U3X3BDeHRhU3NCa1RNenFHTkNhbzhUM2RPRGZPU0NQLWhubGtBS2xsMExaVmJrSjlyVXZNMzZ3YWd0WQ?oc=5",
+     "source": "연합뉴스",
+     "published": "2026-09-14T09:30:10+09:00",
+     "dup_count": 0,
+     "summary": "[특징주] 화장품주, 원화 강세 우려에도 수출호조에 장초반 강세&nbsp;&nbsp;연합뉴스"
     }
    ]
   },
@@ -36,12 +116,90 @@
    "push": false,
    "items": [
     {
-     "title": "세 번째 샘플 기사",
-     "summary": "알림 없이 화면에만 표시되는 섹터입니다",
-     "url": "https://example.com/3",
-     "source": "예시매체",
-     "published": "2026-09-13T15:03:47.956592+09:00",
-     "dup_count": 0
+     "title": "[Weekly 제약&바이오] 차병원·JW중외제약·동국제약·건강보험심사평가원 外",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wdXJJc0ZYSzNncmQ1NGQyaG14el9GbTJ6YTduVTFXNS1fLVpPVHJrMlByLVdBcmtuVmVhRUhqNnhBbFB2ZW9YSTVsek53b3BMMG5NM2xDdnNmcUFBUDYtcW9iWV9OTHVSQ2F1blhsZ3VPMWc?oc=5",
+     "source": "오늘경제",
+     "published": "2026-09-14T13:50:34+09:00",
+     "dup_count": 0,
+     "summary": "[Weekly 제약&바이오] 차병원·JW중외제약·동국제약·건강보험심사평가원 外&nbsp;&nbsp;오늘경제"
+    },
+    {
+     "title": "동국제약, 추석 앞두고 가족 건강 챙길 일반의약품 4종 제안",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sblFELWktWnk4M1lFbUUyME0xWEdybzlBUTh0SWJYQ2lhenQ5SmVwLTlUWUhPTlBQcnd2OVMxWHE0Yk5rSWVLdEVCRWE1d1ltamk5S2NNYVhybE9HYjZhY0IwUmtFaDdxMno0dUdFdw?oc=5",
+     "source": "리드경제",
+     "published": "2026-09-14T12:44:14+09:00",
+     "dup_count": 0,
+     "summary": "동국제약, 추석 앞두고 가족 건강 챙길 일반의약품 4종 제안&nbsp;&nbsp;리드경제"
+    },
+    {
+     "title": "동국제약, 추석 맞이 온 가족 건강 챙기는 '일반의약품 4종' 추천",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wcnBDQVZITkROcWJLT1BjXzliSXR2WmJualdVSzlINXh0MDBZOXZaUS1lNnZLLTNTanloLTNFSnhqa0FmSDhwRXJ4ZzM2a1FmdnhCR1FrelZlejNsOFgtM0Y4UXZIMG5kZXZ0SmYxaWEyUFNjNEFmM3pR?oc=5",
+     "source": "약업신문",
+     "published": "2026-09-14T11:04:00+09:00",
+     "dup_count": 0,
+     "summary": "동국제약, 추석 맞이 온 가족 건강 챙기는 '일반의약품 4종' 추천&nbsp;&nbsp;약업신문"
+    },
+    {
+     "title": "\"미국·유럽 다음은 중동\"...K-바이오, 수출 영토 넓히기 나섰다",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GcmFvei1BbF9ua0lyUjBwTm5XX1dSaXZZMWMyUGNud0VlcGV4OThaQ1RXYTNEaWtwVTRISTRCX3JUbEhLd2VmQkwxdHVsdHVNZ3dhOF9KVTRldGhhZ0lLTdIBZkFVX3lxTE15dFlEaWVsZ0dqdmRxMm1pY3gtbW1XNi0wdUhqWnhXVXUtV1ZDa2JKXzdqeGVnazBlckpBbXJucnNXOFpyLUFyeE81R25UQkNfLWJvUFRsTUIwZ2R6ZlZJeWphcnhhZw?oc=5",
+     "source": "뉴스1",
+     "published": "2026-09-13T11:27:52+09:00",
+     "dup_count": 0,
+     "summary": "\"미국·유럽 다음은 중동\"...K-바이오, 수출 영토 넓히기 나섰다&nbsp;&nbsp;뉴스1"
+    },
+    {
+     "title": "동국제약, 독거노인 구강건강 지원 프로젝트 ‘잇몸의 날 324’ 성료",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tQVdrQVFMNG5vQlRVb29RYjZTa1RCNXllMFlKQTBlbmZqc3FVeklUNktjRHJ1ZENPcG51aFNqMG40eGZFTXplLXZqb3lIeE5fQmppRGJRRlNZQXNOZDlhbWdqLVZMcVFDM1A40gFvQVVfeXFMTjd5S1A3Ymx0RGhsNUk0dy1TSmNPTmpwb0d2b3l5OFJCNk9kY2tlUWplaS0zcWFfMTVoVkNIbG43b2diOVRCNnRPTm9MQk85RUZWQjBvbVlRbkhmVHhOS2s0b0RTYU9INnVrQm94V0xR?oc=5",
+     "source": "더퍼블릭",
+     "published": "2026-09-13T09:32:12+09:00",
+     "dup_count": 0,
+     "summary": "동국제약, 독거노인 구강건강 지원 프로젝트 ‘잇몸의 날 324’ 성료&nbsp;&nbsp;더퍼블릭"
+    }
+   ]
+  },
+  {
+   "name": "전력·조선",
+   "push": false,
+   "items": [
+    {
+     "title": "금호건설, 수원 파장1구역 재건축 수주... 공사비 927억원 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNy0tZlpwQm9YMEp1Mm5sV0hEeV9mTWZqN09mZGRhdzNPZEwxZENjT2I1VXRpT19zWGVsYnU1ZXlMMkZaYWhLOXdCZjRoSUxpbGRnVWtaY0E2MWI0NnBoOUFpSmtvazJQREJSTjhRdU1WSS16cEZyU3hnbGN5N1VRVTBSVzhQcS0yUnZNR00yTU0wOHdYNDN5Q9IBrAFBVV95cUxOVThpeFVDN3ZoY08xQnZhWmxQNFdleVdzcTNsSTNoNjFOeHNIMmFwM3VCRmpUWEJtMGxZdUJub1RneVl1NEJQVGhZZ2dCVFNMbF9mSHc3RnE2Y3FlOWpYczVUbGdOVlZxeUoxSUhjSnV4b1ZyY0ZHdzlSV1JVSGltbGdncUdBc1lzNi04UGZET2FuRmpyTU1hM0ZHaThVQUFXem9naE44T25RbWFN?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-09-14T13:40:00+09:00",
+     "dup_count": 0,
+     "summary": "금호건설, 수원 파장1구역 재건축 수주... 공사비 927억원 - 조선비즈&nbsp;&nbsp;Chosunbiz"
+    },
+    {
+     "title": "'26년 상반기 공작기계 수주 1.8조 원 돌파... 전기·전자·조선 설비투자 '폭발적' 성장",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14c1JZa0JVeUtneElhek5XUHo3MVI4RjFPVE9mR0wtNGZjSHEzelctMEg4YVJfcmFHNVV3NGNiZFNNYXVrUHlOS0ttZ09nWHFWSWw2SU5hNnE5WDN4Wjd1VFhxbjZGZ00?oc=5",
+     "source": "기계신문",
+     "published": "2026-09-14T12:00:09+09:00",
+     "dup_count": 0,
+     "summary": "'26년 상반기 공작기계 수주 1.8조 원 돌파... 전기·전자·조선 설비투자 '폭발적' 성장&nbsp;&nbsp;기계신문"
+    },
+    {
+     "title": "삼성중공업, 20만m3 LNG선 앞세워 1.6조원 수주...연간 목표 128%",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sUVZSeWxvNjVkM0NKSHpKOEo4TG83RXY0cGdTZ2RpeHNsSDN6bnA2M2M0WVBMWkctT0w0SWpUTXpDcHd5cjQ0NHhKTEprQUlkMWVteGdSOWFGX3VIcG9DcG9uVWpCajctd2VIWllUM0k?oc=5",
+     "source": "거제타임즈",
+     "published": "2026-09-14T11:48:38+09:00",
+     "dup_count": 0,
+     "summary": "삼성중공업, 20만m3 LNG선 앞세워 1.6조원 수주...연간 목표 128%&nbsp;&nbsp;거제타임즈"
+    },
+    {
+     "title": "삼성重, 대형 LNG운반선 등 1조 6476억원 수주로 작년 실적 추월",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LQk1Ed0Z4RG90WVJmRzFEbFRqdkdYQkIzRjlXakUzay15VWRiVEdSMXNhRmVtNjBrNVVBYlJ2WDdvMzNPRkxGcWdCUTJuR09IdTlxMTdTQzhWdVRDMFJtQ212a3NBSWxLWVQ0?oc=5",
+     "source": "새거제신문",
+     "published": "2026-09-14T11:06:03+09:00",
+     "dup_count": 0,
+     "summary": "삼성重, 대형 LNG운반선 등 1조 6476억원 수주로 작년 실적 추월&nbsp;&nbsp;새거제신문"
+    },
+    {
+     "title": "삼성重, 1조6476억원 규모 LNG운반선 4척 계약...총 44척·117억달러 수주",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DbWJrOVJSV2pWQ0U2VGNnM09Oc2dDQjV2ZnotbE1OZXdFOWFtaXdHLWY4bTZZOTFpd3JuM01xNEFrQy0wT1JKOFVWNHlLc05DVWZpYWhSMGtxVV8yQjllMU1EdzNFdkh4SHlwXzN2VWlTY2M?oc=5",
+     "source": "거제저널",
+     "published": "2026-09-14T10:59:48+09:00",
+     "dup_count": 0,
+     "summary": "삼성重, 1조6476억원 규모 LNG운반선 4척 계약...총 44척·117억달러 수주&nbsp;&nbsp;거제저널"
     }
    ]
   }
