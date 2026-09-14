@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-14T21:03:17.327378+09:00",
+ "updated_at": "2026-09-15T01:03:12.079965+09:00",
  "lookback_hours": 48,
- "total": 87,
+ "total": 84,
  "stocks": [
   {
    "code": "LILAK",
@@ -10,112 +10,63 @@
    "strategy": "신고가·물극필반",
    "universe": "R2K",
    "sector": "Communication Services",
-   "score": 0.711,
+   "score": 0.706,
    "note": "G1",
    "source": "신고가·물극필반",
    "items": []
   },
   {
-   "code": "TXG",
-   "name": "10X GENOMICS CLASS A",
+   "code": "LFST",
+   "name": "LIFESTANCE HEALTH GROUP",
    "market": "us",
    "strategy": "신고가·물극필반",
    "universe": "R2K",
    "sector": "Healthcare",
-   "score": 0.677,
-   "note": "G2",
+   "score": 0.628,
+   "note": "G1",
    "source": "신고가·물극필반",
-   "items": [
-    {
-     "title": "10X Genomics Inc (TXG) Stock Price Today: $68.41",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nMm13eU1qXzZSUjdidjUzbDVXZlBpVURvRjhOUFJ6RkFfZmxmWW5QNjFRNVNYUlNXYVEtUnNRQUQ1b2VsMlZyVnBGbXpWbk9fc05nSmtCeGo?oc=5",
-     "source": "pluang.com",
-     "published": "2026-09-14T16:54:53+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "10x Genomics Stock (TXG) Opinions on Insider Selling and Atera Platform",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVc5cy1nNURoRzE3VmRiVnctVG5ZVEVXV0tFOWl3Z1R0Wkw4M3BlM0VLbWVUZlNLZnlCLWJVbW45X1NMbmV1MDFxUVgwakVOZmc0OWkyWkRUVVhJRmEyenpqQkpVR1B2VFZRTWJCN21BR1RvMUpTMXRjd3FtMUhCNlNrWm9wRWUwVnFHMmdVcEhQZUxabjA3T2t6Skx4aUxyWEV3Tg?oc=5",
-     "source": "Moomoo",
-     "published": "2026-09-13T16:35:05+09:00",
-     "dup_count": 0,
-     "summary": ""
-    }
-   ]
+   "items": []
   },
   {
-   "code": "HPQ",
-   "name": "HP Inc.",
+   "code": "HUM",
+   "name": "Humana",
    "market": "us",
    "strategy": "신고가·물극필반",
    "universe": "SPX",
-   "sector": "Technology",
-   "score": 0.669,
-   "note": "G2",
+   "sector": "Healthcare",
+   "score": 0.583,
+   "note": "G1",
    "source": "신고가·물극필반",
    "items": [
     {
-     "title": "Best Income Stocks to Buy for September 14th",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTDhOenczc2dQS1diNEl0MHFrTVZMTzV3THg1eG9sRVBFTWZ5aGc5ODItMXR1RkVnQU9JbUhHVXJWbFlzcW1wZjdhZGNHREtVdmRadkJMLURxMzBSUWludk1ObldrLUVZdkJLdDhQMEppNnVaUjRWb3JqcmRyQ25ZQUl2OThtQmMtSlNBTzhMTE9nU0t5Njh6aXhRejdUQ0ZyQ1pGOWdsNzY4MS1lcHg1N0hwaGROQThOY2VJVFo0b1B3QTh6RTdJ?oc=5",
-     "source": "The Globe and Mail",
-     "published": "2026-09-14T19:44:43+09:00",
+     "title": "Why Is Humana (NYSE:HUM) Back in Focus After Its Dividend Move?",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjV4eFU0dEVlbnNqSVIyV3NKaGFkVkw3T2Ywd1dpZkwtOVIxLTQzX3h5ekpuMldFUzV1Q2tPcW41RUN0S1hGRy1QZ1d2UUlMbVRReml0amhHemxDMXBpS1ZFbmcweGJWMWFQOGVSNWxiYkhzQWhrWWh3VF8wcnVDMnh2a2xETXdIbFpweGk2LVYwVGtBYTRuQllDRk9zUzFPcHlvWE9KMU4?oc=5",
+     "source": "Kalkine Media",
+     "published": "2026-09-15T00:19:00+09:00",
+     "dup_count": 1,
+     "summary": ""
+    },
+    {
+     "title": "Ali Dowd Appointed VP, Medicare Market Operations and Business Performance at Humana",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkdXbTh4dzVQLXZDbDRISXhnRmxIQUlxSGVJOXJGbDV1M3NFNTZHTktJSWpjQ0FrQm1zM3MyUWJVVUxydG04ZXpMbUtCRXBHalZRX0pPUmJ1V2toVld0R0pPbFo4cjh1U19jcmFUNjE4ck9WXzVzRmpKSllLR3pDX2g4NnlSQ29BWTBzdzhPZG14V2N2Zl9ZazgyWFp3bzVOR3dBSWlB?oc=5",
+     "source": "hrtoday.in",
+     "published": "2026-09-14T15:39:29+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "Why Is Hewlett Packard Stock Falling Monday?",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHBPZ2VtUFdwVzZaR0tuZ20zU3lxY1Jmemh2cDFjTVpxN09uRTEwcEdicEFPX1I3aGVsUDIwdjZaUndwWWNVZXJ6c3JUbHNXTFRYT0d1WlZqVk82T2NkMndUdFBIajRPQnNKOGJ3dE9vVWtLek15YWNHaVZtNmI1RjlKVzZuRVkyaTlJQWdiNlpfQk85cUNQRmZjc3ZaYXlGYlZaWGx6OA?oc=5",
-     "source": "Benzinga",
-     "published": "2026-09-14T19:43:29+09:00",
-     "dup_count": 0,
+     "title": "Humana (HUM) Declares Dividend, Is The Premium Already Priced In?",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGc5dEprNnJ1UU5ReThudkpWWExrY1ZheHJpaS0tcWduNER6cFRQaTRQQnc0clh0RGlkbFhacHlGYjYwc0hnX3JPRUJfTlRZNjNlLVo1TDJWaFAzbWZhZ3dldGZzaC1mSzBhdXFIc1d0eGFwOTJ5S21EMDJmTHVMd2djTlpkQnFkWlpNVGxaOVFxbThTVEpjQ0lBTHR4SzJlTUZ0S2pUdVZHd1BNb3lvX0F3U0d3VWFKd0l6a0ZNS1ZHd9IBxwFBVV95cUxQbG9yRWw5QkNFSUpneGV3UlFGdUhvYnpvUDJYb29wV0hiYy1kOWdyWG5zdFU0b3dNak93cTRGcE8zWVd0bHNqWTdfZGtfS2R1SXpDQ19taEhBbHNTSndTeGpRUUpSR1lFZEk4cjFQZmlUalNkUkdKdW9xMzluWFJOSFl2MTYzUzVhYklvNjV1bUR2Y050SW9XSWpMZGJPQS1DZWVZS2FBbWs0U0REcU5rcUV2SVJFZlp3am5tR0c4WmRMV2tRRHNZ?oc=5",
+     "source": "simplywall.st",
+     "published": "2026-09-14T08:35:54+09:00",
+     "dup_count": 1,
      "summary": ""
     },
     {
-     "title": "Mid Cap Stocks At 52-Week Highs: Friday’s Full List",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkxtQ1hiakkydDJlcVVtRmctMDctM2lid3MycDBUbE4ySVNiT0VHUHIzYXZrMXRiRGVJdm9HYlZQdWdrYU9LN2NFSU1WUzhVcnJfQjJENmxzX3A1ZGMzMWFyclR4ckxzOWRWZkhwbUZsRDNpanFSQW9FdDFneGlreHltOHZKY1VMUHRoQ1EtODh0cDlJYXpaT09xaDI5Um9kd3VjbzdYN29rcVYwdWVwcw?oc=5",
-     "source": "Trefis",
-     "published": "2026-09-14T14:27:09+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "Why Did HPQ, DELL, VLO Stocks Surge To 52-Week Highs Last Week?",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG92ajZWd3ctT1VLeEhEY1QtNFZXRlp0X3I2OV9fVUt0NlVOWGR4ZWhnTVM4UlhMa0VqRzc5bUdjMWRqMFpZeVNRWkhXZnQyYWxjS3lPRjVvMHlSWnJDVGJSeU9kQklyZDNBa0J3ak1QdV9XeWswaUlob2U3SlhBbW91czdIb2pyOHRiZEN2QTF2TFE3YUxXZjBZdWhENW01X010c1g4NjhodWdkX2doUEIwT1dGN2tweVNhSWtFbEtWQQ?oc=5",
-     "source": "Stocktwits",
-     "published": "2026-09-14T13:43:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "HPQ Beats Q2 Estimates But Lowers FY26 Guidance",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMy1mdVdLWkVybVBEZXkyb1JXWllnTmp4MXRmTFFUMzQ1Z1ExaWdVeElnVEFPTEh3UnMyaWZ0YjBnZ29nWVlWQzlvX2YzbGZXNHZaZWsteGlHYzNkcjRGd3RiV3VpRTdELUdNVFc1LVFjRUlGNnVKUGpHNlV5cW5YUmhJLWMtVUxjOHNycEJPdFJvTzVmWXE1TE9BWFVKLUZfVnQ5WHBxUzFIN0ZiY2MwT2dLS2tjSC1KbXR4Ul9DelpPVHEw?oc=5",
-     "source": "Stocktwits",
-     "published": "2026-09-14T09:04:58+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "HP Inc rStock Price, RHPQ Price, Live Charts, and Marketcap - Coinbase Germany",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRHZpYlZKdFBONnBVREdsWG9nc2otdGt1MEgxaFhpZnNRQUNwdXB3WFlmSVRiYVQ3cGhSbHRManBsQU9xT0xhLVBvTjJPM2VmMkkyRmFJX2otQ3paR25v?oc=5",
-     "source": "Coinbase",
-     "published": "2026-09-14T00:11:59+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "HP Raises Outlook as Premium AI PCs and Tariff Refunds Boost Results",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHRVWF9DWmtpTnZGLUo1WXlyZnpQdHJqZ3BVUHMtOEk0NDhhemVPTjVCdjl2TXpHN05BTzJWQzI1UTlsUjVuRE54WDJ6emtHSDRBNFpKZ0JrSWxQOHZWdlQwbUIwT0tMZ0o3LTNLbDhfd0ZuR1FZR2JTMjJkdHRCalN5dDhMSzhQNXF0WF9RcjdaUkU?oc=5",
-     "source": "Yahoo Finance",
-     "published": "2026-09-14T00:01:58+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "HPQ Stock Logs Best Day In Over A Year On 3D Printing Push: Shareholders Back Expanded Incentive Plan",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVQxTVJRWHp2UE9vaDRUSWpmWTRMR2hFbDUzb2didTZva2J4YzhEWU1xV29mM0ViRHkzOU9yekRtT2V4X0RxLUtRT0dWdzJoTmZmTWdqU2hJeE5UWm1hTXhlNC16dWxBZm80LXZrNUxTelNESlYzMVdVbHZndml4NFpoeXNjbDcxaVh5ZExDcm5xZ1lqR0pGYkhNWklNQ1NfTWtWbW8yT05KeS1QZFFaWVJJbHRLdGxMUmlZUF9QVDg?oc=5",
-     "source": "Stocktwits",
-     "published": "2026-09-13T09:22:41+09:00",
+     "title": "Mark Cuban’s Cost Plus Drugs teams up with Humana on employer drug costs; resident physician burnout hits three-year low; symptom-based dosing gets opioid-exposed newborns home sooner – Morning Medical Update",
+     "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNV0NlSGZXeVY5bUR4TlF4YWFVQmxBMnZFMlJpM1VBU3JGWXp5RGh0QWRjN3JRQ2xwOGR3WnFBUGZVclVqU083MkZGSEhvU2o4NzBoRGNQLTNLOHgtd2V1bmN0cUt1NXBOQmR0LVlaRVlzcEZObE9tMGttcGF1NW44ajktcEVvbTdaNGUyQzRhSG5WTl9HNTBZR0pWQWFjRmVmd2NjQmltTDRfUklRSEk1TE81SElvNWhnSWtFcGJuc3hYc0ZiMmxVQjMtU3hnMDV3VUFHMDI1S2tjRG1JUmt2LVI3OGpYQnRhajBfNXZoVWdkaktqdkhYdVRQbXNBWGs1T2dPZGNVSlYycEtaRXg4c0I4WlQwa3p2RC02cy1pdTFKc0FubGtaTHlSeGNpUU5mSlpCYnRHWGpUdnVBQlQxVkIxRlEwZE9aWkpvNFE1TkRla3djZ1ItLUFrWTBlZWs?oc=5",
+     "source": "Medical Economics",
+     "published": "2026-09-13T15:09:25+09:00",
      "dup_count": 0,
      "summary": ""
     }
@@ -128,10 +79,26 @@
    "strategy": "신고가·물극필반",
    "universe": "R2K",
    "sector": "Healthcare",
-   "score": 0.636,
+   "score": 0.579,
    "note": "G2",
    "source": "신고가·물극필반",
    "items": [
+    {
+     "title": "AtriCure stock hits 52-week high at 55.83 USD",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEpIY1R2WW02akxjb0RzenluRDU2QW9KXzFlRi10OHYzVUtvNEtLMWZ6OVBiQm5qN1hOY0kweURFUkZTS01MMTB4YVRKRTdsUzg4WlpKdl9nb2phRkRMVG4zNW5TdkpnTlBaa2NmQl9Daks0amktYWk0WEUxLW9xTS1zY1JhbnBHRnhBT3g0WGN6ZkZnOHZScDFVNUtlbmwtNEE?oc=5",
+     "source": "Investing.com",
+     "published": "2026-09-14T22:53:10+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "Is AtriCure (ATRC) Stock Outpacing Its Medical Peers This Year?",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnF3cUE4YUlzSWtTSHVFeEs4QkZUemxtcmFFaDVNUTFrQ1lSc1BuSjZ1akRwOFk4cXV6ZFZjXzdPVzVXLUJhSWM5aWhkMFk3Y09EVGRUU1BmQTBOcmdpclQtRFRUMEt6SVRnVHNQSzNwUUJ1V244MTE2eHFreGZEMkJVeDBURWQzdUM5QmNpcTdzc21oSXBTU0Ezb0VTYTA?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-09-14T22:40:05+09:00",
+     "dup_count": 1,
+     "summary": ""
+    },
     {
      "title": "Top Anbio Biotechnology (NNNN) Competitors 2026",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLTRaRU01dV9IVHMxMl9yQTJQc0VfVnFwOWJRcWNCcEJlVGU4b1hBdmdWNGpOejlUYTJNa2xBbDA1Q1prUWNVeFR2QnhPQ1dkcHJQYk02SURzOElfanRBVjl6eThaN1dyb1o4NUlYUEZwc3pzX0tpLXJGMDBxVEJHcA?oc=5",
@@ -151,7 +118,7 @@
     {
      "title": "AtriCure CTO Sells 3,657 Shares",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFlLTm1fYndVVWl0dzBSdEdpOWllamROSHM2VUtRM0d4T09MOGR5aTBnd3FsVHBneVN5MTh2Vm5aSVFkY3lBR2tlQjBJSEVLa2FjZmp0a3c0bkVZNjFWeUpCbWFPUjBzRGtURGYyWmM3TW9IREp0SVJjNVBsUktqWXRqWjY1S0dW?oc=5",
-     "source": "fool.com",
+     "source": "The Motley Fool",
      "published": "2026-09-13T09:45:00+09:00",
      "dup_count": 1,
      "summary": ""
@@ -165,7 +132,7 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Consumer Cyclical",
-   "score": 0.791,
+   "score": 0.796,
    "note": "F8",
    "source": "딥밸류",
    "items": [
@@ -194,7 +161,7 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Healthcare",
-   "score": 0.689,
+   "score": 0.678,
    "note": "F8",
    "source": "딥밸류",
    "items": [
@@ -231,10 +198,18 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Industrials",
-   "score": 0.674,
+   "score": 0.664,
    "note": "F9",
    "source": "딥밸류",
    "items": [
+    {
+     "title": "PNR Investors Have Opportunity to Lead Pentair plc Securities Fraud Lawsuit with SBS Law",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX2hQdnVHX1RlUGY2S1dheXd6WFNNb29sbjlyak1xX0FkNGVEcVpGLVRqdUJjemp4TnU3aUVaTkxLenU4RFVVT3NLNktTN3l4XzhwcHJqTDBIbFI4ZmQ3cG5kRHJMRmh6QzVBN19tbGxWWFVLMnVJRjRLMm9pNVd1clFodUlyd1BLVGcwdHNEX09ZZXc1ckxISWZLZXZIaDlmM1pUeUFnYUtfNG91RkVaUWdVY1NJWXppbDNTcmhrZVR4Q1FwY1U0NHB4dks4ZE1uaXYwT2YzcUthaGlyMWZpTFpCRWZsaHVUUzVKVXJLM1kwQQ?oc=5",
+     "source": "GlobeNewswire",
+     "published": "2026-09-14T23:39:34+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
     {
      "title": "Pentair stock heads into the open after a modest decline",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdW80QTlhdG9mM0p3VlRpc29xZWRLem1IWVhyVFh4a3I1WmJTYW10SGtTMDF5Nl81WS0xT2lwdWROQktYQy0weEJQUFRzNGtjY2hmQW9UcHI1UDlUbzIteEpOMFRaS2ZPUkc3UlozTkp6anNBbFZyeUYwS1VfXzRNNGtKcV8xN005NTZ1R2R5bk5oWUJxWTU3U1hCVFlUZnpXenoxXzJVd0RHMTJXbFFBYktER0F6WXMwMHNR?oc=5",
@@ -251,6 +226,14 @@
    "name": "반도체·메모리",
    "push": true,
    "items": [
+    {
+     "title": "마이크론 주가 상승세 멈췄다···다시 모멘텀 살릴 한 가지 촉매는?",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNZ1Z1bEVjYmN2UE1NNTNIOTlRaW9yV0JncGFYRTg3UGhab3FNNXV3aVJ6YkZmNXlJeGJtQ2h2OWFXbGxRRXRPVWdIRXlwTTdzbkxQeW1BQ3U1S0dVRVpzUjJjM3M4Z1NCVHVVejB3dFIzX2dlTmdwWi1WNVBFa2Rya0xwa3FvbTVJeTdOU1NhUlVGdnBiY2JUbXRqREdkSWV1bkhHYkl0RklPa0VxT190RGIydlAwRWJYRE5GcGoyVVpZdjhHbnVzd1N2SVRuUkhTTFRJc25aeDQzNHJOcTV4cXREYmROTjluc2JFdWUzQzhZUlNwb2xCcnF1eHVwSWk3Z2tReGRKRy1wSE1YOU92c3N1akJwSElYdmZqd3FScWJzMzQyWVltT1k1OU9jVXh0TFVXaEVxMF93ZjZvUHU4?oc=5",
+     "source": "Benzinga",
+     "published": "2026-09-14T20:44:17+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
     {
      "title": "LG화학, 中 장화웨이와 반도체 세정소재 협력...AI·HBM 시장 공략",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Ni0zbU0xaVEyWnZ6d3ZJSzU4Y1ZOdWdxTkoxbE5zVTJTMmdpQXNJSkgzMXJSNEZCT0xEelJndElZYkhQZGJmZklLaEl2WXZOaFZzNFJ3QlN1S0ZYbGtISG1HbjBLQl84YWh6Mw?oc=5",
@@ -334,7 +317,7 @@
     {
      "title": "[반도체포커스] HBM 8단에서 4단까지 내려오나...‘대역폭 효율’ 경쟁에 셈법 복잡",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iZm5iYVdOMmtfYWE0M0pvcDUwNDVQQTJoSjJCMTRGZk1vcVNtZDA2TVBwV1dLWURLS1hLTVVveVpCMHBuZTlYaW5oV0Iwa2dwRU5TSlZ4RVA4ZllVdHNpM0VMWlF4ZWZIWTFmbkdoU1A2UW0tNGlZ?oc=5",
-     "source": "economytribune.co.kr",
+     "source": "이코노미트리뷴",
      "published": "2026-09-14T15:59:56+09:00",
      "dup_count": 0,
      "summary": ""
@@ -364,26 +347,10 @@
      "summary": ""
     },
     {
-     "title": "마이크론 주가 상승세 멈췄다···다시 모멘텀 살릴 한 가지 촉매는?",
-     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNZ1Z1bEVjYmN2UE1NNTNIOTlRaW9yV0JncGFYRTg3UGhab3FNNXV3aVJ6YkZmNXlJeGJtQ2h2OWFXbGxRRXRPVWdIRXlwTTdzbkxQeW1BQ3U1S0dVRVpzUjJjM3M4Z1NCVHVVejB3dFIzX2dlTmdwWi1WNVBFa2Rya0xwa3FvbTVJeTdOU1NhUlVGdnBiY2JUbXRqREdkSWV1bkhHYkl0RklPa0VxT190RGIydlAwRWJYRE5GcGoyVVpZdjhHbnVzd1N2SVRuUkhTTFRJc25aeDQzNHJOcTV4cXREYmROTjluc2JFdWUzQzhZUlNwb2xCcnF1eHVwSWk3Z2tReGRKRy1wSE1YOU92c3N1akJwSElYdmZqd3FScWJzMzQyWVltT1k1OU9jVXh0TFVXaEVxMF93ZjZvUHU4?oc=5",
-     "source": "Benzinga",
-     "published": "2026-09-14T15:38:01+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
      "title": "LG화학, AI·HBM 소재 시장 공략...中 장화웨이와 맞손",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JSDB5YlRuTDNMNEtqNWlWeG9wVmtyN012TkRkZkFoTThNWDRPNVJoZmZIa1Q1TUZwZHZlbDlxeGlTaXUxV0VfcmlzdEt0Sk9HUVREOElldnExaE41Undzd0pZV3lIRTdJeFpaYUtGc9IBc0FVX3lxTE4wTzRaWDFyeDhDMmxySzU3THJTeTZKN2pEdEhoVnJKSndMdkFSdkFpTTg0ZllFU0hKRTgxcXZUMWw3M0ZMU3FQTmlNcEtQZVV3bUxRMWVoMTJkT3lsQmtlNTI4U3N6a0hET294ZE1ET29QUFE?oc=5",
      "source": "데일리한국",
      "published": "2026-09-14T15:33:54+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "수익 vs 시장... 딜레마 빠진 한국 반도체",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZG1hcXdWN05FaHVKVy1PWVRRVU5tV2ZBVk1kNmM2UExGTDdaLWNuVXQ5YmprOHVldWh3UnA5bFJrUHhrQV9HcjNhbE1HdDdDalV2WHAtU3o0dFNlZkE?oc=5",
-     "source": "아시아타임즈",
-     "published": "2026-09-14T15:00:00+09:00",
      "dup_count": 0,
      "summary": ""
     },
@@ -410,6 +377,14 @@
      "published": "2026-09-14T11:53:45+09:00",
      "dup_count": 0,
      "summary": ""
+    },
+    {
+     "title": "'SK하이닉스 독점' 끝난 한미반도체, 실적 성장 여지 더 커진 이유는",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RWXE5VjNBZU95d0M4UkdJa0xHUW51YUVoZnQ0RDhzalNzOXlLNUtDUmZRZVpzaE5obk1CdkxhejN6MU8tNFBMaF84YUx2c25QeUFMY2g3R1VKc0xDVlBRUm5hV3FJajZK0gFsQVVfeXFMUHEzNXNXSlEyOVB5WkNnWFFJZk9Tbzktem9xR3YyYzFPLVBsVGtBOWFOamZDSnZGZjZyQzhqVFBwZkZ2dkRVZnlWamFhUHh5dnRJTDBVR01hajVsdzVTYUE3c3lMMGw2M1V4RWdB?oc=5",
+     "source": "블로터",
+     "published": "2026-09-14T11:19:06+09:00",
+     "dup_count": 0,
+     "summary": ""
     }
    ]
   },
@@ -417,6 +392,14 @@
    "name": "화장품·수출",
    "push": true,
    "items": [
+    {
+     "title": "'올리브영'이 키우고 '실리콘투'가 세계로...K뷰티 생태계 확장 중",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10Mmg4VlprZG1lMmxxdFpuTDhGVDNSblZiY2J4dGNnbHR5TmpHWGxpWjJWcWxweE8wdWVuMlVVWkFsYVlxSkxaSV9BRGk0UURBYThKZGRqZzdzME91bGV0TDVwQl9SMFpGX2ZBZHMtSXlwdERzMVE?oc=5",
+     "source": "어패럴뉴스",
+     "published": "2026-09-14T22:00:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
     {
      "title": "K-뷰티 빅5 한 달 수익률 보니...코스맥스 1위·아모레 2위",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jV0tUSWN3WGMtMEJRNUZFWjFoNVllSmhONVk2RzJ4aENjaW9zbU12ZEFtLUN4a3V4RGpHT1Vra2N6Zk9QVzhuWG05ZlRqZ25uSWUzS0doQmFyeUtpV1dhYVZnR1FPY1lTVWc?oc=5",
@@ -436,16 +419,8 @@
     {
      "title": "[화장품신문 34주년 특집] 7 안전성·효능 모두 갖춰야 '진짜 더마'",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Tb2ZqSGdzZGRDRU9wcllxenFuQjVmN3oxdlAwTFJ2V05MN18xSjk3Zld0ZXZmcjlKZ0lvcnMwYTZBMW9VR18wS2hac3VFZEFYOVZ3aWxNLURVZUk4czZMM25mM09mY2VaMnNTR25jbw?oc=5",
-     "source": "yakup.com",
+     "source": "약업신문",
      "published": "2026-09-14T17:21:47+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "[Why] 립스틱보다 로션·세럼... K뷰티 ‘스킨케어’ 공장 늘어나는 이유 - 조선비즈",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNkoxTHcwM3FNeXhfbmVqSlFhRmtNakFyc2xnR2JDUGlGbjZ5bjhjRmxuYThRMy1rbVhQVG5YYlQ0LVJOWkdWcTZkRGpIS1NRQnZFaFlacTVEVWkyZ1dlQzVfcW9ONVF6dWRCOGMyZXdfRE9hZW81LVVJVlluWGRnYlBVYzVOSUlPYms0NVlRMklYczjSAacBQVVfeXFMUHhINXBtVndIUmQxVm1iemw0ZWRoLUltZlYweVpYMnJsUXRBdFVZZlRKTHVodXY2VHBjVHlvdVA3VUh0RTFiVzdqRFV5LWVjTm44TFdBSVhORm9HMnhmSEdmdlVSM2o0amJUNUthbTltNjZqMkhMRHc5T2poYWxnSHFzSDBJUnVhTDYzOW0wWU0ySHF3Y09LWUlTOFgtYm1RR3VlZWJqMVU?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-09-14T16:43:00+09:00",
      "dup_count": 0,
      "summary": ""
     },
@@ -484,7 +459,7 @@
     {
      "title": "[코스닥 기관] 알테오젠·에코프로비엠 던지고 실리콘투 집중 매수",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qQkVudG1TZjlZUlU1MzZfalNNbXpSNkFmQi1WMy1BbXhmMVUyWmkzTWV2Sy0yUUdmNHBzUmpucUYwU1N2MnZDSFhwYWJkMHVnTWNNNEJZVTQ4SldyS0pWRVVOQTZxaVJnZy1lQTVSdTNITFpZV2pV0gF3QVVfeXFMTWpCRW50bVNmOVlSVTUzNl9qU01telI2QWZCLVYzLUFteGYxVTJaaTNNZXZLLTJRR2Y0cHNSam5xRjBTU3YydkNIWHBhYmQwdWdNY000QllVNDhKV3JLSlZFVU5BNnFpUmdnLWVBNVJ1M0hMWllXalU?oc=5",
-     "source": "핀포인트뉴스",
+     "source": "pinpointnews.co.kr",
      "published": "2026-09-14T15:59:01+09:00",
      "dup_count": 0,
      "summary": ""
@@ -492,7 +467,7 @@
     {
      "title": "[코스닥 외국인] 알테오젠·반도체 집중 매수...실리콘투·올릭스는 거침없이 팔았다",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GbkdwTWZhd3JEVF9BV0NzMmc1dy1uMXBtTFpnUFZhUDJqM1pYNF9mMGRYajF2TWtxUE96UXRDWEUzX1RMNkZlWHRXTUJrRFNkUzdNd0ZzbmNlOENPYm1mUGVrUnptb21XM0xkZy1LcFdoWHfSAXdBVV95cUxNUzRnNFZIWkdlVEFWM2h3eFU4em1TMmJKTWhiVkhtdTZGZFRTQ1RQeS1ZVUx3VkppeTRRWnhTMl9kYlk2ZGY0MVo1LWFBTFVJeEVaZlNHSUVJdmllVEpDN0Fac253bW1abktVT1dRWlBkSUxXYUtjQQ?oc=5",
-     "source": "핀포인트뉴스",
+     "source": "pinpointnews.co.kr",
      "published": "2026-09-14T15:50:15+09:00",
      "dup_count": 0,
      "summary": ""
@@ -538,14 +513,6 @@
      "summary": ""
     },
     {
-     "title": "K-헤어케어 수출 성장세...바이오인터체인지, 특허 성분으로 글로벌 탈모 시장 공략",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UQUU2dEpMUVdiYjVFcjhOQ1MzRE5lRWlGMXpwTjFTSnZzaDI0eFROSXlXdWdWRDJEZTRmaFM1a0lNQ3d0bUs0SEl5dVNOem9CVXVRUW5OZmdYX3NYUmdlbkYxM21Yc2pxVGc?oc=5",
-     "source": "뷰티경제",
-     "published": "2026-09-14T09:55:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
      "title": "[특징주] 화장품주, 원화 강세 우려에도 수출호조에 장초반 강세",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hNFNQQXMtZ1VIZjRVcjdqXzFOTlotVTA0V2xPQ2U3X3BDeHRhU3NCa1RNenFHTkNhbzhUM2RPRGZPU0NQLWhubGtBS2xsMExaVmJrSjlyVXZNMzZ3YWd0WdIBYEFVX3lxTE1hNFNQQXMtZ1VIZjRVcjdqXzFOTlotVTA0V2xPQ2U3X3BDeHRhU3NCa1RNenFHTkNhbzhUM2RPRGZPU0NQLWhubGtBS2xsMExaVmJrSjlyVXZNMzZ3YWd0WQ?oc=5",
      "source": "연합뉴스",
@@ -576,6 +543,14 @@
      "published": "2026-09-14T07:11:00+09:00",
      "dup_count": 0,
      "summary": ""
+    },
+    {
+     "title": "K-의료 해외진출, ‘병원 수출’ 넘어 의료기기·ICT 결합 패키지형으로",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RWDllcF9KLVphWnV0VENiVzJYVDF2MUJrdUluUEgxNnY2VDZ1VUdlakUzd2JmQXRaZXpyRHd2YXMzYm8x?oc=5",
+     "source": "후생신보",
+     "published": "2026-09-14T07:00:00+09:00",
+     "dup_count": 0,
+     "summary": ""
     }
    ]
   },
@@ -584,18 +559,18 @@
    "push": false,
    "items": [
     {
-     "title": "동국제약, 환절기 건강 관리 다양한 아이템 제안",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRE9SVTVaN3l2UGdKWFlJYnJ0RDJBYlJOSkM3Tkd0QjQ0MlFJUFNWMEZzWnFZVm5uR2g1X1Z3VnRKQ1lFS2I0U3dReGlSeEJMSE96b29xMGh1NjI0eEtDUXVGek9pY1E3VURB?oc=5",
-     "source": "마일드경제",
-     "published": "2026-09-14T19:40:16+09:00",
+     "title": "동국제약 “다가오는 추석, 맞춤형 의약품으로 가족 건강 챙기세요”",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ySC1rWHl6OWJ2dXQtbVJXWFo2dGt2endnWGhCYVJLZkhnbmNQR2JHTGl5X3VKZEZoNDFMTEEzM1dWb09FaEFZS2d3bVM2eDJoUmtGTFlKRkZlRGxwY1RyZDN2clVhUWZpZDlN0gFvQVVfeXFMT0JTVVhoXzRScXNISEF5WEEzbnlRNzBoREhNUDFEbjdjODFndDRoTXVwYzdxNXJjTTIxNU5iOVFSMmdRMldMZUdfdFlqMElkY0pkYmRvNjNfbmExVUJNVTlid2F4Rl9qRVZ3YlRnQUxj?oc=5",
+     "source": "더퍼블릭",
+     "published": "2026-09-14T21:34:36+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "[HOT 마켓 트렌드] 제약업계, 추석 건기식 특수 공략...프로모션 확대",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQTFDb0Zob0ZHYkczM3NpaW1HT0pUa091YUlMMFpvbEU3MC1BNV9PeW54VDU2NlpOLUh2VWptVEVlU0w2NTNDLXpaMHZVMFgtVTd0NUcxTndyUWQ0T3NzUWR6OE9JdUZnR3c?oc=5",
-     "source": "비즈월드",
-     "published": "2026-09-14T17:35:00+09:00",
+     "title": "동국제약, 환절기 건강 관리 다양한 아이템 제안",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRE9SVTVaN3l2UGdKWFlJYnJ0RDJBYlJOSkM3Tkd0QjQ0MlFJUFNWMEZzWnFZVm5uR2g1X1Z3VnRKQ1lFS2I0U3dReGlSeEJMSE96b29xMGh1NjI0eEtDUXVGek9pY1E3VURB?oc=5",
+     "source": "todaymild.com",
+     "published": "2026-09-14T19:40:16+09:00",
      "dup_count": 0,
      "summary": ""
     },
@@ -618,7 +593,7 @@
     {
      "title": "[Weekly 제약&바이오] 차병원·JW중외제약·동국제약·건강보험심사평가원 外",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wdXJJc0ZYSzNncmQ1NGQyaG14el9GbTJ6YTduVTFXNS1fLVpPVHJrMlByLVdBcmtuVmVhRUhqNnhBbFB2ZW9YSTVsek53b3BMMG5NM2xDdnNmcUFBUDYtcW9iWV9OTHVSQ2F1blhsZ3VPMWc?oc=5",
-     "source": "오늘경제",
+     "source": "startuptoday.co.kr",
      "published": "2026-09-14T13:50:34+09:00",
      "dup_count": 0,
      "summary": ""
@@ -680,7 +655,7 @@
     {
      "title": "HD한국조선해양, 2026년 8월 수주 누계 15억6600만달러...전년동기比 191.08% 급증",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1clA2OXJLVFNVQlpSMTlEblhmVjhZcnpBSW1Yei1zMmNrNFpMZzJWZFowS0ZIYlNtUkxxM2tBQXdhRGM3a2J6ZTFWRF9MZDNVSFVrZFg1UHR3dkstN0hwSEVQdV80VGZEWGY5ekY1YU9tWGlLWUI5V2trTQ?oc=5",
-     "source": "디지털투데이",
+     "source": "digitaltoday.co.kr",
      "published": "2026-09-14T16:32:07+09:00",
      "dup_count": 0,
      "summary": ""
@@ -688,7 +663,7 @@
     {
      "title": "남부발전, 美 현지 발전소 거점 중소기업 수출 지원",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oXzF6SkdMUlhkR2l3Zk1NVEh3RjNGbGRrQzkyU2kxR1JhQmU3Y3lfMlZ0aGNQRGJHWDFoWlZaM0JZdW1sQzJOck0xbWRzVmFHN1ZmY0tjamxvWXBTMnNBN2U0blZ2SDI2VlpvQw?oc=5",
-     "source": "투데이에너지",
+     "source": "todayenergy.kr",
      "published": "2026-09-14T16:20:11+09:00",
      "dup_count": 0,
      "summary": ""
@@ -752,7 +727,7 @@
     {
      "title": "삼성중공업, 20만m3 LNG선 앞세워 1.6조원 수주...연간 목표 128%",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sUVZSeWxvNjVkM0NKSHpKOEo4TG83RXY0cGdTZ2RpeHNsSDN6bnA2M2M0WVBMWkctT0w0SWpUTXpDcHd5cjQ0NHhKTEprQUlkMWVteGdSOWFGX3VIcG9DcG9uVWpCajctd2VIWllUM0k?oc=5",
-     "source": "거제타임즈",
+     "source": "geojetimes.co.kr",
      "published": "2026-09-14T11:48:38+09:00",
      "dup_count": 0,
      "summary": ""
@@ -768,7 +743,7 @@
     {
      "title": "삼성重, 1조6476억원 규모 LNG·원유운반선 총 6척 수주",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DbWJrOVJSV2pWQ0U2VGNnM09Oc2dDQjV2ZnotbE1OZXdFOWFtaXdHLWY4bTZZOTFpd3JuM01xNEFrQy0wT1JKOFVWNHlLc05DVWZpYWhSMGtxVV8yQjllMU1EdzNFdkh4SHlwXzN2VWlTY2M?oc=5",
-     "source": "geojejournal.co.kr",
+     "source": "거제저널",
      "published": "2026-09-14T10:59:48+09:00",
      "dup_count": 0,
      "summary": ""
