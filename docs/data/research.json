@@ -1,21 +1,102 @@
 {
- "updated_at": "2026-09-14T18:17:21.822070+09:00",
- "total": 10,
+ "updated_at": "2026-09-14T19:52:10.482209+09:00",
+ "total": 22,
  "stocks": [
   {
    "code": "LILAK",
    "name": "LIBERTY LATIN AMERICA CLASS C",
-   "items": []
+   "items": [
+    {
+     "title": "Bank of New York Mellon Corp Takes $3.14 Million Position in Liberty Latin America Ltd. $LILA",
+     "broker": "MarketBeat",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUmd6bm9vYkRzYzZnb00xcjRYOVdLczdYUl9OYUxMUmtfUi1GVENIYlRlYjVfVXloZGdma0NIU3h4V2FreWgwYXdQUFJJT09IZ2ZSUVFQQmZiS3BkY3AtRmhMOU05eVlaRHh2VWhGY3VjZjcyWjUxd0ptN1NuZE9ORmtKU3NrUF82dWN2ckVQUHFlTkxpRnRtODktbUc1VV9MOG53aW1rRnV5WTk0cHgteFRQb0dkU1hCcllLc2NrT2lMOEl2SjhOQlRqcFFhc0RvWk9BMS1SbTVIR0c3cDBpM0ZDYVk?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Billionaire Media Titan John Malone Buys 121,000 Liberty Latin America Shares. Should Investors Be Buyers Too?",
+     "broker": "The Motley Fool",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObDRjZHNLSXpub1dRcUNzRFJHYU5wb0w3Mjd0b1FpelNlSGNBTmMxMW1Gd0dIdTlnRVZPelMybm1rT1VHdTh6LVhLUXVwZ01GeDl0SnF2NTNDT3Y2NGdwRlAyNEpZdUZ6LXZFeXNnXy1DVG0xWnd6aVJrbDJ5NUs0OXdmQzJLdVJWRUVTNmNFUm91U3dHYVByMzRIbWMwdG1BVnA4bkw3TUJDN2VZYnpMTVB0Zmw2aXFfajd5YnpCYjRteWloSDh4VHQ3dERLNzFCeGxudmVrT3ZnUXE4RlhXVTdKU0tHQm4xdnpTOHJOOA?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "how InvestingPro spotted 61% gain in Liberty Latin America stock By Investing.com",
+     "broker": "Investing.com India",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzd1MFV5eF94enpfZmRzNFQ2R052TXdPUXNSa3F1dnJKRGJ1QklvUlY0eUl0RUdmZDZzUU9nQ1BZU0NXOFFiU3RNOGxmU19FSkF1WjBPbk1KaDhBX1lYQWNOTHVXeEFWTUlwRGNNeG54M2xBX1VNOTJFM1htVEVQcjZVVllKd09oN3JKRWhNLWtGeW5zd3BsSnZhb1J1bHVJTGRYR01IcjZfdmhrVVp2dFdLQnpRMEIxR01QeS0tQ29tQQ?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Liberty Latin America Reports Q1 2026 Results",
+     "broker": "Business Wire",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekU0TDdVbkNJVGpOTlVEVjg3UGxoNUF0bnhjZFdKTVhQUU5XNTZoM25Jc3pSRHdaYXZEa1FnOEg2YWIyYXY2WWlNRG9pV1hfak5XQk16aHZCTkpscUU4dUlvaUEwRm1KOVd4eXpFNC1sZXFPcEt2bUc4UFhuY0h6Y1ZZUHJIcmJkQmpmNXBaN1oydTgxWVFrbWF3aHdYZmVFcTF5TQ?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Is Liberty Capital Corporation (GLIBA) among the Best Growth Stocks to Buy with Low P/E Ratios?",
+     "broker": "finance.yahoo.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGFBRzg5WEhWSzZ1LTVJMGVIVmtOdS1oTmI0RFl6dkVYS2RJRVNqUTdScnNFTU5VSi1KTHpKRHJqOHlKenVvaFE4MXBvODJaNzRLRGxuLWlGS1dSRXVCdjVPdDZZNWl4NFFJRmgtSTU4VzFwejdfd3lMX0hYckVjaUpsdjhVa29kUjU3Nm1TUjR0ZHE5QUxaN1BPenFWaUZHdmpkRXFETQ?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "GCI Liberty Invests $107 Million in Liberty Latin America Shares",
+     "broker": "citybiz",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVh1alB5c1A5azIzTnp2MTF1aW5EeWhwYzR1WG42cTh4TUlRZjNEYmRYM2s5TkkxLVA2R3hqcGpBYzlQZ3REczdVdEQ1QVM4bnZlQ1JXcmU1ZS15alJIUUhVSlN3dVctcWlTNzRNeGlrRm1NbmRsZ0VmTm5BYkNTZkU2S1JmTXdsVXlUUUJhU3AweUVoZnc5aXlUMDRSVjJIckZpNg?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    }
+   ]
   },
   {
    "code": "TXG",
    "name": "10X GENOMICS CLASS A",
    "items": [
     {
-     "title": "10x 지노믹스 이사 스튜엘프나겔, 120만 달러 규모 주식 매각",
-     "broker": "Investing.com 한국어",
+     "title": "10x Genomics Stock (TXG) Opinions on Insider Selling and Atera Platform",
+     "broker": "quiverquant.com",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnOGpLU0VRNG0xdmMtamJKSHhhS3FXcV9TeEpPTjRKY0JZYjdDX3BoS1QxZDQ1SkpzTWhzelhaUW55UVpRSVZPUF9HaEZ4NS0xRzNsT2FTODRCWVBWcTBpcGJLRUlfVWhQSGR3SVJ2dFhKOHVTaFprOEl1OA?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1Ria3hxU0ZkTDlvZWdlQkhZTnpINWJCSXB4M0owd09LcENOTE4zMEQ5VUc3Yk51WTRfelNzbFdSSDVnNmxSVXE5azlnV3NHUjlIX0hRS0dXNXR0dnVfeFkwTUFQUEVGUmxPbVJaWWY4RnYxeFlSWVY2NW1pVHBYaC14UHRuSGtNRWI0MVI0SldFdnVOZk5XNTdIZ0VoNzJ1Q0lwTkZNa2JlNl9t?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "10x genomics CFO Adam Taich disposes of $2.99 million in company stock",
+     "broker": "Investing.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObllSTElGWFZhYlBzRExLNC1fdVc0VG5SZFlqNWNvT0xEOGlPTDNfNkxDMm8xZWlQM2M0aF9qallOWWRIM19YWVZfd3F2TjVpZlpHYlFsQ2VqSm1mbG9Mb2ZSWEdIZW5DLUE5dDJ6UGJmS3dfV3BQRUZVc3BQbWFFUGZTUUwxS0M1SldGVFJXOVVGSFJhR0NZWjF4RnlUQkVhLWdINEZBMGJyV3NQQ1lXX0JBQVVxSlZVNGJVTUNJdWRwUndZQXZQSlZWWi1zNXVQMTA0X2FyOXo?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "10x Genomics (TXG) Reports Earnings Tomorrow: What To Expect",
+     "broker": "StockStory",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3E2MGoxdHJBUzFiV3k2SnlWV2lqY0tkc05UeWNaQmxycXZkYUtIajIwWHhrcnBEYWhxXy1JTzYxb3NQRFEtTW5XbHlKOGQyZVN1bW5Kc1FkcnR6c05qaXdJR2JCWllRdnEzWEx4OXZNeGFNMTY1RnN6eDNyVzVNOE45X3RTbTR5dkt0VEY2bksxSDBWZWIwRENtRlR0QXUyaG82SjRmbTNaYU5QNDFlMUk0WE5nNm9I?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "TXG Stock Climbs As Wall Street Hikes Price Targets",
+     "broker": "StocksToTrade",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuTk5XN3JKTGxDcXhUYkdyODJtRXNhWGs0aGdleDN3dVA5LTBhZ2JQcnYtLXVhWkt3ZGozUkZlX0dsek1Mc21UUVYzdW9uYnhKMWotWjJZUENpeGJzR1JORWlUd2gwTFdtYmtNSmhNeENKblFSaU9N?oc=5",
+     "kind": "기사",
+     "dup_count": 1
+    },
+    {
+     "title": "10x Genomics Gains as Investors Extend Post-Earnings Rally on Atera Demand",
+     "broker": "quiverquant.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEV4ak12dHpMcDk3WGw5NHlZcmNOZ2FMc2poNWM3Wl9CcGZQSkpYMkdieERTRjBlQjhxNTRId0hTdTdnSlJzRlJNaHFFdFFMVVFZbEFCaFA1dmNxQnc1cVl2V01adVBuNU80RElXRXNEV3RHelpCcUxaMEVaZEFGak9VVk0yaXZrVVFrYUVHUXlYc2FFVml6MUQ2cnl6UDNKSm8wc2xlaktzRmc?oc=5",
      "kind": "기사",
      "dup_count": 0
     }
@@ -26,50 +107,50 @@
    "name": "HP Inc.",
    "items": [
     {
-     "title": "휴렛팩커드 주가, 오늘 급등하는 이유?",
-     "broker": "Investing.com 한국어",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRTVfejZZR3ZVbHhncHV3VHRINHNSRXZZeklPZXdCZlhlYUpHVUpaV1NMMzhUR2hsY1VicHk1U0FuMkpOMGpFak5GRFpWeThBcVVPLWd1X0ltVkl1eEpPYmtuX1h6MFM3UEU3R3dXbWtnS2JONDRHNUtnZWVFcnRpS1RRQkFYNUk?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "HP Inc (HPQ) 주식 움직였습니다 상승 7.07%에 9월9일: 핵심 원인 공개",
+     "title": "HP Inc Stock (HPQ) Moved Up by 8.25% on Sep 11: Facts Behind the Movement",
      "broker": "TradingKey",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVNlWHZydEtOWGFZUUVkYzFOZGotYnhXTWZyQkE4Q1JNYjB1M1ZFbk1hZHpmeGRmVE14SXBLY21wWkhTcG5zRWNyNzBzYS1jUUdyUUZOc3dHVENLQUMxVFBUMWFpY2dTNkNjVkt2bEVQMkRSTkFZVGhmUEdqZmNpNUYxVHRONjFIZ3huTm5n?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlFoaWM4S2dxeFVZUTgwU1o2TnJEeDV5MC1NR0sxLUdrdlhkLWhOVGZxY3YwNXJVQjVvbGpVM1VsdkZwa0FDelp0YVFQbmxFVVVOcG56RFlJcENHanRqQXQ2cXlweE5NQnBDQlJicnNxZExxeWwtdVNhRjdrZzA3OEZuRHR0WkJoNHc?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "모건스탠리 목표가 17달러로 하향...HP(HPQ) 주가 3.8%↓",
-     "broker": "인포스탁데일리",
+     "title": "RBC Capital initiates HP stock coverage with Sector Perform rating",
+     "broker": "Investing.com",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JemNFQkNKekNYWHFmc28wUGhlV25JR0g0X2Nvb0wzRG5pZVktMXJudktfZFBHR2pVTGdCLWMxVUdWTFBLMUY4U3dNcUs0NnRBQWpicXYtS090a1lDc0FCS0JXd2ZmRmpzdDdQMkowUkhMRlIxbVE?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOEJIQkFHeHhobjhIR1AyOXdmekFGLUxrb2gtb1BTcWp0Y3NRQWtoSHVkV2ZSMWplZXFOOGxQbTlUUnU2TWIwaTVKcFNuYUlONGZZV3BoS0dMR0F1UFpWQ1RsSF9kZ1JLTUxKZEVLUVJULUZneTE5ZXhMWExycjRSM3RGY2E3bjFQRGoyYjhDWkZwck1sN2hoNWtWZmloaUEwZHZ0bjlRbG83YmRRazdiVmt3cmx5MEwxQ29sS2RFUzN6SU43RkNVMmdtYk5tdHc?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "RBC, Helmerich & Payne 목표주가 상향... 경영진 역량 집중 주목",
-     "broker": "Investing.com 한국어",
+     "title": "RBC Drops Jaw Dropping Price Target on Dell Stock",
+     "broker": "TradingView",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMmJldXZNWW5UNC1kOHJuSEc4V2hsRktVeWVRQWluRW12WkJhc08xcTVWMWZ0STdxSF9BTE91WVJiUzMtSFlaWENRS3pMeHBVNnJibTMxUzdRbXdfSm5HaWpHYUk3SkI4cm9fc3hnOE8tcmNY?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWlJREhpbWN1VVZjNlBVZ2RfSmZCTk5aVTBxUVRsNm11REtXUWFwSXBUX3ZLUTN1czdUQXh1bGcwc2tlRm5uMGt0R0dZbUllTkZqZTZJMWx0QWtrVlNJck1pZHlSSmpqNmtOcy1vSjR1YjJvazhad1hVSGVDRDBNWjFrRl9FWmpzaDVfalJnSXpUNDZvYmxiZjY0ellJcGdFOE5Qb2hVbHNOSzZiNUE?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "[TODAY엔비디아]HP·레드햇과 손잡고 기업용 AI 플랫폼 개발 추진",
-     "broker": "edaily.co.kr",
+     "title": "HP Inc (HPQ) Stock Price, Quote, News & History",
+     "broker": "Benzinga",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnRBT1BkRmNQSTUwUkF4MzZtODdSdHBvTmVQNkdIQmg1QmdhTWhXaXpqNFhXYWhQbms3cWVtSUo0S2V2eVFKU2Ztb1E2VTBjeHNfWXJKd2RYZUQ1bFpPbHE3MFlfZGZLcEJqZkNIV0tiWk1PdFMxQmVBODVzbnlIRg?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tbURyZm4xUV8zM2hWZmRVenZqRkdtN0pkdmRNWlNXM2pIYmhMeEpYUVBVRjN5RVJ3cTMwbEVqOHFjNFpUZGZCbmtn?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "HP’s Q3 Earnings Beat on Revenue and EPS. PC Margins Tell a Different Story.",
-     "broker": "TIKR.com",
+     "title": "HPQ rises as investors revisit upbeat quarterly results and higher full-year outlook",
+     "broker": "quiverquant.com",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHNkUDAtYndjUkk3RkJaNV9jQkp4WkJpcFV5ZVFIOGkyZXczNEhHOC1yaEpNdW1Ec1NjTnRMY3pfVThWVkZ3X0ZKWEN2Y0lsTVlkS2tqbkJreFJEdmNQdEpDSUtUVHUzX1hIZlNJcFdOOUJnY3ZNWHdKX0ltcGZpbEdkLXBqUnp6Um5HanZubkpmM193RGZwTFd2QUFTdndzbW9TcQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkIzSVdGUXpsdlVFbEdRWThxTzZjOUVGUmFHZnZOVGRZQVNDOEtTcmJtN1lPNmlfMm9MR0FqamkyN1JUMGRoYnlNU2tmaWM0UGU3NTVzZ3ZOTzVVdE5fVVFVd1RDTGN6d3Q5b0txU2Fjb2xXcnZDT2x5U2V1RFZuZnFoYXotMG9iUzduREJSRnRfN3JiOWlGZHRHa0hTYkJkS1RRd3Y2cnl4ZU5EVWNmNzVIa2VadTNR?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "What Are Wall Street Analysts' Target Price for HP Inc. Stock?",
+     "broker": "Barchart.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0VjQzg3VUNhQ2FmYkVhNzhuZUMtWVlaNjFoQzNramhhZ1F3ZVBlOG9JRzZ3b1hacnl1VXpfR2RfN1o0XzllRU1OZkoxd2FDY1pQQVRrSjgtbzNSYkVWd21pbUI5RWdrR2czQjF4RzBRYnpVcy1TbldxMkx2NjA1dHotblpzZllMbHdWOU1DN1FsNGV5dDZfNDlBQ1luS2txWC1WU2xn?oc=5",
      "kind": "기사",
      "dup_count": 0
     }
@@ -80,26 +161,42 @@
    "name": "ATRICURE",
    "items": [
     {
-     "title": "AtriCure CTO 살바토레 프리비테라, 201,135달러 상당 주식 매각",
-     "broker": "Investing.com 한국어",
+     "title": "AtriCure Executive Stock Sale Analysis",
+     "broker": "Intellectia AI",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kLVFKSEMwZDZCZHNHaWdocFRsV21Hd0FYLUF6QVJPRE9ZRVA1OG1wRjB3cUpJOG82MjItMDNKVThBNXBkN2hrNWZyUFlvVWpnZ1UwVEFKNlpBcGV1ZUFhZm1WellhejdvNWNrTXB1SHJBUzV6aXdEcTZzYw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85aXN3V044aUtyYl9fa25YVUpfamg2N1oxZVZzS2xkN0hhNUlGRTAyaWlqS0RUUDQ4TlR2ZFA1cXBTejRfN01wUUpwTFV0Wk9Nd2R2d3l3WXVfOWdoNzZIWWMzY0dhRFhjRkVYQUFFakJrNC1fOWxRLVNxclo?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "실적 호조가 AtriCure 주식에 대한 시장 전망을 바꿀 것인가",
-     "broker": "simplywall.st",
+     "title": "Piper Sandler raises AtriCure stock price target on quality measure",
+     "broker": "Investing.com",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjJQRHpKWmdGelRhSzBvd2phbE1DeXZvajFaRjVDd2hIOWpJaW9KbEJrakhjNl84Ym1RZ3htRkhpdEhVbDdCcXVTcGhZeDFLbldDUVVmZEVhcVlkbmJwTDZMblJJTkNxbldISUMxN0RUTEljTU9UampwT1FVaE5lNW16VDl0SVVDUnpaUUNOa2QycUlES0xz0gGXAUFVX3lxTE02MlBEekpaZ0Z6VGFLMG93amFsTUN5dm9qMVpGNUN3aEg5aklpb0psQmtqSGM2XzhibVFneG1GSGl0SFVsN0JxdVNwaFl4MUtuV0NRVWZkRWFxWWRuYnBMNkxuUklOQ3FuV0hJQzE3RFRMSWNNT1RqanBPUVVoTmU1bXpUOXRJVUNSelpRQ05rZDJxSURLTHM?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHZJclRyVk5WcHpxVnFCcnJiMjAyaGtKNmkxNy1xb0lobWUtWXl1b2Y3S2J2MHpfZkJvT0pmNU9TMmVsdUVNWEtjVEptOWxZRXA5d0NoQ2JiT1l1c1BwbW1fcGtlYjlFWFZTNGgwRDBBUi1xQW11eFRacWhodTNna0h4eXZVZmRLZFJ0LTBNYlEycTNjdFQzeFJDNy01RVBGaDJxSHVvSU5Ya3BNbDlxOHdPalBnZHEzdEExeHY4Y1ppc0ZWaEE?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "AtriCure(ATRC) 주가는 성장 전망을 고려할 때 적정 가치를 반영하고 있을 수 있다",
+     "title": "Needham raises AtriCure stock price target on trial outlook",
+     "broker": "Investing.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHFmaU5CbUVwZ2dUVjBCdTFZUHNyckR6VDE1RHhVdmEycXoydWVONnlSaGFaYXdYNkRKbGhtNE4xQjBuYkc2SW9sMHNLWUI3SUpPMk0yRWJ2SkM0MVJIcTBSMHN3TEUyRzkyNG9zeXhhemNtX3RxcTVJUE9rWlEtWHRwZTNPZFVkYmhGQnFreWUySGVRYWNnMDRMZTExQzZGc1kyTFNVQjN0Z1U1NWRvY1k5dkdvMkNFRTRF?oc=5",
+     "kind": "기사",
+     "dup_count": 1
+    },
+    {
+     "title": "AtriCure (ATRC) Stock Faces Mixed Views As EPS Turnaround Tests Margin Narratives",
      "broker": "simplywall.st",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX0tSMFFwenpwdER4RnJKeVM1V2ZwcXB1dEUzQlYyaHlUODZYZWZwTXVEeEFTZ1ZyR3NpcEhTX21GTWp0clhlVU9SdzZINWpMTXJ0Q1VVUmlUT3Blc2tQT0htajE4eTZVb2VhajlJQWRnUlVVSnFKY2dwbnNBdDJrb1g4TXpLZzhXWWpEYWg1VUtyQdIBlwFBVV95cUxQQTFhY0VKekFYWGVBNnZNekxYRko2UGJtWmFqeDJsNjh6U05fcGJlV1JQVmItRDdqdUYtd1ZxVVQxcjQ2LTlMOEctQmRQd1JzU2oxb0FtQnF3Z0gyRlE4cS02MFFrRjZGc3cwWUNta0c0UFFCSTQwcTdSX0ZwbFBhRzZuX1BiRE8xS0R2ZS1EcXgwQlcxQ1gw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNall4ZmZiR3EzdDcwelZnQkN5ckxDR0pJQXVrWl80VDRwanh1RDdEb1ZQbkVpU2pVMzNiUkprV1lfNU13WDJ0STBrbjNPOXprT1FmQmtwcW04bFlVZlNXVk9ZT2lmN21MdWotaElRMnBFYTFfUUtuZjlkMzhub0hrdnJLQ2tLNUtPVWx6U29aOE5JN0xpdExpbDF5TTBWbFdEeHU2aVNTUWFXb2FIRDlMcEdiNjkwUmVDaUoxUThVV0pxeXZfNTVqT9IBzgFBVV95cUxQcThrcDdOZlBGQmw4S0VVWENvR3o2VWJRN2JMMkRhS0ZTS1lneWRSNkpsRVZxTG12SWV2X0hfUy1OVUI1NW5PZTVTZDJNX2pKSjdEZzNzb215WlAyNl9QOG1jdmZpOG1ObTJBQUhCRWxIZHo5V3F4SU5uSDRzY1JsLUVUU3hDSzg2dFE5NTNwaVFHdm8xMmtnbFVIUDNjNHhOb29QSFVFdU90MjNRb1JMYURaZ2c5QjJWZFFuVlV2cXMtWEFBYnYyYzBHMk1Fdw?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "AtriCure, Inc. ($ATRC) CEO 2025 Pay Revealed | ATRC Stock News",
+     "broker": "quiverquant.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWVl2cE4xMjZyZEN3X2NIUmowSnoxeDRpLTkwZ2lPeGlSOTEzd0JNZFYta0VZTXc2TjVXc3RCekdpOFo5TlFYVUozUXNYd29GLUI4WUdrZmg3WTZQS0JMcjZOMTBGaldESElvUl8ydnpoN1d0V29lQ3pRWTBfZ08wX0Z0Zl82NTgzbnV2MjB3?oc=5",
      "kind": "기사",
      "dup_count": 0
     }
