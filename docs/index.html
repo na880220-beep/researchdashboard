@@ -8,11 +8,11 @@
 <style>
 :root{
   --paper:#fbfbf9; --card:#fff; --ink:#16191c; --ink-2:#5b6269; --ink-3:#8d949b;
-  --rule:#e3e4e0; --accent:#0f6e56; --up:#1d7a4a; --down:#b3332e; --flag:#8a5a06;
+  --rule:#e3e4e0; --accent:#0f6e56; --tintA:#eef4f1; --up:#1d7a4a; --down:#b3332e;
 }
 @media (prefers-color-scheme: dark){
   :root{ --paper:#14161a; --card:#1b1e23; --ink:#e8e9e6; --ink-2:#a2a8ae; --ink-3:#767c83;
-         --rule:#2a2e34; --accent:#5dcaa5; --up:#5dc48a; --down:#e78078; --flag:#d9a441; }
+         --rule:#2a2e34; --accent:#5dcaa5; --tintA:#1d2a26; --up:#5dc48a; --down:#e78078; }
 }
 *{box-sizing:border-box}
 body{margin:0;background:var(--paper);color:var(--ink);
@@ -23,20 +23,32 @@ header{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;
   flex-wrap:wrap;border-bottom:1px solid var(--rule);padding-bottom:.9rem;margin-bottom:2rem}
 h1{font-size:1.25rem;font-weight:600;margin:0;letter-spacing:-.01em}
 .meta{font-size:.8rem;color:var(--ink-3);font-variant-numeric:tabular-nums}
-h2{font-size:.95rem;font-weight:600;margin:0 0 .9rem;letter-spacing:-.005em}
-section{margin-bottom:2.5rem}
-.sector{border-top:1px solid var(--rule);padding:1.1rem 0}
-.sector:first-of-type{border-top:none;padding-top:0}
-.sector-head{display:flex;align-items:center;gap:.55rem;margin-bottom:.7rem}
+h2{font-size:.95rem;font-weight:600;margin:0 0 1rem;letter-spacing:-.005em}
+section{margin-bottom:2.75rem}
+.group{border-top:1px solid var(--rule);padding:1.15rem 0}
+.group:first-of-type{border-top:none;padding-top:0}
+.ghead{display:flex;align-items:center;gap:.5rem;margin-bottom:.7rem;flex-wrap:wrap}
+.gname{font-size:.95rem;font-weight:600}
 .tag{font-size:.78rem;font-weight:600;color:var(--accent)}
 .pill{font-size:.68rem;color:var(--ink-3);border:1px solid var(--rule);
   border-radius:999px;padding:.05rem .45rem}
-article{padding:.45rem 0}
+.pill.on{color:var(--accent);border-color:var(--accent);background:var(--tintA)}
+article{padding:.42rem 0}
 article a{color:var(--ink);text-decoration:none;font-size:.92rem;
   border-bottom:1px solid transparent}
 article a:hover,article a:focus-visible{border-bottom-color:var(--accent);color:var(--accent)}
-.sum{font-size:.82rem;color:var(--ink-2);margin:.15rem 0 0}
+.sum{font-size:.82rem;color:var(--ink-2);margin:.12rem 0 0}
 .src{font-size:.72rem;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.more{margin-top:.5rem;background:none;border:1px solid var(--rule);color:var(--ink-2);
+  border-radius:999px;padding:.22rem .8rem;font-size:.76rem;cursor:pointer;
+  font-family:inherit}
+.more:hover{border-color:var(--accent);color:var(--accent)}
+.hidden{display:none}
+.reports{background:var(--card);border:1px solid var(--rule);border-radius:9px;
+  padding:.7rem .9rem;margin-top:.7rem}
+.reports .cap{font-size:.72rem;color:var(--ink-3);margin:0 0 .35rem}
+.reports article{padding:.28rem 0}
+.reports a{font-size:.86rem}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:.75rem}
 .slot{background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:1rem}
 .slot h3{font-size:.85rem;font-weight:600;margin:0 0 .3rem}
@@ -53,8 +65,8 @@ article a:hover,article a:focus-visible{border-bottom-color:var(--accent);color:
 </header>
 
 <section>
-  <h2>섹터 뉴스</h2>
-  <div id="news"><p class="note">불러오는 중입니다.</p></div>
+  <h2>오늘의 종목</h2>
+  <div id="stocks"><p class="note">불러오는 중입니다.</p></div>
 </section>
 
 <section>
@@ -67,54 +79,106 @@ article a:hover,article a:focus-visible{border-bottom-color:var(--accent);color:
   </div>
 </section>
 
+<section>
+  <h2>섹터 뉴스</h2>
+  <div id="sectors"><p class="note">불러오는 중입니다.</p></div>
+</section>
+
 </div>
 
 <script>
-const fmt = iso => {
-  if (!iso) return "";
-  const diff = (Date.now() - new Date(iso)) / 36e5;
-  if (diff < 1) return "방금";
-  if (diff < 24) return Math.round(diff) + "시간 전";
-  return Math.round(diff / 24) + "일 전";
-};
+const SHOW = 5;   // 처음 보여줄 건수. 나머지는 더보기로 펼친다
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
-fetch("data/news.json?t=" + Date.now())
-  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then(data => {
-    document.getElementById("stamp").textContent =
-      new Date(data.updated_at).toLocaleString("ko-KR",
-        { month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" })
-      + " · " + data.total + "건";
+const ago = iso => {
+  if (!iso) return "";
+  const h = (Date.now() - new Date(iso)) / 36e5;
+  if (h < 1) return "방금";
+  if (h < 24) return Math.round(h) + "시간 전";
+  return Math.round(h / 24) + "일 전";
+};
 
-    const host = document.getElementById("news");
-    const live = data.sectors.filter(s => s.items.length);
-    if (!live.length) {
-      host.innerHTML = '<p class="note">최근 기사가 없습니다. 검색어를 넓혀 보세요.</p>';
-      return;
-    }
-    host.innerHTML = live.map(s => `
-      <div class="sector">
-        <div class="sector-head">
-          <span class="tag">${esc(s.name)}</span>
-          ${s.push ? '<span class="pill">알림</span>' : ""}
-        </div>
-        ${s.items.map(it => `
-          <article>
-            <a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>
-            ${it.summary ? `<p class="sum">${esc(it.summary)}</p>` : ""}
-            <span class="src">${esc(it.source)} · ${fmt(it.published)}${
-              it.dup_count ? " · 유사 " + it.dup_count : ""}</span>
-          </article>`).join("")}
-      </div>`).join("");
-  })
-  .catch(() => {
-    document.getElementById("stamp").textContent = "데이터 없음";
-    document.getElementById("news").innerHTML =
-      '<p class="note">data/news.json 을 찾지 못했습니다. Actions 탭에서 수집을 한 번 실행하세요.</p>';
+const newsItem = (it, i) => `
+  <article class="${i < SHOW ? "" : "extra hidden"}">
+    <a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+    ${it.summary ? `<p class="sum">${esc(it.summary)}</p>` : ""}
+    <span class="src">${esc(it.source)} · ${ago(it.published)}${
+      it.dup_count ? " · 유사 " + it.dup_count : ""}</span>
+  </article>`;
+
+const moreBtn = n => n > SHOW
+  ? `<button class="more" data-rest="${n - SHOW}">더보기 ${n - SHOW}건</button>` : "";
+
+const reportBlock = rows => !rows || !rows.length ? "" : `
+  <div class="reports">
+    <p class="cap">리포트 · 목표주가</p>
+    ${rows.map(r => `
+      <article>
+        <a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>
+        <span class="src">${esc(r.broker)}${r.date ? " · " + esc(r.date) : ""}</span>
+      </article>`).join("")}
+  </div>`;
+
+function bindMore(root) {
+  root.querySelectorAll(".more").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const box = btn.closest(".group");
+      box.querySelectorAll(".extra").forEach(el => el.classList.remove("hidden"));
+      btn.remove();
+    });
   });
+}
+
+Promise.all([
+  fetch("data/news.json?t=" + Date.now()).then(r => r.json()),
+  fetch("data/research.json?t=" + Date.now()).then(r => r.json()).catch(() => null),
+]).then(([news, research]) => {
+  document.getElementById("stamp").textContent =
+    new Date(news.updated_at).toLocaleString("ko-KR",
+      { month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" })
+    + " · " + news.total + "건";
+
+  const byCode = {};
+  (research?.stocks || []).forEach(s => { byCode[s.code] = s.items; });
+
+  const stockBox = document.getElementById("stocks");
+  const stocks = (news.stocks || []).filter(s => s.items.length || byCode[s.code]?.length);
+  stockBox.innerHTML = stocks.length ? stocks.map(s => `
+    <div class="group">
+      <div class="ghead">
+        <span class="gname">${esc(s.name)}</span>
+        <span class="pill">${esc(s.code)}</span>
+        ${s.source ? `<span class="pill on">${esc(s.source)}</span>` : ""}
+        ${s.note ? `<span class="pill">${esc(s.note)}</span>` : ""}
+      </div>
+      ${s.items.map(newsItem).join("")}
+      ${moreBtn(s.items.length)}
+      ${reportBlock(byCode[s.code])}
+    </div>`).join("")
+    : '<p class="note">picks.json 이 비어 있습니다. Actions 에서 수집을 한 번 실행하세요.</p>';
+
+  const sectorBox = document.getElementById("sectors");
+  const live = (news.sectors || []).filter(s => s.items.length);
+  sectorBox.innerHTML = live.length ? live.map(s => `
+    <div class="group">
+      <div class="ghead">
+        <span class="tag">${esc(s.name)}</span>
+        ${s.push ? '<span class="pill">알림</span>' : ""}
+      </div>
+      ${s.items.map(newsItem).join("")}
+      ${moreBtn(s.items.length)}
+    </div>`).join("")
+    : '<p class="note">최근 기사가 없습니다. 검색어를 넓혀 보세요.</p>';
+
+  bindMore(document);
+}).catch(() => {
+  document.getElementById("stamp").textContent = "데이터 없음";
+  document.getElementById("stocks").innerHTML =
+    '<p class="note">data/news.json 을 찾지 못했습니다. Actions 탭에서 수집을 실행하세요.</p>';
+  document.getElementById("sectors").innerHTML = "";
+});
 </script>
 </body>
 </html>

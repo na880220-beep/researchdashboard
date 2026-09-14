@@ -62,8 +62,10 @@ def clean_text(s):
         return ""
     s = TAG_RE.sub("", s)
     for a, b in (("&quot;", '"'), ("&amp;", "&"), ("&lt;", "<"),
-                 ("&gt;", ">"), ("&apos;", "'"), ("&#39;", "'")):
+                 ("&gt;", ">"), ("&apos;", "'"), ("&#39;", "'"),
+                 ("&nbsp;", " "), ("&middot;", "·"), ("&hellip;", "…")):
         s = s.replace(a, b)
+    s = re.sub(r"\s+", " ", s)
     return unicodedata.normalize("NFKC", s).strip()
 
 
@@ -71,6 +73,16 @@ def title_key(title):
     """비교용으로 정규화한 제목 — 말머리와 기호를 제거."""
     s = BRACKET_RE.sub(" ", clean_text(title).lower())
     return NONWORD_RE.sub("", s)
+
+
+def echoes_title(summary, title, threshold=0.7):
+    """요약이 제목을 되풀이하고 있는지 — 구글 RSS 폴백에서 자주 발생한다."""
+    a, b = title_key(summary), title_key(title)
+    if not a or not b:
+        return True
+    if a.startswith(b[:24]) or b.startswith(a[:24]):
+        return True
+    return SequenceMatcher(None, a, b).ratio() >= threshold
 
 
 def dedupe(items, threshold=0.82):

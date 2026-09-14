@@ -11,22 +11,22 @@ sectors:
     queries: ["HBM", "DRAM 가격", "SK하이닉스 실적", "마이크론 실적"]
     exclude: ["로또", "부고"]
     push: true
-    max: 6
+    max: 20
 
   - name: 화장품·수출
     queries: ["화장품 수출", "실리콘투", "코스맥스", "올리브영 글로벌"]
     exclude: []
     push: true
-    max: 6
+    max: 20
 
   - name: 제약·바이오
     queries: ["동국제약", "제약 수출", "국내 제약사 임상"]
     exclude: ["채용", "인사"]
     push: false
-    max: 5
+    max: 20
 
   - name: 전력·조선
     queries: ["전력기기 수출", "조선 수주", "변압기 수요"]
     exclude: []
     push: false
-    max: 5
+    max: 20

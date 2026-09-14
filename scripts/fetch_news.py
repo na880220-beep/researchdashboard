@@ -1,15 +1,15 @@
-"""섹터 뉴스 수집기.
+"""뉴스 수집기.
 
-config/sectors.yaml 을 읽어 섹터별로 기사를 모으고, 중복을 접고,
-한 줄 요약을 붙여 docs/data/news.json 으로 저장한다.
+두 갈래로 모은다.
+  1. 종목 뉴스 — picks.json 에 오늘 올라온 종목별로
+  2. 섹터 뉴스 — sectors.yaml 의 고정 관심 섹터별로
 
-우선순위
-  1. 네이버 뉴스 API — 키가 있으면 국내 기사는 여기서. 원문 주소를 그대로 준다.
-  2. 구글 뉴스 RSS  — 키 없이 동작하는 폴백. 주소가 리다이렉트라 정확도는 낮다.
+수집원 우선순위
+  네이버 뉴스 API (키가 있으면) → 구글 뉴스 RSS (폴백)
 
 요약
-  GEMINI_API_KEY 가 있으면 무료 티어로 한 줄 요약을 붙이고,
-  없거나 실패하면 기사 본문 앞부분을 잘라 쓴다. 어느 쪽이든 화면은 똑같이 나온다.
+  GEMINI_API_KEY 가 있으면 한 줄 요약, 없으면 본문 앞부분.
+  본문이 제목을 되풀이할 뿐이면(구글 RSS에서 흔함) 요약을 비운다.
 """
 
 import sys
@@ -21,10 +21,12 @@ from urllib.parse import quote
 
 import requests
 
-from common import (DATA_DIR, KST, clean_text, dedupe, env, get, load_config,
-                    now_kst, write_json)
+from common import (DATA_DIR, KST, clean_text, dedupe, echoes_title, env, get,
+                    load_config, now_kst, read_json, write_json)
 
-LOOKBACK_HOURS = 36
+LOOKBACK_HOURS = 48
+PER_QUERY = 30          # 한 검색어에서 가져올 최대 건수
+DEFAULT_MAX = 20        # 한 묶음에 남길 최대 건수 (화면은 5개만 먼저 보여준다)
 GEMINI_URL = ("https://generativelanguage.googleapis.com/v1beta/models/"
               "gemini-2.0-flash:generateContent")
 
@@ -36,17 +38,23 @@ def parse_date(value):
         return None
 
 
-def from_naver(query, client_id, client_secret):
+def source_from_url(url):
+    if not url:
+        return ""
+    return url.split("//")[-1].split("/")[0].replace("www.", "")
+
+
+def from_naver(query, creds):
     url = "https://openapi.naver.com/v1/search/news.json"
-    params = {"query": query, "display": 20, "sort": "date"}
-    headers = {"X-Naver-Client-Id": client_id,
-               "X-Naver-Client-Secret": client_secret}
     try:
-        r = get(url, params=params, headers=headers)
+        r = get(url,
+                params={"query": query, "display": PER_QUERY, "sort": "date"},
+                headers={"X-Naver-Client-Id": creds["naver_id"],
+                         "X-Naver-Client-Secret": creds["naver_secret"]})
         r.raise_for_status()
         rows = r.json().get("items", [])
     except Exception as e:
-        print(f"  naver 실패 ({query}): {e}", file=sys.stderr)
+        print(f"  네이버 실패 ({query}): {e}", file=sys.stderr)
         return []
 
     out = []
@@ -58,7 +66,6 @@ def from_naver(query, client_id, client_secret):
             "url": link,
             "source": source_from_url(link),
             "published": parse_date(row.get("pubDate")),
-            "query": query,
         })
     return out
 
@@ -71,14 +78,13 @@ def from_google(query):
         r.raise_for_status()
         root = ET.fromstring(r.content)
     except Exception as e:
-        print(f"  google 실패 ({query}): {e}", file=sys.stderr)
+        print(f"  구글 실패 ({query}): {e}", file=sys.stderr)
         return []
 
     out = []
-    for item in root.findall("./channel/item"):
+    for item in root.findall("./channel/item")[:PER_QUERY]:
         title = clean_text(item.findtext("title"))
         source = clean_text(item.findtext("source")) or "구글뉴스"
-        # 구글은 제목 끝에 " - 매체명"을 붙인다
         if title.endswith(f" - {source}"):
             title = title[: -len(source) - 3].strip()
         out.append({
@@ -87,38 +93,33 @@ def from_google(query):
             "url": item.findtext("link"),
             "source": source,
             "published": parse_date(item.findtext("pubDate")),
-            "query": query,
         })
     return out
 
 
-def source_from_url(url):
-    if not url:
-        return ""
-    host = url.split("//")[-1].split("/")[0].replace("www.", "")
-    return host.split(".")[0]
+def search(query, creds):
+    rows = from_naver(query, creds) if creds["naver_id"] else from_google(query)
+    time.sleep(0.25)
+    return rows
 
 
 def summarize(items, api_key):
-    """한 줄 요약을 채운다. 실패하면 본문 앞부분으로 폴백."""
+    """한 줄 요약. 제목을 되풀이할 뿐인 본문은 버린다."""
     for it in items:
-        it["summary"] = (it.get("body") or "")[:90].rstrip()
+        body = (it.get("body") or "").strip()
+        it["summary"] = "" if echoes_title(body, it["title"]) else body[:90]
 
     if not api_key or not items:
         return items
 
-    numbered = "\n".join(f"{i+1}. {it['title']} / {it['body'][:150]}"
+    numbered = "\n".join(f"{i+1}. {it['title']} / {(it.get('body') or '')[:150]}"
                          for i, it in enumerate(items))
-    prompt = (
-        "다음 뉴스들을 각각 한 문장으로 요약해라. "
-        "숫자와 고유명사는 살리고, 40자 이내로. "
-        "설명 없이 '번호. 요약' 형식으로만 출력.\n\n" + numbered
-    )
+    prompt = ("다음 뉴스들을 각각 한 문장으로 요약해라. "
+              "숫자와 고유명사는 살리고 40자 이내로. 제목을 그대로 반복하지 말고 "
+              "핵심 내용만. 설명 없이 '번호. 요약' 형식으로만 출력.\n\n" + numbered)
     try:
-        r = requests.post(
-            GEMINI_URL, params={"key": api_key}, timeout=40,
-            json={"contents": [{"parts": [{"text": prompt}]}]},
-        )
+        r = requests.post(GEMINI_URL, params={"key": api_key}, timeout=60,
+                          json={"contents": [{"parts": [{"text": prompt}]}]})
         r.raise_for_status()
         text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
     except Exception as e:
@@ -135,40 +136,32 @@ def summarize(items, api_key):
         except ValueError:
             continue
         if 0 <= idx < len(items) and body.strip():
-            items[idx]["summary"] = body.strip()
+            if not echoes_title(body, items[idx]["title"]):
+                items[idx]["summary"] = body.strip()
     return items
 
 
-def collect_sector(sector, creds):
+def gather(queries, creds, excludes=(), limit=DEFAULT_MAX):
     cutoff = now_kst() - timedelta(hours=LOOKBACK_HOURS)
     raw = []
-    for query in sector.get("queries", []):
-        if creds["naver_id"]:
-            rows = from_naver(query, creds["naver_id"], creds["naver_secret"])
-        else:
-            rows = from_google(query)
-        raw.extend(rows)
-        time.sleep(0.3)
+    for q in queries:
+        raw.extend(search(q, creds))
 
-    excludes = sector.get("exclude") or []
-    filtered = []
+    rows = []
     for it in raw:
-        if not it["url"] or not it["title"]:
+        if not it.get("url") or not it.get("title"):
             continue
         if it["published"] and it["published"] < cutoff:
             continue
-        if any(word and word in it["title"] for word in excludes):
+        if any(w and w in it["title"] for w in excludes):
             continue
-        filtered.append(it)
+        rows.append(it)
 
-    filtered.sort(key=lambda x: x["published"] or cutoff, reverse=True)
-    kept = dedupe(filtered)[: sector.get("max", 6)]
-    kept = summarize(kept, creds["gemini"])
-
+    rows.sort(key=lambda x: x["published"] or cutoff, reverse=True)
+    kept = summarize(dedupe(rows)[:limit], creds["gemini"])
     for it in kept:
         it["published"] = it["published"].isoformat() if it["published"] else None
         it.pop("body", None)
-        it.pop("query", None)
     return kept
 
 
@@ -181,26 +174,34 @@ def main():
     if not creds["naver_id"]:
         print("네이버 키 없음 — 구글 뉴스 RSS로 동작합니다.", file=sys.stderr)
 
-    config = load_config("sectors.yaml")
-    sectors, total = [], 0
-    for sector in config["sectors"]:
-        print(f"수집: {sector['name']}")
-        items = collect_sector(sector, creds)
-        total += len(items)
-        sectors.append({
-            "name": sector["name"],
-            "push": bool(sector.get("push")),
-            "items": items,
-        })
+    total = 0
 
-    payload = {
+    picks = (read_json(DATA_DIR / "picks.json") or {}).get("picks", [])
+    stocks = []
+    for p in picks:
+        print(f"종목 뉴스: {p['name']}")
+        items = gather([p["name"]], creds, limit=DEFAULT_MAX)
+        total += len(items)
+        stocks.append({**p, "items": items})
+
+    sectors = []
+    for s in load_config("sectors.yaml")["sectors"]:
+        print(f"섹터 뉴스: {s['name']}")
+        items = gather(s.get("queries", []), creds,
+                       excludes=s.get("exclude") or [],
+                       limit=s.get("max", DEFAULT_MAX))
+        total += len(items)
+        sectors.append({"name": s["name"], "push": bool(s.get("push")),
+                        "items": items})
+
+    write_json(DATA_DIR / "news.json", {
         "updated_at": now_kst().isoformat(),
         "lookback_hours": LOOKBACK_HOURS,
         "total": total,
+        "stocks": stocks,
         "sectors": sectors,
-    }
-    path = write_json(DATA_DIR / "news.json", payload)
-    print(f"저장 완료: {path} ({total}건)")
+    })
+    print(f"저장 완료 ({total}건)")
 
 
 if __name__ == "__main__":
