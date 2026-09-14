@@ -1,0 +1,49 @@
+{
+ "updated_at": "2026-09-14T11:03:47.956592+09:00",
+ "lookback_hours": 36,
+ "total": 3,
+ "sectors": [
+  {
+   "name": "반도체·메모리",
+   "push": true,
+   "items": [
+    {
+     "title": "샘플 기사 제목이 여기 들어갑니다",
+     "summary": "한 줄 요약이 여기 붙습니다",
+     "url": "https://example.com/1",
+     "source": "예시매체",
+     "published": "2026-09-14T09:03:47.956592+09:00",
+     "dup_count": 4
+    }
+   ]
+  },
+  {
+   "name": "화장품·수출",
+   "push": true,
+   "items": [
+    {
+     "title": "두 번째 샘플 기사",
+     "summary": "수집이 성공하면 실제 기사로 바뀝니다",
+     "url": "https://example.com/2",
+     "source": "예시매체",
+     "published": "2026-09-14T05:03:47.956592+09:00",
+     "dup_count": 0
+    }
+   ]
+  },
+  {
+   "name": "제약·바이오",
+   "push": false,
+   "items": [
+    {
+     "title": "세 번째 샘플 기사",
+     "summary": "알림 없이 화면에만 표시되는 섹터입니다",
+     "url": "https://example.com/3",
+     "source": "예시매체",
+     "published": "2026-09-13T15:03:47.956592+09:00",
+     "dup_count": 0
+    }
+   ]
+  }
+ ]
+}

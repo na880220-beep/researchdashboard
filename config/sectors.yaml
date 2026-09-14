@@ -1,0 +1,32 @@
+# 섹터를 추가하려면 아래 형식으로 항목만 늘리면 됩니다. 코드는 건드리지 않습니다.
+#
+#   name    : 화면과 텔레그램에 표시될 이름
+#   queries : 검색어 목록. 많을수록 노이즈도 늘어나니 3~5개가 적당합니다.
+#   exclude : 제목에 이 단어가 있으면 버립니다. 무관한 기사를 거르는 용도.
+#   push    : true 면 텔레그램으로도 발송, false 면 대시보드에만 표시
+#   max     : 섹터당 화면에 남길 최대 건수
+
+sectors:
+  - name: 반도체·메모리
+    queries: ["HBM", "DRAM 가격", "SK하이닉스 실적", "마이크론 실적"]
+    exclude: ["로또", "부고"]
+    push: true
+    max: 6
+
+  - name: 화장품·수출
+    queries: ["화장품 수출", "실리콘투", "코스맥스", "올리브영 글로벌"]
+    exclude: []
+    push: true
+    max: 6
+
+  - name: 제약·바이오
+    queries: ["동국제약", "제약 수출", "국내 제약사 임상"]
+    exclude: ["채용", "인사"]
+    push: false
+    max: 5
+
+  - name: 전력·조선
+    queries: ["전력기기 수출", "조선 수주", "변압기 수요"]
+    exclude: []
+    push: false
+    max: 5

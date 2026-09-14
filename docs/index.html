@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>리서치 콘솔</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<style>
+:root{
+  --paper:#fbfbf9; --card:#fff; --ink:#16191c; --ink-2:#5b6269; --ink-3:#8d949b;
+  --rule:#e3e4e0; --accent:#0f6e56; --up:#1d7a4a; --down:#b3332e; --flag:#8a5a06;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --paper:#14161a; --card:#1b1e23; --ink:#e8e9e6; --ink-2:#a2a8ae; --ink-3:#767c83;
+         --rule:#2a2e34; --accent:#5dcaa5; --up:#5dc48a; --down:#e78078; --flag:#d9a441; }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:Pretendard,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:880px;margin:0 auto;padding:2.5rem 1.25rem 4rem}
+header{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;
+  flex-wrap:wrap;border-bottom:1px solid var(--rule);padding-bottom:.9rem;margin-bottom:2rem}
+h1{font-size:1.25rem;font-weight:600;margin:0;letter-spacing:-.01em}
+.meta{font-size:.8rem;color:var(--ink-3);font-variant-numeric:tabular-nums}
+h2{font-size:.95rem;font-weight:600;margin:0 0 .9rem;letter-spacing:-.005em}
+section{margin-bottom:2.5rem}
+.sector{border-top:1px solid var(--rule);padding:1.1rem 0}
+.sector:first-of-type{border-top:none;padding-top:0}
+.sector-head{display:flex;align-items:center;gap:.55rem;margin-bottom:.7rem}
+.tag{font-size:.78rem;font-weight:600;color:var(--accent)}
+.pill{font-size:.68rem;color:var(--ink-3);border:1px solid var(--rule);
+  border-radius:999px;padding:.05rem .45rem}
+article{padding:.45rem 0}
+article a{color:var(--ink);text-decoration:none;font-size:.92rem;
+  border-bottom:1px solid transparent}
+article a:hover,article a:focus-visible{border-bottom-color:var(--accent);color:var(--accent)}
+.sum{font-size:.82rem;color:var(--ink-2);margin:.15rem 0 0}
+.src{font-size:.72rem;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:.75rem}
+.slot{background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:1rem}
+.slot h3{font-size:.85rem;font-weight:600;margin:0 0 .3rem}
+.slot p{font-size:.78rem;color:var(--ink-3);margin:0}
+.note{font-size:.82rem;color:var(--ink-3)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>리서치 콘솔</h1>
+  <span class="meta" id="stamp">불러오는 중</span>
+</header>
+
+<section>
+  <h2>섹터 뉴스</h2>
+  <div id="news"><p class="note">불러오는 중입니다.</p></div>
+</section>
+
+<section>
+  <h2>준비 중인 패널</h2>
+  <div class="grid">
+    <div class="slot"><h3>포트폴리오 · 룰 트리거</h3><p>보유 종목과 SPY 낙폭 기준선</p></div>
+    <div class="slot"><h3>스크리너 결과</h3><p>신고가·물극필반, 딥밸류 큐</p></div>
+    <div class="slot"><h3>관심종목 수급</h3><p>외국인·기관 20일 누적</p></div>
+    <div class="slot"><h3>K-뷰티 수출 레이더</h3><p>관세청 순별 통계</p></div>
+  </div>
+</section>
+
+</div>
+
+<script>
+const fmt = iso => {
+  if (!iso) return "";
+  const diff = (Date.now() - new Date(iso)) / 36e5;
+  if (diff < 1) return "방금";
+  if (diff < 24) return Math.round(diff) + "시간 전";
+  return Math.round(diff / 24) + "일 전";
+};
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c =>
+  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+fetch("data/news.json?t=" + Date.now())
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    document.getElementById("stamp").textContent =
+      new Date(data.updated_at).toLocaleString("ko-KR",
+        { month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" })
+      + " · " + data.total + "건";
+
+    const host = document.getElementById("news");
+    const live = data.sectors.filter(s => s.items.length);
+    if (!live.length) {
+      host.innerHTML = '<p class="note">최근 기사가 없습니다. 검색어를 넓혀 보세요.</p>';
+      return;
+    }
+    host.innerHTML = live.map(s => `
+      <div class="sector">
+        <div class="sector-head">
+          <span class="tag">${esc(s.name)}</span>
+          ${s.push ? '<span class="pill">알림</span>' : ""}
+        </div>
+        ${s.items.map(it => `
+          <article>
+            <a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+            ${it.summary ? `<p class="sum">${esc(it.summary)}</p>` : ""}
+            <span class="src">${esc(it.source)} · ${fmt(it.published)}${
+              it.dup_count ? " · 유사 " + it.dup_count : ""}</span>
+          </article>`).join("")}
+      </div>`).join("");
+  })
+  .catch(() => {
+    document.getElementById("stamp").textContent = "데이터 없음";
+    document.getElementById("news").innerHTML =
+      '<p class="note">data/news.json 을 찾지 못했습니다. Actions 탭에서 수집을 한 번 실행하세요.</p>';
+  });
+</script>
+</body>
+</html>
