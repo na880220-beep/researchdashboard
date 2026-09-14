@@ -35,8 +35,21 @@ jobs:
           key: px-cache-${{ github.run_id }}
           restore-keys: px-cache-
 
-      - name: 스크리너 실행
+      - name: 신고가 스크리너
         run: python scripts/us_breakout.py -w screener -u SPX NDX R2K
+
+      - name: 재무 캐시 복원
+        uses: actions/cache@v4
+        with:
+          path: dv_cache
+          key: dv-cache-${{ github.run_id }}
+          restore-keys: dv-cache-
+
+      - name: 딥밸류 스크리너
+        # 재무 데이터를 종목마다 받아야 해서 느립니다.
+        # 우선 spx 로 시작하고, 안정되면 --universe all 로 넓히세요.
+        run: python scripts/deepvalue/dv_run.py --universe spx --out screener/outputs
+        continue-on-error: true
 
       - name: 오늘의 종목 선정
         run: python scripts/make_picks.py
