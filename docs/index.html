@@ -54,6 +54,22 @@ article a:hover,article a:focus-visible{border-bottom-color:var(--accent);color:
 .slot h3{font-size:.85rem;font-weight:600;margin:0 0 .3rem}
 .slot p{font-size:.78rem;color:var(--ink-3);margin:0}
 .note{font-size:.82rem;color:var(--ink-3)}
+table{width:100%;border-collapse:collapse;font-size:.82rem;
+  font-variant-numeric:tabular-nums}
+th{text-align:left;font-weight:500;color:var(--ink-3);font-size:.72rem;
+  padding:.3rem .4rem;border-bottom:1px solid var(--rule);white-space:nowrap}
+td{padding:.34rem .4rem;border-bottom:1px solid var(--rule)}
+td.n,th.n{text-align:right}
+tr:last-child td{border-bottom:none}
+.tick{font-weight:600}
+.hit{color:var(--accent);font-weight:600}
+.miss{color:var(--ink-3);font-size:.74rem}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.sub{font-size:.8rem;font-weight:600;margin:1.3rem 0 .5rem}
+.sub:first-child{margin-top:0}
+.chips{display:flex;gap:.4rem;flex-wrap:wrap;margin-top:.5rem}
+.chip{font-size:.72rem;color:var(--ink-2);background:var(--card);
+  border:1px solid var(--rule);border-radius:999px;padding:.12rem .55rem}
 </style>
 </head>
 <body>
@@ -70,10 +86,14 @@ article a:hover,article a:focus-visible{border-bottom-color:var(--accent);color:
 </section>
 
 <section>
+  <h2>스크리너 결과</h2>
+  <div id="tables"><p class="note">불러오는 중입니다.</p></div>
+</section>
+
+<section>
   <h2>준비 중인 패널</h2>
   <div class="grid">
     <div class="slot"><h3>포트폴리오 · 룰 트리거</h3><p>보유 종목과 SPY 낙폭 기준선</p></div>
-    <div class="slot"><h3>스크리너 결과</h3><p>신고가·물극필반, 딥밸류 큐</p></div>
     <div class="slot"><h3>관심종목 수급</h3><p>외국인·기관 20일 누적</p></div>
     <div class="slot"><h3>K-뷰티 수출 레이더</h3><p>관세청 순별 통계</p></div>
   </div>
@@ -131,10 +151,77 @@ function bindMore(root) {
   });
 }
 
+const nz = v => (v === null || v === undefined || v === "") ? "—" : v;
+
+function renderTables(t) {
+  const box = document.getElementById("tables");
+  if (!t) { box.innerHTML = '<p class="note">tables.json 이 아직 없습니다.</p>'; return; }
+
+  const bo = (t.breakout || []).map(r => `
+    <tr>
+      <td class="tick">${esc(r.code)}</td>
+      <td>${esc((r.name || "").slice(0, 22))}</td>
+      <td class="n">${nz(r.score)}</td>
+      <td class="n">${r.gates >= 3 ? `<span class="hit">${r.gates}</span>` : nz(r.gates)}</td>
+      <td class="n">${nz(r.drawdown)}%</td>
+      <td class="miss">${esc(r.missing || "—")}</td>
+    </tr>`).join("");
+
+  const dv = (t.deepvalue || []).map(r => `
+    <tr>
+      <td class="tick">${esc(r.code)}${r.triggered ? ' <span class="hit">•</span>' : ""}</td>
+      <td>${esc((r.name || "").slice(0, 22))}</td>
+      <td class="n">${nz(r.score)}</td>
+      <td class="n">${nz(r.fscore)}</td>
+      <td class="n">${nz(r.drawdown)}%</td>
+      <td class="n">${nz(r.below200)}</td>
+      <td class="miss">${esc(r.why || "—")}</td>
+    </tr>`).join("");
+
+  const hist = (t.history || []).slice(-10).map(h => `
+    <tr>
+      <td>${esc(h.date.slice(5))}</td>
+      <td class="n">${h.highs}</td>
+      <td class="n">${h.gate3}</td>
+      <td class="n">${h.buyable}</td>
+      <td class="n">${h.dv_triggered}</td>
+    </tr>`).join("");
+
+  const chips = (t.rejects || []).slice(0, 6)
+    .map(([k, v]) => `<span class="chip">${esc(k)} ${v}</span>`).join("");
+
+  box.innerHTML = `
+    <p class="sub">신고가 · 물극필반 <span class="miss">게이트 3개 이상이 후보</span></p>
+    <div class="scroll"><table>
+      <tr><th>티커</th><th>종목</th><th class="n">점수</th><th class="n">게이트</th>
+          <th class="n">낙폭</th><th>못 넘은 항목</th></tr>
+      ${bo || '<tr><td colspan="6" class="note">해당 없음</td></tr>'}
+    </table></div>
+
+    <p class="sub">딥밸류 <span class="miss">• 는 오늘 트리거 발생</span></p>
+    <div class="scroll"><table>
+      <tr><th>티커</th><th>종목</th><th class="n">점수</th><th class="n">F</th>
+          <th class="n">낙폭</th><th class="n">200일선아래</th><th>왜 싼가</th></tr>
+      ${dv || '<tr><td colspan="7" class="note">해당 없음</td></tr>'}
+    </table></div>
+
+    <p class="sub">통과 추이</p>
+    <div class="scroll"><table>
+      <tr><th>날짜</th><th class="n">신고가</th><th class="n">게이트3+</th>
+          <th class="n">매수가능</th><th class="n">딥밸류트리거</th></tr>
+      ${hist || '<tr><td colspan="5" class="note">기록 없음</td></tr>'}
+    </table></div>
+
+    <p class="sub">다 걸러낸 조건</p>
+    <div class="chips">${chips || '<span class="note">집계 없음</span>'}</div>`;
+}
+
 Promise.all([
   fetch("data/news.json?t=" + Date.now()).then(r => r.json()),
   fetch("data/research.json?t=" + Date.now()).then(r => r.json()).catch(() => null),
-]).then(([news, research]) => {
+  fetch("data/tables.json?t=" + Date.now()).then(r => r.json()).catch(() => null),
+]).then(([news, research, tables]) => {
+  renderTables(tables);
   document.getElementById("stamp").textContent =
     new Date(news.updated_at).toLocaleString("ko-KR",
       { month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" })
