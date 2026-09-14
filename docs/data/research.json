@@ -1,0 +1,41 @@
+{
+ "updated_at": "2026-09-14T15:19:42.629200+09:00",
+ "total": 0,
+ "stocks": [
+  {
+   "code": "000660",
+   "name": "SK하이닉스",
+   "items": []
+  },
+  {
+   "code": "005930",
+   "name": "삼성전자",
+   "items": []
+  },
+  {
+   "code": "257720",
+   "name": "실리콘투",
+   "items": []
+  },
+  {
+   "code": "086450",
+   "name": "동국제약",
+   "items": []
+  },
+  {
+   "code": "GOOGL",
+   "name": "GOOGL",
+   "items": []
+  },
+  {
+   "code": "MSFT",
+   "name": "MSFT",
+   "items": []
+  },
+  {
+   "code": "SPY",
+   "name": "SPY",
+   "items": []
+  }
+ ]
+}

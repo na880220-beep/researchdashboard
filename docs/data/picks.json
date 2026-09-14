@@ -1,85 +1,54 @@
 {
- "updated_at": "2026-09-14T15:18:37.253407+09:00",
- "lookback_hours": 48,
- "total": 0,
- "stocks": [
+ "updated_at": "2026-09-14T15:15:44.362002+09:00",
+ "picks": [
   {
    "code": "000660",
    "name": "SK하이닉스",
    "market": "kr",
    "source": "관심종목",
-   "note": "",
-   "items": []
+   "note": ""
   },
   {
    "code": "005930",
    "name": "삼성전자",
    "market": "kr",
    "source": "관심종목",
-   "note": "",
-   "items": []
+   "note": ""
   },
   {
    "code": "257720",
    "name": "실리콘투",
    "market": "kr",
    "source": "관심종목",
-   "note": "",
-   "items": []
+   "note": ""
   },
   {
    "code": "086450",
    "name": "동국제약",
    "market": "kr",
    "source": "관심종목",
-   "note": "",
-   "items": []
+   "note": ""
   },
   {
    "code": "GOOGL",
    "name": "GOOGL",
    "market": "us",
    "source": "관심종목",
-   "note": "",
-   "items": []
+   "note": ""
   },
   {
    "code": "MSFT",
    "name": "MSFT",
    "market": "us",
    "source": "관심종목",
-   "note": "",
-   "items": []
+   "note": ""
   },
   {
    "code": "SPY",
    "name": "SPY",
    "market": "us",
    "source": "관심종목",
-   "note": "",
-   "items": []
-  }
- ],
- "sectors": [
-  {
-   "name": "반도체·메모리",
-   "push": true,
-   "items": []
-  },
-  {
-   "name": "화장품·수출",
-   "push": true,
-   "items": []
-  },
-  {
-   "name": "제약·바이오",
-   "push": false,
-   "items": []
-  },
-  {
-   "name": "전력·조선",
-   "push": false,
-   "items": []
+   "note": ""
   }
  ]
 }
