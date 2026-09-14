@@ -1,380 +1,105 @@
 {
- "updated_at": "2026-09-14T15:26:00.757886+09:00",
- "total": 42,
+ "updated_at": "2026-09-14T17:32:23.475903+09:00",
+ "total": 10,
  "stocks": [
   {
-   "code": "000660",
-   "name": "SK하이닉스",
+   "code": "LILAK",
+   "name": "LIBERTY LATIN AMERICA CLASS C",
+   "items": []
+  },
+  {
+   "code": "TXG",
+   "name": "10X GENOMICS CLASS A",
    "items": [
     {
-     "title": "SK하이닉스 미국 상장(SKHY) 주가 전망 2026: 목표주가 $245.21, 본주 대비 약 36% 프리미엄의 의미",
-     "broker": "Mitrade",
+     "title": "10x 지노믹스 이사 스튜엘프나겔, 120만 달러 규모 주식 매각",
+     "broker": "Investing.com 한국어",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGc4VW4yZXRWWllhSVhHcmtIdTBhdk9wNXNVa1pXcFkwZjVPZ2pHNFdQTkRPTmUwZjg4bUtzU2RJc05INUgzaW10TEJ2d3VObDY4eVpOdXQyT2laZk5STjdBb05KVFkwNTUwdTZBQnlYRXJOWm5qa0NDUW5TRVB3SUhZQkxwQlMyMGRTMGhqQQ?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "\"SK하이닉스 주가, 여전히 싸다고?\"...'파격' 전망 나왔다",
-     "broker": "한경매거진&북",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nZ2UtTmpzY1hkSFZZUlVEOWtKVERtTkxLRmE4WC1sbFBJZm1hTmtHQksybUh3cVpnbTVMOGxPX2pncUR4RzdWZU1WbGN0NlR6WjRCMTlUbUFTT3RONGFPTDRhdm1oTFdicFBzSA?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "“SK하닉 330만→240만”...‘뚝’ 떨어진 목표가, 무슨 일? [오늘, 이 종목]",
-     "broker": "매일경제",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZEl4MjdrYVM1VDVvRGdSTktWNUNxVHBkeHU2bERzSVJvVWRfVTZ3MGFvRE84a3JfSmFGLXRiT3RrNmM4MS1LOVBJRjhqajc0cko0NGVB?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "목표주가 148만원? 470만원?...SK하이닉스 놓고 증권가 '극과 극', 왜",
-     "broker": "주간조선",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HMjRyWjNhS09iTW5RSXJVRGdmRFRETFlWLXJnZ0s3TWdCTGZLX2RIbW5xT0ZoOVZZTmZzNFRWSVNGUlZnWHVBTnJnbkVHTzFhOV9QWmsxdFp2ZVhPdUJmU2l5SHhhQWFMcFHSAW5BVV95cUxPTElOQW1SaUpXSVdWeXcwZi1mYXg4QmpVSFI2UEllanhFc2ZnWDdXTEJJRE9kV2pMN3hpWjVJQUx5Unk2cVRhc0twbnpNWmZqazVRb0RZQ21mMDVlTmZONDB2THhUM1VYazFiVzZMdw?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "실적 발표 앞둔 ‘SK하이닉스’ 주가 급락...증권가 목표가는 더 올랐다",
-     "broker": "kukinews.com",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50XzZoVmFuX2JBQndZTFVuTGFkVFRXeW1TWktMSFJPWUk5c1c3ZFZqRkUtVTdxTEdsdkYzbHRQQ1I2bG5hOUxXVkFmU2hnd0VSdktobnY2bGVGVThHZVJTTjdYWQ?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "개미 13조 팔았는데···삼전·하닉 목표가는 되레 상향",
-     "broker": "시사저널e",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uVlhvcGdfTUtnQ2JiZ202Q0s4Y1RIZ2ZUcTF3OUVnbFgtVjJlejRvRnF0QkhuSUJXOEhjWDIxRzNmYnRNTGdwS2hYMmxpTHhRQkhMejFHQU1mLWhjN1JBSElfUXVjWkJyd0I3UTFSd2g1UdIBdkFVX3lxTE5Zakp5RHFteF9oSGIzN2N4eXhHY09yeWJ2LVpKYzlJMXY0RXN6eTVDUmd6c0dINmVTdnZwa1pWOWxvOVUtUEFKR2RnNXVvZ2Q2d0l5YkU2ZTBMZXlVMWpFZ1RUbm9PNXhPUVpydjVOZW9aaVFPSFE?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnOGpLU0VRNG0xdmMtamJKSHhhS3FXcV9TeEpPTjRKY0JZYjdDX3BoS1QxZDQ1SkpzTWhzelhaUW55UVpRSVZPUF9HaEZ4NS0xRzNsT2FTODRCWVBWcTBpcGJLRUlfVWhQSGR3SVJ2dFhKOHVTaFprOEl1OA?oc=5",
      "kind": "기사",
      "dup_count": 0
     }
    ]
   },
   {
-   "code": "005930",
-   "name": "삼성전자",
+   "code": "HPQ",
+   "name": "HP Inc.",
    "items": [
     {
-     "title": "쏟아지는 주가 ‘하향’ 보고서... 삼전닉스 목표주가도 3배 차이",
-     "broker": "조선일보",
+     "title": "휴렛팩커드 주가, 오늘 급등하는 이유?",
+     "broker": "Investing.com 한국어",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaXd2X2NUcm5JVzVDUnAtOVJSWnUtMFpVRkFMVVZGQXR1MnBhdGZ2SC1OemRRdWRWMy00bWNEOWp2LURUbmN6dzgtb2lkWlhvNHJOWkUtTnEzdlJCYUV5TkV6aUdfR1NrM3hqZjc1TVl5OEtfaWNyTDFpYjdWM2FhWg?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRTVfejZZR3ZVbHhncHV3VHRINHNSRXZZeklPZXdCZlhlYUpHVUpaV1NMMzhUR2hsY1VicHk1U0FuMkpOMGpFak5GRFpWeThBcVVPLWd1X0ltVkl1eEpPYmtuX1h6MFM3UEU3R3dXbWtnS2JONDRHNUtnZWVFcnRpS1RRQkFYNUk?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "“37만원 간다더니 왜 25만원?”...삼성전자 ‘최대 110조’에도 주저앉은 이유 [숫자 뒤의 진실]",
-     "broker": "v.daum.net",
+     "title": "HP Inc (HPQ) 주식 움직였습니다 상승 7.07%에 9월9일: 핵심 원인 공개",
+     "broker": "TradingKey",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6bUszdERVV0JkWXZaQVV4d3dtc2dGSGxuRTF5bEtvZUgtS0dFZlpBUkZrUWNTeWhTQWFOOXBxUlFGWlFQVjJQd0Y0T3p5OWM?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVNlWHZydEtOWGFZUUVkYzFOZGotYnhXTWZyQkE4Q1JNYjB1M1ZFbk1hZHpmeGRmVE14SXBLY21wWkhTcG5zRWNyNzBzYS1jUUdyUUZOc3dHVENLQUMxVFBUMWFpY2dTNkNjVkt2bEVQMkRSTkFZVGhmUEdqZmNpNUYxVHRONjFIZ3huTm5n?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "삼성전자 목표가 '30만 vs 65만원'...증권가 전망 두 배 넘게 갈려",
+     "title": "모건스탠리 목표가 17달러로 하향...HP(HPQ) 주가 3.8%↓",
      "broker": "infostockdaily.co.kr",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JemNFQkNKekNYWHFmc28wUGhlV25JR0g0X2Nvb0wzRG5pZVktMXJudktfZFBHR2pVTGdCLWMxVUdWTFBLMUY4U3dNcUs0NnRBQWpicXYtS090a1lDc0FCS0JXd2ZmRmpzdDdQMkowUkhMRlIxbVE?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "\"35만원\" vs \"60만원\"...삼성전자 두고 증권가 '극과 극' 전망",
-     "broker": "한국경제",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhQlJPMkZRLV91UGY3bkw3MFVxM3ZGSVR6ZGJWR2tuV01YeTB2emR2cFFYWlVxSktkNXNwSG9MbVFxNzZKOVBNUWJOaXhxalB6dWRnYkRrcHUzQQ?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "삼성전자·SK하이닉스 목표주가 '극과 극'...AI 반도체는 사이클인가 성장산업인가",
-     "broker": "폴리뉴스 Polinews",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nRmNGNk9zeDY2MlR2MU9ENWc1dWlLaGxkeldMZVMtbUlOWHhvcHhPWkN5YlBlRlRGa3FfMnI5VDZtajNaazVGMFJxdGp1TnozSkxJb1JXVlJTZjdRY1MzZS1CS2tVTGZZcEp6TF9B0gFyQVVfeXFMTTN1WFpJaFpMc1NYbkROTjlUZEVpS0J5MUlILXBWNVJCcHE0NXRoRDhQUVhTcmlnazFhbVBwUFdaVzR6cEpqQk8zMDlnUnNkbkZGdDV1SkRRcWd4UmlIaU9WZEJJVWpBWHNsazBwTXlJX013?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "“삼성전자, 목표가 45만원 간다”...LS증권, 12.5% 상향 조정한 이유는",
-     "broker": "매일경제",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZelEyWjExOEZDWmtqVVNlczdsbDBUMDhlcUltVWRUSnFsRTJxTnk4NHR0cUN3QWMtLWJDc3c5dDFzMFc2NlNaRnZSRjI2b2hLYVE?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    }
-   ]
-  },
-  {
-   "code": "257720",
-   "name": "실리콘투",
-   "items": [
-    {
-     "title": "매수 리포트 속 날아든 6.72% 블록딜...실리콘투에 무슨 일이",
-     "broker": "연합인포맥스",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85RGYwckxZYks0dUdKV1RrbFd1UV93dl9LOEk5SlhKTUZEazY3ZU1oaE9ha1E0a1U4cTkzNTYtTmt0WGpvY19KX3BaMUdlOW9FeHZOdkhUTElWUXdFUTVxam43ZFdCd0I4UUdQTWtEUks?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "KB증권 \"실리콘투 목표주가 상향, 3대주주 지분 팔아 '대량 매도 우려' 해소\"",
-     "broker": "비즈니스포스트",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxc1hmZXRhZEdhZE5RbXBmUThMZlNJY0NZcHo1Unh6S1FVWkQxTUpYV3k4TTRtaHlhZjh6MEpOSGRXN0QzYWQtTy1OdGZMb3dpOGMxaGt3VV9EOUlSYVRGbjBvdV9neEFaZF8zbWdqVnk4VEU?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "실리콘투, 유럽최대 사모펀드도 알아봤다...목표주가 6.5만원으로 [오늘나온보고서]",
-     "broker": "매일경제 마켓",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85clZZZ3BXXzVmZ0tuX0Z0RXNYWmk5clk1U3dPXzd4aHpQdGJoaTJwZEhYb2EwenFuT3lUVDVaUWZGZlhCRllGSjgxNVI3MzlxN0E?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "한투증권 \"화장품 주 10월 반등 전망...에이피알·실리콘투 주목\"",
-     "broker": "디지털포스트(PC사랑)",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jbVhtWFVFTGdueEtIMWd3UWxPcEdyeHdxZmF1cTVnUktqUjN1R3lCNXpmU3FLY0xyV3VtdHY0a2N1a21JbjRhanZvazl3YjU3ZG1TQTFUdmJtbXFhdUppVGxrWjZkNXZMY0dR?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "[모닝 리포트] \"실리콘투 '매수' 유지...밸류 매력에 안전한 투자처\"",
-     "broker": "뉴스핌",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MSko3TEh2QkZEb3BwTjlCbGF0dXFxdDVhdFhfaUpTS0d5YmgtYmVpTE1Yc3hRaWtuRUk3V0RLOEFGLTVhcHM3UjI4dzE0S0llX1Q1TDBrY0JJM2lR?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "실리콘투, K뷰티 글로벌 성장에 다시 주목할 때...주가는 우상향 흐름",
-     "broker": "증권일보",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wOFk4cDR1VXI1TXlweHV3cWlzcDFUQ3dWR1k1SjQyVGs1WHVaeWN0VjNWbVlLRTBvalVqUUpCd1I0WEk4UHl3QU5SeVlXM1BkVVdYazFldUhpSjNORDBuWg?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    }
-   ]
-  },
-  {
-   "code": "086450",
-   "name": "동국제약",
-   "items": [
-    {
-     "title": "LS證 \"'화장품 수출' 동국제약, 현저히 '저평가\"에도 목표가 하향...왜?",
-     "broker": "v.daum.net",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SRWZvbjJ1RE42VmtSNUVGd202TTk4RlJmLVNoM0VPLTkxMGtpcGNpWlo2ZExjTXZ0bDl4M0JjdjBQVmZwcGc?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "동국제약, ‘화장품’이 주가 좌우",
-     "broker": "더스탁(The Stock)",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BblVaUXVMcWhUOUxTaUplakFwVXYzLWRNNUxaSm9CMS1NeTZEcmJsTnpLUnpGXzJ6SVFqQVpaTHpnbGg3VVBzMEs0b183dkxmNm4zZ1F5U2dFMlQzRTVXN19ZSG5XLTNRUmc?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "동국제약 '화장품 수출 확대, DDS 관심 높아질 듯' 증권사 발표에 강세...4.48%",
-     "broker": "매일경제 마켓",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44NXZjTlEzalBVTy0yZTMtNE9YUEFvOGs5LThOZE1UVlAxUm41MDRXWTZwbllSdXpPSk1rWFNEOWQ0OHVUb0pGVXRiQlRuRFR4R3c?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "[모닝 리포트] 동국제약, 화장품 수출 질주에 분기 최대 매출",
-     "broker": "뉴스핌",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3Sl82bms2TTJsOGFYcWtPeWVlWF8yemtPWEhDWFdMZHIyR19JS1FqSjZkcUJXdkpucTZFZnNYV0VLS0pDbVEwYlVtbXF0N2N0NWItSkhzMWxycVlt?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "동국제약, 화장품 성장 잠재력 재조명...목표가↑-상상인",
-     "broker": "마켓인",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55cVBNSi1lRkp1ZG1FZ1hHX0tIczlNcktYLVN2SEFpU3k4SE5paGhsNXoyVmMtT2w2WldqQkZpQjlVVzVNLVZlbWRIUzhiWjJKajF1WmJpRWdCNlVmTk1od3B1UVNVRldWWWNpUDhrcXpVTGs?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "[투데이리포트]동국제약, \"2026년에도 최대...\" BUY-LS증권",
-     "broker": "씽크풀 AI",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qUkk5LVB3M2JSQktQUDd1ZnVXd1VRSlFvVnk2QTVLZ003Q3l1NzFSM0RZVlA4YzlNLWFVenVjdEh4R1NyVTRucEtMVmo5RDY2dXcxb1VBOTEyQlAwMEh3ejVvbElQZWlB?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    }
-   ]
-  },
-  {
-   "code": "GOOGL",
-   "name": "GOOGL",
-   "items": [
-    {
-     "title": "알파벳 주가 ‘내년 500달러’ 전망 나왔다",
-     "broker": "초이스스탁US",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aaDgweTc0M2pva2xHWUExMkdqdk5aOFEtZ1NvU09HT1U1SGotam9TWFlBV3hLYllmNk5qZnE5Ri0tZ3lJU0VjMjlaVlFSNjRycklCUHd0cDFPb185a0YzbWxR?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "UBS, 알파벳 목표주가 상향...생성형 AI 수익화 진전 기대",
+     "title": "RBC, Helmerich & Payne 목표주가 상향... 경영진 역량 집중 주목",
      "broker": "Investing.com 한국어",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6aUJUemN2WkVlR19zUHpwRVZLTjNya2pnRjdoVkVKM0h1SnJtcWg4V3BpX0I1Vi1ySWNUQ3NDZENBODJCUGZ4WTh0anhFd2pDQlVNeVpQX2pCd0lCcXZjZV9yV2FNNWVXTGd4WEVGOFU4MFU5?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMmJldXZNWW5UNC1kOHJuSEc4V2hsRktVeWVRQWluRW12WkJhc08xcTVWMWZ0STdxSF9BTE91WVJiUzMtSFlaWENRS3pMeHBVNnJibTMxUzdRbXdfSm5HaWpHYUk3SkI4cm9fc3hnOE8tcmNY?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "KB증권 \"삼성전자, 구글 AI 생태계 최대 수혜주...목표가 60만원\"",
-     "broker": "연합뉴스",
+     "title": "[TODAY엔비디아]HP·레드햇과 손잡고 기업용 AI 플랫폼 개발 추진",
+     "broker": "edaily.co.kr",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45UWtXTU5aTG9ONEVDdUxBbGZ4VHVxbm43VGg0SnNZOElmT0k4THRkeDZLWUw0MERySFJ0bzVIcEs3YV9FLTNSakxidHJjUFB3WWpyUTRvaTNNdUXSAWBBVV95cUxOYTlHUVU3a25xdl9XTWxfQ0U3Y3dWNl9IMmtZLXlmU2VsbEk2MW5zZEI1QzdkYV9sbEV2ZzNNYmExc1FQdGhkM0E5T3haY2dYY0p4YUQ1Q2ZrVmstWEU0Z1c?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnRBT1BkRmNQSTUwUkF4MzZtODdSdHBvTmVQNkdIQmg1QmdhTWhXaXpqNFhXYWhQbms3cWVtSUo0S2V2eVFKU2Ztb1E2VTBjeHNfWXJKd2RYZUQ1bFpPbHE3MFlfZGZLcEJqZkNIV0tiWk1PdFMxQmVBODVzbnlIRg?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "GOOGL|Alphabet Inc Class A|가격:338.500|Chg%:+5.900",
-     "broker": "TradingKey",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OVMxWGwxYl81M0J0S0c5bjBaOUpzalIxSXV1MXNsSHV5Mnh0Z1lldUNrVFFONFZkc1EybzAxT05XRzJ3RndOOUFQdjJfRjFzMWVUNDV6QlVySWhTYW5r?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "구글 알파벳 사상 최고 목표주가 등장, \"AI 수익화에 다양한 채널 확보\"",
-     "broker": "비즈니스포스트",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNWstM2M1RC1tN0tNNHpzTVBwUHZCZ0hQMFNqRWlQYWRyUlk3ZVowY3c0YmZ4OFpaZ1FfVGZQQUdNUjhwOUk5REE4WjBxWXlFQ3JzdTFHQUsyUnFDU3F2dXdJSlFfWlFRaU1MWkFBWkUyc0U?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "구글, AI 최강자 되나...알파벳 주가 1년 새 160% 급등",
-     "broker": "지디넷코리아",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yREJ4SjZMYURnWDNSNFdjOXgwVmFUYm9uOE1oSW1idHNsMXQtU1BTVEkyODRlcDBaMnRjZi1YMkx3T1NzMUhTV21nbzV5UjhfNVY0VDNn?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    }
-   ]
-  },
-  {
-   "code": "MSFT",
-   "name": "MSFT",
-   "items": [
-    {
-     "title": "스티펠, AI 모멘텀에 마이크로소프트 목표주가 530달러로 상향",
-     "broker": "Investing.com 한국어",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tV2hibFdBU25QOU1zRll0SEhFV3pVdTYyNFNuaEdVLVlqbE1OYXBXTC1iSGNiNnczVXBLWkxwbGtTSXVTWWJuZXYyOWlLcDFEal9zVVlJcnJQWnVqZUZDaU02RTNKTEdQb2t6dnJCaTdzWnBT?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "JP모건, MS 목표주가 13% 상향...625달러",
-     "broker": "연합인포맥스",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96V002SVdydElSZzlzWEluckR4a2JxNk1PdXFfMFh1V1hvNDhpMVJqRW1VLVZyWWJXa3dGcG9MVDJtaHpmOU9Fa2h6cGdpUnIzVDhERUFZNGZOek9PNzdtTHY5LWQ2bXdfUXVRU2ZPSUjSAXRBVV95cUxNOXlXMnVwUERsN1RLeTBBQ2VENHJIYlU2eTZzbmp1S0tDbVpkZzZvVk1ra29zZW5yaU1YdXR6X0tFUkl3VF8ycUxwM3NOSUt1VW9QMk02NE9WLWdSRUxhb2laZ3A0ZGhrdnpNVURHYU01OFozSQ?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "마이크로소프트 주가 전망: 애저 성장률 40% 유지 속에 MSFT 570달러 돌파 가능성",
-     "broker": "TradingKey",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmpNN3VScFBKRkRNalVIM1hiYUVmbnhCam5ENVZJV2szMlhGT0Y4UUdGNUlSU19vSU9mdmVlWUZ0cFdBQjZsUl9uVnhPTlh6VUNDMW1FRUFRbnZqM2liQXc0Y2lDMk9YV05PcWpOSU8zbDVoOVhkczJKUUpvUXZYbXNfVTl3ZW5QUlJ3OFZ1VHVkcXFuSXh2Mld0SUF5Qllxb2xldmdIVVRObm9tYTdmR0MzSVpQakc1ekFMaVU2R0NLWW8xWkI0bUtra1hrRWtGTExYTA?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "[GAM]MSFT 600달러 예고 1 시장이 놓친 3대 성장 동력 '비중 늘려라'",
-     "broker": "뉴스핌",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NaTBzSEpDaHJpaGRUNkhoR3BmM08zcXpzczRENy14aHJRdjFUYjY4YnVQSkZPQkJqNEE4T1UzVkNoTUJYcGxyODU3TW81OW9TUmFqdHFmM3IxdlJq?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "마이크로소프트, 소프트웨어 시장내 유리한 고지 선점...목표주가 650달러-웰스파고",
-     "broker": "마켓인",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95R1F0cXJBanNIZTNmZ2dQSGo2bER5X29tUUNuVzRiZXRGQTYtbEM2QUpfVFZRLXRCU0pHQUxUa2xFem16dkppVlhZVjR1Y3o3M0xKQXRiU3NSYUFRS0tyZEhUXzFEMTk4cDlkZkV0MmloMTA?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "“지루한 박스권은 잊어도 될까” 마이크로소프트, 마침내 본격 반등?",
-     "broker": "Benzinga",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNc3BsWEVWU0xLQUl5MU9IS1l0N1d1ejNVanFnd05XUEFZbDFwOEhtZnZYVFJxUUV6WHNyX1pucTNkUFZtdWpjSHpfU1UtZEwtTUtta0c4Y2JnNkRmZDA0emd5Mi0tVTJCaG5FcFdYTjBqUC1zcmdzQzhmZUZLa2VZZnJnR0ctNHoxZUVXV2I4S0psay0xaVJJcW1ubUVtX3ZBY21mOEUxWXdrSC1sblJDaGVBVEdQUGhRaDBFSnpQWWZHcjRFckhsUFNhMmNvRjFjaDFuWHJNTmlFeWhYVW9Jc0hoWkZqRC1ndDJWOW9uTmlPaVZITWx6cDJsckZDUFBReXpIelhwUDRsRk9nRmZwd19PZFpWcFppNXMxVW5iMnpRSXlBbGlrUXpBcnlZRW81LThjNUhDSGpRM1BSVUE?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    }
-   ]
-  },
-  {
-   "code": "SPY",
-   "name": "SPY",
-   "items": [
-    {
-     "title": "스노우플레이크 이사 마이클 L 스파이저, 1,220만 달러 규모 주식 매도",
-     "broker": "Investing.com 한국어",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uU2xGaXlDQWNzUkJVbGZaV0VUbER5cFhvdjliRzZTVnAycHJhN2hrWmJ4amNEcDZrM2RnWXA5VENtQkpSLVpLVnV1Uy1GQmVPaVFWcFl2VHZJbEl2MHZxWTJQclI1aG5FeHhjZjdzOGpNSjJzMU1kdm93RQ?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "SPY ETF가 오늘 상승한 이유는... 2026년 4월 16일",
-     "broker": "wowglobal.co.kr",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZTE1ZaFp6RWtfNHV1RkNkMjZWOHhfcjZfbjQzMC04R2l6STQ3d1N3X2Vuc0RDT2kzSndHamw3dHNBaVZIR3FPS3pBYUFmVVdVbFhtbkRLUHNmbFA2LTExS29UNVZic2xPOTg3MGZnU1FoREE?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "RTX Stock Sits Around 14% Below Its High as Raytheon Bets on Doubling SPY-6 Radar Output by 2028",
+     "title": "HP’s Q3 Earnings Beat on Revenue and EPS. PC Margins Tell a Different Story.",
      "broker": "TIKR.com",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUxlamNEckttakJUNnpRS2dvbk00Rkxvc0RzdkpwN25DX3RzLXZBdThNclc2NWtfajFjSWs0b1hiMnJlbnQ5dFR0dUVKWkhsTXpubFZJVS1oSXk0SU9ReFhyUHRzbFlRYXVkc0JOZ0Qxd0dzY016U0trakdYRy0yLU1UZWdYWWh4d3lDRk01NGIxRGRaS2NIS0dFWkpieHhjdDIzWEZxQlBKOGYwOG8yX3ZKWjhjRW4yd2EwZDhwVnppQQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHNkUDAtYndjUkk3RkJaNV9jQkp4WkJpcFV5ZVFIOGkyZXczNEhHOC1yaEpNdW1Ec1NjTnRMY3pfVThWVkZ3X0ZKWEN2Y0lsTVlkS2tqbkJreFJEdmNQdEpDSUtUVHUzX1hIZlNJcFdOOUJnY3ZNWHdKX0ltcGZpbEdkLXBqUnp6Um5HanZubkpmM193RGZwTFd2QUFTdndzbW9TcQ?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    }
+   ]
+  },
+  {
+   "code": "ATRC",
+   "name": "ATRICURE",
+   "items": [
+    {
+     "title": "AtriCure CTO 살바토레 프리비테라, 201,135달러 상당 주식 매각",
+     "broker": "Investing.com 한국어",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kLVFKSEMwZDZCZHNHaWdocFRsV21Hd0FYLUF6QVJPRE9ZRVA1OG1wRjB3cUpJOG82MjItMDNKVThBNXBkN2hrNWZyUFlvVWpnZ1UwVEFKNlpBcGV1ZUFhZm1WellhejdvNWNrTXB1SHJBUzV6aXdEcTZzYw?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "SPY 790달러·QQQ 740달러?...20년 만의 ‘최장기 랠리’ 정조준 [2026 재테크-S&P500]",
-     "broker": "한경매거진&북",
+     "title": "실적 호조가 AtriCure 주식에 대한 시장 전망을 바꿀 것인가",
+     "broker": "simplywall.st",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJX0VRZEY1WmFuSnl6NmlhdWdFS0NlQmw5RHBIS2tTNUl5OXpINTMxbXNLSkN1WS0yc21fWDhQbGNOakp5MldKX0FROW1QZHZnS3JfNTZpYWlkVmZLc051WmVuOHp2bVRjLTZ3Mg?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjJQRHpKWmdGelRhSzBvd2phbE1DeXZvajFaRjVDd2hIOWpJaW9KbEJrakhjNl84Ym1RZ3htRkhpdEhVbDdCcXVTcGhZeDFLbldDUVVmZEVhcVlkbmJwTDZMblJJTkNxbldISUMxN0RUTEljTU9UampwT1FVaE5lNW16VDl0SVVDUnpaUUNOa2QycUlES0xz0gGXAUFVX3lxTE02MlBEekpaZ0Z6VGFLMG93amFsTUN5dm9qMVpGNUN3aEg5aklpb0psQmtqSGM2XzhibVFneG1GSGl0SFVsN0JxdVNwaFl4MUtuV0NRVWZkRWFxWWRuYnBMNkxuUklOQ3FuV0hJQzE3RFRMSWNNT1RqanBPUVVoTmU1bXpUOXRJVUNSelpRQ05rZDJxSURLTHM?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "1년 뒤에 79% 상승 가능한 주식? 저도 투자합니다.",
-     "broker": "contents.premium.naver.com",
+     "title": "AtriCure(ATRC) 주가는 성장 전망을 고려할 때 적정 가치를 반영하고 있을 수 있다",
+     "broker": "simplywall.st",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUY3eHc2YmxZQzRiSFBfLUE0bHdfWFdvNkpTbldLb1FWVG1FMkNXcVBUeElNQ0lFaFdFamVRbnFlX0dDbzgtWERHaXJ5NlBtQ1B3elJQSkR1X01sNXg4TmhVN0NJSkZYU0lkam1MU0ZsY0syRk1UOWVDN2FRajlyVWV2dWo4bG9rT2Nv?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "“폭락장은 기회”···골드만삭스가 꼽은 ‘지금 사야 할’ 낙폭과대 소프트웨어주식 4종목",
-     "broker": "Benzinga",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSHlPRFNIc3JENk5JUWcxMWlaYkVrM3RfZ242S0U5ZHBWcVNkWGFnR3pTZkZ5OTZKb3NPWkpEelhrRlJpa2Zsek96MVIxcHRZRzI2LXlVdkQtbDFlT29zM3JHbDA2SXplZDJtd0VGRUtOSlNkaVgwZ3UzWG5yejdRVWtqcW16Y3dScTA0cnFuWThJb3ZHaWUzSFdkVjRVNzVodTREWDVENzAtWnl2QURkRmQ1VEV1bHk0SW5KLU81bGJVVmliM0lVOWNHZ0FRbi05cFBkODBGd1Rqb3BlbFUwR05wblM0eEh4V0Vyd19RWG9YbmhGZU1pNGVPWndpQm5PWnhsdjdmOHBjbUYxZmx4VkVMUFhERHc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX0tSMFFwenpwdER4RnJKeVM1V2ZwcXB1dEUzQlYyaHlUODZYZWZwTXVEeEFTZ1ZyR3NpcEhTX21GTWp0clhlVU9SdzZINWpMTXJ0Q1VVUmlUT3Blc2tQT0htajE4eTZVb2VhajlJQWRnUlVVSnFKY2dwbnNBdDJrb1g4TXpLZzhXWWpEYWg1VUtyQdIBlwFBVV95cUxQQTFhY0VKekFYWGVBNnZNekxYRko2UGJtWmFqeDJsNjh6U05fcGJlV1JQVmItRDdqdUYtd1ZxVVQxcjQ2LTlMOEctQmRQd1JzU2oxb0FtQnF3Z0gyRlE4cS02MFFrRjZGc3cwWUNta0c0UFFCSTQwcTdSX0ZwbFBhRzZuX1BiRE8xS0R2ZS1EcXgwQlcxQ1gw?oc=5",
      "kind": "기사",
      "dup_count": 0
     }
