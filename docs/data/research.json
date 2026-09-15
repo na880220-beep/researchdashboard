@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-15T01:03:17.675371+09:00",
+ "updated_at": "2026-09-15T10:04:26.010546+09:00",
  "total": 42,
  "stocks": [
   {
@@ -62,7 +62,7 @@
    "items": [
     {
      "title": "These Two Healthcare Stocks Hit Key Milestones Today – Why Is Wall Street Bullish On Them?",
-     "broker": "tradingview.com",
+     "broker": "TradingView",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa25HaGQzb1FVTkdLbzgzaXdYaWgwWkZkRDhHaDFrUVo4V1lIU1MzUGRka0NoNXlGZ0VwYS1kX0ljT1N5Q1d2ZXdoN1VYRFRwVjFqZzB3Q0tCUi1OTWlFLVFScTlORVZ1ZEdneEtlakpKOGtiZl9DbTlfZ3hJQmdValVyQ1RjM0FRWHkycXhIaHJWVm9iUEtaTVhlS2RRS3VwR0FfUVhKanYyWU9qa191TFFWNlo4V3FnRHphWUdTQ19KQktQaGQ5QWVkaFBlOENGSTZQeE1vV05zQ0tKdjNCUnV3?oc=5",
      "kind": "기사",
@@ -123,6 +123,14 @@
      "dup_count": 0
     },
     {
+     "title": "Bernstein Sticks to Their Buy Rating for Humana (HUM)",
+     "broker": "The Globe and Mail",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVi1hLWhVRk5fbk1GZkMwYTAxcDFYbXkteTdfemV6NFpKb3dsZEgyMGNBdnIzeHIyY3pkZUhFTEU5T0NJdUZWWVdjdzc1V2ExTnVZWTZjbXM2UnZFdEdRSXhXNHd0WXZjWkswOXdUblZSQXRtMlVYb3FfR2wxemNLYW11X3B1dnJ1UVdRRFlqbXNtTEx4Wm1VY3NVQWhxX2p2b2o5S0ZpTFVqN0U2ZGFvWklCNVlZRTRQQk55RjVoRmI5V05aZXhJOGFVaVh3UlBx?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
      "title": "Mizuho Raises its Price Target on Humana (HUM)",
      "broker": "Yahoo Finance",
      "date": "",
@@ -148,17 +156,9 @@
     },
     {
      "title": "Humana Inc. Stock 12‐Month Price Target Raised to $283.54, Implies 13% Downside",
-     "broker": "tradingview.com",
+     "broker": "TradingView",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWFQ3MzZRN0ZqYWhzZUotYWNkRnBVOURaWG12UmllRXVoQjZpbE5uNXpuMkx1VXhZdXh6di0wd2l1dUxMYTh3Qzl6VTNTWllpT2xPZUoxQjdlQjhXYkpFV1k3QnRBSWtmZGFzemE0TmZtZ2dsd0VpdEZRSWxENjRpUFJLTHloWE55XzdQNWZiNzQ3TFVFak1KeURoZEd4QUJlbG9JbklZSHFyNFVIb3dBMHJRQkxOVUVEbjBjcVgxSFZuMlZMQVpfOTJSa2dIaXJQdU5z?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Humana jumps as it reaffirms FY2026 EPS outlook ahead of investor meetings, with recent bullish analyst upgrades adding support | HUM Stock News",
-     "broker": "Quiver Quantitative",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVHk4a2dNOXVVbEVLZlVrRFFmTnhWMGkyRXRCMDNWdko0V1ZPWS1DVUt1NkhOSFlHZFBTTkJudTUyN0dhYXdSYzE1R2k4YzVmekpPemEzUGk5eWlyMVFobGI4a0FaNm9TU2NjZ05aNGJiM1l1M2NXMllYT29nM0d1bG5HbndBRThqdzlNY1VDN1d3bzZyNzBJZWZPaDNERVFrUUFXVElEOUtqZzZSSVpLenNtSEdYeC12ZXlkeG11OGszM2VjUzdPSDhGbVNUdVBRMmowU21HVU11TFlDZ3VWdi1FTzdFVnY3a3AtakxVcnhOQQ?oc=5",
      "kind": "기사",
      "dup_count": 0
     }
@@ -169,26 +169,18 @@
    "name": "ATRICURE",
    "items": [
     {
+     "title": "AtriCure director Regina Groves sells $288,070 of stock",
+     "broker": "Investing.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2E5TmhGd2FzaGlMWlhBZlBhdDUwcjNCaEhEalhRbURYQ1lYZUQ1ZTJoOVVPZngyWWF3cTFENTJhN09MbHVwQllja0dOamRHRnl2Y2dIQVFQdmEzeWpUY0xXVEdlM0xXUDFiWlBWa2NieE1xU1hUU2FmQktPazNOa3M0ZlVRUEI0blRKX181MnBEY2hDZ2o1NnZfVHhuamlnNTA2QUJhZHlGX3dCUlYzN3g5Y2FUamJ5ZEtLUTF6Wnc1YWc1?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
      "title": "AtriCure stock hits 52-week high at 55.83 USD",
      "broker": "Investing.com",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEpIY1R2WW02akxjb0RzenluRDU2QW9KXzFlRi10OHYzVUtvNEtLMWZ6OVBiQm5qN1hOY0kweURFUkZTS01MMTB4YVRKRTdsUzg4WlpKdl9nb2phRkRMVG4zNW5TdkpnTlBaa2NmQl9Daks0amktYWk0WEUxLW9xTS1zY1JhbnBHRnhBT3g0WGN6ZkZnOHZScDFVNUtlbmwtNEE?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "AtriCure Executive Stock Sale Analysis",
-     "broker": "Intellectia AI",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85aXN3V044aUtyYl9fa25YVUpfamg2N1oxZVZzS2xkN0hhNUlGRTAyaWlqS0RUUDQ4TlR2ZFA1cXBTejRfN01wUUpwTFV0Wk9Nd2R2d3l3WXVfOWdoNzZIWWMzY0dhRFhjRkVYQUFFakJrNC1fOWxRLVNxclo?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Piper Sandler raises AtriCure stock price target on quality measure",
-     "broker": "Investing.com",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHZJclRyVk5WcHpxVnFCcnJiMjAyaGtKNmkxNy1xb0lobWUtWXl1b2Y3S2J2MHpfZkJvT0pmNU9TMmVsdUVNWEtjVEptOWxZRXA5d0NoQ2JiT1l1c1BwbW1fcGtlYjlFWFZTNGgwRDBBUi1xQW11eFRacWhodTNna0h4eXZVZmRLZFJ0LTBNYlEycTNjdFQzeFJDNy01RVBGaDJxSHVvSU5Ya3BNbDlxOHdPalBnZHEzdEExeHY4Y1ppc0ZWaEE?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
@@ -215,6 +207,14 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHFmaU5CbUVwZ2dUVjBCdTFZUHNyckR6VDE1RHhVdmEycXoydWVONnlSaGFaYXdYNkRKbGhtNE4xQjBuYkc2SW9sMHNLWUI3SUpPMk0yRWJ2SkM0MVJIcTBSMHN3TEUyRzkyNG9zeXhhemNtX3RxcTVJUE9rWlEtWHRwZTNPZFVkYmhGQnFreWUySGVRYWNnMDRMZTExQzZGc1kyTFNVQjN0Z1U1NWRvY1k5dkdvMkNFRTRF?oc=5",
      "kind": "기사",
      "dup_count": 0
+    },
+    {
+     "title": "What is the current Price Target and Forecast for AtriCure (ATRC)",
+     "broker": "Zacks Investment Research",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FRFk4ZUFsV2NzTUkxVklQUVFXWUd2WlFwZ3lvQjNIOGh2WnpXSm0tcDBuSkphM0tnZ2FvZ0h2a3g4SkV0UmczUnNsTUYzTzVqR1VMZE5nbkttamhRTlptdEtaWmxaa1YwLW9GNzgyUjZWdG5wTjkyaw?oc=5",
+     "kind": "기사",
+     "dup_count": 0
     }
    ]
   },
@@ -222,6 +222,14 @@
    "code": "APTV",
    "name": "Aptiv PLC",
    "items": [
+    {
+     "title": "Aptiv plc stock trades below analyst targets after recent slip",
+     "broker": "ad-hoc-news.de",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzhtUWpfaDJZQURkUkNibHBoZVVkZUtwRVMweFZNVU4wRThpcFZ2SkgwU05FNE1SNTdFS0dYbUlXMWhPblEydWFna3lyV1g3N2V1ZTUxQzNZalYyS2ZEQnFPemNsYVpaSElGY0ZQLTctTTRoWEU1SDlRU1V6dEZqVnRKSVU5WEN3Vm1TR0VlRzI3R3pUY1BqUENsMzNzWlVKZnBIUzdwZ29lam15RHFuOEFpZDJTQmZObWNnSUp0VXlWZWc?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
     {
      "title": "Wall Street Analysts See APTIV PLC (APTV) as a Buy: Should You Invest?",
      "broker": "Yahoo Finance",
@@ -232,7 +240,7 @@
     },
     {
      "title": "APTV Forecast — Price Target — Prediction for 2027",
-     "broker": "tradingview.com",
+     "broker": "TradingView",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aQ2Jodk53cEt2OUx2YjcyUUdmZF9hc1BnR0NDOVZsdFBpU2NENmdhLV9kVFRXVXhiRURVX0VXTi1mRmhXVkhvM2JDSHFsTzJraFEzRjMyVHZtUzFrejMybWRPVjZfSDZuWFNOVDlJTjQxbFlBQk0w?oc=5",
      "kind": "기사",
@@ -247,18 +255,10 @@
      "dup_count": 0
     },
     {
-     "title": "Is Wall Street Bullish or Bearish on Aptiv Stock?",
-     "broker": "barchart.com",
+     "title": "UBS Maintains Aptiv PLC(APTV.US) With Buy Rating, Maintains Target Price $80",
+     "broker": "Moomoo",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnhnVzJPaHZIRTNSMmZZcFVLSE9zM1N6WFdkU3hlQ1k2cVZJX0RKZ1VwUXZTeXlpN3NaVFpfYnhFa1FmclU1akpsY3liRURRUXYxX0hnTmJaQXZrN0kwR2owY3g3VUl4M0ZSV0FGX2R5bEVUeHhoNGpJY1NDZFFxQ3p0Z283S3kzVzdSRlF6dG9WN2tTTXpJ?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Aptiv stock heads into the open near a fresh 52-week low",
-     "broker": "ad-hoc-news.de",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQThrM0VnOXVsT2VTNGVnN3pUb1lxVERpajFXTEU2VkZMR2RfM2hwbFZFSTJTQUFPMG5rMHRJa2ZIYU9kVC1acE1FRkxEQ1JQamlwYWFTNk5LY25ZbHRYRGFwYUNuU2tOZVFXY0NZRjhyVDRpdnlwa0kwdHNaVnp5U2xYdXhIeXZjVlJFaE1zT3BRTHlYMFlpWTF4VmVJTTlzQ084b0xLbjNvUXNFb21iRF9nX2tCN0FNd3A0?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUhvZHhkZTVBTjJJNE5VWU5JNzNsMlpOUFVMeFU1UHBscnVFUG9tUV8xQ0NPTmVXdkktdWxJcEszaHc1NVZkR0ktQnlHbFVMZGJBR0RHaEZVVkFFcXotMUloTFlWUUx1UjZZbE5hWnVrQ0pKVjg4UDlsSW5XLVpzUmJ2cmo4TVpNUHhZWlRaTHFGdGN0clJ0WklYZXY5c3JYcmpCQV9Mamk?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
@@ -286,7 +286,7 @@
     },
     {
      "title": "ZTS Forecast — Price Target — Prediction for 2027",
-     "broker": "tradingview.com",
+     "broker": "TradingView",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qRHl6OVN2Q19jdDhoZDdxWDhoaTI4ZWZWcU9jWTFuckdiOFY5U0RoLXJESTFCZDlmOExMNU45UWcxX2FjSk9XMUQwZXhSTFc5eEFYRDVWZUJGbk5DQVl6eHVROHlULVJsWjVLeFdqbWU5aGlWemc?oc=5",
      "kind": "기사",
@@ -302,7 +302,7 @@
     },
     {
      "title": "The Bull Case for Zoetis Stock as Michael Burry Doubles Down",
-     "broker": "barchart.com",
+     "broker": "Barchart.com",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTFnZ3IxYWRXLTFhbGZ1NVlsTzVULU9aTkZxMTNtZVNDbmNHRWJzWjhMa0ZtYm03cnRkQVMwbFZfWkpyZ3prSGNIY0Nqcy1QcERCUFVVczR0VkR6Q3Q1MjNOOHk2UFQtRGk5ZF81UjZfcldYU1pvbHdVNXNhME00YlBDMi1ZQ1NJSEVQQU5hMGhac2tRUy1DaUV6TFZXbWdsRk9HRmxqYw?oc=5",
      "kind": "기사",
@@ -340,7 +340,7 @@
     },
     {
      "title": "Pentair plc. Stock 12‐Month Price Target Cut to $79.62, Implies 26% Upside",
-     "broker": "tradingview.com",
+     "broker": "TradingView",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWRGRkNtejdtZlNOWmtUNUhWTzlFcEQxeko0Vkdka1B6MWVYM0RPWHlyamJROGFINUhyWDZLaHVlYklDZ09GZWRqMUMxT3hrNE45RWZYUEpyazBMSFZZYWh0T1N2VWlwWlIwWG03OHZqZ3RGazRZelJWeDRaUUZJRVQwYU1pb09FczlQeEFuaVhnd2xwQ0llamtMZFVUMkZ3Y3RTRnoyaHFVSXQzaTRjdFlySzRGbE5wRF9FZXlYV01JaEdjWmV4WmdQZUk?oc=5",
      "kind": "기사",
