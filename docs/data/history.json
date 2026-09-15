@@ -12,7 +12,7 @@
   "highs": 45,
   "gate3": 0,
   "buyable": 0,
-  "dv_candidates": 16,
-  "dv_triggered": 16
+  "dv_candidates": 15,
+  "dv_triggered": 15
  }
 ]

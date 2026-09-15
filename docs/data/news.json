@@ -1,151 +1,86 @@
 {
- "updated_at": "2026-09-15T10:04:20.490645+09:00",
+ "updated_at": "2026-09-15T23:32:09.620918+09:00",
  "lookback_hours": 48,
- "total": 95,
+ "total": 102,
  "stocks": [
   {
-   "code": "LILAK",
-   "name": "LIBERTY LATIN AMERICA CLASS C",
+   "code": "OSPN",
+   "name": "ONESPAN",
    "market": "us",
    "strategy": "신고가·물극필반",
    "universe": "R2K",
-   "sector": "Communication Services",
-   "score": 0.706,
+   "sector": "Technology",
+   "score": 0.58,
    "note": "G1",
    "source": "신고가·물극필반",
-   "items": [
-    {
-     "title": "LILKV Price Today: Liberty Latin America Ltd Class C Stock Price, Quote & Chart | MEXC",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hemtZSE5Bb2hqVnBKRG94SHl4ZVlJVUZ1SlplZUx0MkQ4SDA4ZWwzVnoxTFMzUjZtRVRpdEhYeVNiNFNiaUJXbg?oc=5",
-     "source": "MEXC",
-     "published": "2026-09-14T22:55:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    }
-   ]
+   "items": []
   },
   {
-   "code": "LFST",
-   "name": "LIFESTANCE HEALTH GROUP",
+   "code": "ASC",
+   "name": "ARDMORE SHIPPING CORP",
    "market": "us",
    "strategy": "신고가·물극필반",
    "universe": "R2K",
-   "sector": "Healthcare",
-   "score": 0.628,
-   "note": "G1",
-   "source": "신고가·물극필반",
-   "items": [
-    {
-     "title": "Lifestance Health Group at 2026 Jefferies conference: growth stays strong",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQTVUV0pfRDdOaDJ6TnpEUy0xbjNhZEJrVVAyR3NRRGlQaXRmVzI5Qk50aEVqNDB3SC1fakJyanpLX1ZPbm5Wa0NHVHFxU0VxZlZHMUtzYmZmaG5pWGwtYXI5amp0UzFYTGVnYVpoODZTTEJsTG52Z3NJSnZTNzJIOVBEbjBKSlBhbW1ub2h2Z3RXSlBzaVB0YlU4LTNiUXFFaTlPUHlBU29qZ2h5WWMxckY3X2s0VWpxZTBoMWNhV2Vzd3V4Yl9n?oc=5",
-     "source": "Investing.com",
-     "published": "2026-09-15T01:29:54+09:00",
-     "dup_count": 0,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "code": "HUM",
-   "name": "Humana",
-   "market": "us",
-   "strategy": "신고가·물극필반",
-   "universe": "SPX",
-   "sector": "Healthcare",
-   "score": 0.583,
-   "note": "G1",
-   "source": "신고가·물극필반",
-   "items": [
-    {
-     "title": "Medicare Alert: Could your Humana plan be affected?",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1BjQnVUdzU1YmpvekhJMGlCOG41ZXV1cU1tZzd5REhrYmRKYmhvLUVYbEpNWkZqdXZSckdoYTc5YktZcjJGVXVVM3VmUWhaLWFQSEFReDRfdHltQ25pSTA0bjJpNV9xVzFCSGJ1c0xlT1V4N25ldnNuNWdER0loOGRBTEZQTWJE0gGOAUFVX3lxTE5JTFY4a20wSF9jOXhkZkh4TkFGZVNqWEEzTzRwZUxqY0pGb3pnanFkQUtvYTRpdzVMZ1hXNUE5YklqMmZHTlhyczBsRlJhRXp6VWNCQjRQVkgtbW5JaVBTbnpLUTByNHQ2amc1MUNWWEpJdlZHb1FMRURwaWROczFUUG5ZNWJCUG1BZHJfNkE?oc=5",
-     "source": "WGN Radio 720",
-     "published": "2026-09-15T06:06:43+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "Ali Dowd Appointed VP, Medicare Market Operations and Business Performance at Humana",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkdXbTh4dzVQLXZDbDRISXhnRmxIQUlxSGVJOXJGbDV1M3NFNTZHTktJSWpjQ0FrQm1zM3MyUWJVVUxydG04ZXpMbUtCRXBHalZRX0pPUmJ1V2toVld0R0pPbFo4cjh1U19jcmFUNjE4ck9WXzVzRmpKSllLR3pDX2g4NnlSQ29BWTBzdzhPZG14V2N2Zl9ZazgyWFp3bzVOR3dBSWlB?oc=5",
-     "source": "hrtoday.in",
-     "published": "2026-09-14T15:39:29+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "Humana (HUM) Declares Dividend, Is The Premium Already Priced In?",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGc5dEprNnJ1UU5ReThudkpWWExrY1ZheHJpaS0tcWduNER6cFRQaTRQQnc0clh0RGlkbFhacHlGYjYwc0hnX3JPRUJfTlRZNjNlLVo1TDJWaFAzbWZhZ3dldGZzaC1mSzBhdXFIc1d0eGFwOTJ5S21EMDJmTHVMd2djTlpkQnFkWlpNVGxaOVFxbThTVEpjQ0lBTHR4SzJlTUZ0S2pUdVZHd1BNb3lvX0F3U0d3VWFKd0l6a0ZNS1ZHd9IBxwFBVV95cUxQbG9yRWw5QkNFSUpneGV3UlFGdUhvYnpvUDJYb29wV0hiYy1kOWdyWG5zdFU0b3dNak93cTRGcE8zWVd0bHNqWTdfZGtfS2R1SXpDQ19taEhBbHNTSndTeGpRUUpSR1lFZEk4cjFQZmlUalNkUkdKdW9xMzluWFJOSFl2MTYzUzVhYklvNjV1bUR2Y050SW9XSWpMZGJPQS1DZWVZS2FBbWs0U0REcU5rcUV2SVJFZlp3am5tR0c4WmRMV2tRRHNZ?oc=5",
-     "source": "simplywall.st",
-     "published": "2026-09-14T08:35:54+09:00",
-     "dup_count": 1,
-     "summary": ""
-    },
-    {
-     "title": "Mark Cuban’s Cost Plus Drugs teams up with Humana on employer drug costs; resident physician burnout hits three-year low; symptom-based dosing gets opioid-exposed newborns home sooner – Morning Medical Update",
-     "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNV0NlSGZXeVY5bUR4TlF4YWFVQmxBMnZFMlJpM1VBU3JGWXp5RGh0QWRjN3JRQ2xwOGR3WnFBUGZVclVqU083MkZGSEhvU2o4NzBoRGNQLTNLOHgtd2V1bmN0cUt1NXBOQmR0LVlaRVlzcEZObE9tMGttcGF1NW44ajktcEVvbTdaNGUyQzRhSG5WTl9HNTBZR0pWQWFjRmVmd2NjQmltTDRfUklRSEk1TE81SElvNWhnSWtFcGJuc3hYc0ZiMmxVQjMtU3hnMDV3VUFHMDI1S2tjRG1JUmt2LVI3OGpYQnRhajBfNXZoVWdkaktqdkhYdVRQbXNBWGs1T2dPZGNVSlYycEtaRXg4c0I4WlQwa3p2RC02cy1pdTFKc0FubGtaTHlSeGNpUU5mSlpCYnRHWGpUdnVBQlQxVkIxRlEwZE9aWkpvNFE1TkRla3djZ1ItLUFrWTBlZWs?oc=5",
-     "source": "Medical Economics",
-     "published": "2026-09-13T15:09:25+09:00",
-     "dup_count": 0,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "code": "ATRC",
-   "name": "ATRICURE",
-   "market": "us",
-   "strategy": "신고가·물극필반",
-   "universe": "R2K",
-   "sector": "Healthcare",
-   "score": 0.579,
+   "sector": "Industrials",
+   "score": 0.511,
    "note": "G2",
    "source": "신고가·물극필반",
    "items": [
     {
-     "title": "AtriCure director Regina Groves sells $288,070 of stock",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2E5TmhGd2FzaGlMWlhBZlBhdDUwcjNCaEhEalhRbURYQ1lYZUQ1ZTJoOVVPZngyWWF3cTFENTJhN09MbHVwQllja0dOamRHRnl2Y2dIQVFQdmEzeWpUY0xXVEdlM0xXUDFiWlBWa2NieE1xU1hUU2FmQktPazNOa3M0ZlVRUEI0blRKX181MnBEY2hDZ2o1NnZfVHhuamlnNTA2QUJhZHlGX3dCUlYzN3g5Y2FUamJ5ZEtLUTF6Wnc1YWc1?oc=5",
-     "source": "Investing.com",
-     "published": "2026-09-15T07:15:00+09:00",
-     "dup_count": 1,
-     "summary": ""
-    },
-    {
-     "title": "AtriCure (NASDAQ: ATRC) director sells shares with no 10b5-1 plan filed",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOE1nWVQzVTRDbnYxc25USk1LQmJKZlBmTW5weG9GRmp6THc2a0xLOVVTdW42Z0hmYkJLQXFhekwyMUgzVDJzT0VaTmtvVWwtVnZIX1dxNjlTdGJfS3JydkF2UnJjMEJrNFBJLWxmRUx5TXBGamFQYlBMNnBYRVd5ZWFJT3Y3XzNkajB6RnpzaFlhX25uRmJaZ3dadzdteVBNQXNGWXNjV043TTg?oc=5",
-     "source": "Stock Titan",
-     "published": "2026-09-15T06:45:17+09:00",
-     "dup_count": 1,
-     "summary": ""
-    },
-    {
-     "title": "AtriCure stock hits 52-week high at 55.83 USD",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEpIY1R2WW02akxjb0RzenluRDU2QW9KXzFlRi10OHYzVUtvNEtLMWZ6OVBiQm5qN1hOY0kweURFUkZTS01MMTB4YVRKRTdsUzg4WlpKdl9nb2phRkRMVG4zNW5TdkpnTlBaa2NmQl9Daks0amktYWk0WEUxLW9xTS1zY1JhbnBHRnhBT3g0WGN6ZkZnOHZScDFVNUtlbmwtNEE?oc=5",
-     "source": "Investing.com",
-     "published": "2026-09-14T22:53:10+09:00",
+     "title": "ASOS PLC (ASC.L) Stock Analysis: Evaluating the Challenges and Opportunities with a Forward P/E of -1,483.87",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdFBhYVNpZjRQenoxbWtfQ2dyYlEwTlVZbXFKNWF5bTlTM1Q0NHNpS2hFVEhwTXBOS2NWNFdRT0htSGNSd3NvRHEyMjRyel9GYU1DdjJwcUFqaUlnckhoYXlERHRTa29MekRyS25Vajd3bW82NVN6eFpIZFItYTB0b0xUNUVlbnJ5MG5rQTl1bGNvRnhwbjRDTWJhemMzUEk5dnE4ZVMtYnZLLVZaU2dDZmphY3l6WG9ZT2JqRlZ3c1NLQjh4LU52Z1FZaV81b0pyYU5NME11YU11ajU4cU1ZM0ZQWXVEMXI4?oc=5",
+     "source": "DirectorsTalk Interviews",
+     "published": "2026-09-15T11:03:17+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "Is AtriCure (ATRC) Stock Outpacing Its Medical Peers This Year?",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnF3cUE4YUlzSWtTSHVFeEs4QkZUemxtcmFFaDVNUTFrQ1lSc1BuSjZ1akRwOFk4cXV6ZFZjXzdPVzVXLUJhSWM5aWhkMFk3Y09EVGRUU1BmQTBOcmdpclQtRFRUMEt6SVRnVHNQSzNwUUJ1V244MTE2eHFreGZEMkJVeDBURWQzdUM5QmNpcTdzc21oSXBTU0Ezb0VTYTA?oc=5",
-     "source": "Yahoo Finance",
-     "published": "2026-09-14T22:40:05+09:00",
+     "title": "Ardmore Shipping Corp (NYSE:ASC): A High-Yield Dividend Stock With Quality Backing",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFlFTExXNVVzRUc3a0RYUHg5S2NlVFp1QVVybWxOaDl6b19uYWRMTzRFZXVjQnMycldjQW1lWnpEcFpELVZCVUxPRzg0cWJOMlNOMDFXekJXQ2VHdXg1Mm5xQmRtYko3TE1IMVZKRzV6SjAzeFhYTmh3R1pUTGVqdWd4cWM3WGNKdjVheEVlbGtYM045bXJjLUxoMFU3QWdCQU9zN1J0enAxZE8zMFhVM2RLTjdMcmpFV2dNXzhodlN1MjFFOUwxeg?oc=5",
+     "source": "ChartMill",
+     "published": "2026-09-14T21:41:10+09:00",
      "dup_count": 1,
      "summary": ""
-    },
+    }
+   ]
+  },
+  {
+   "code": "CFFI",
+   "name": "C AND F FINANCIAL CORP",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Financial Services",
+   "score": 0.507,
+   "note": "G1",
+   "source": "신고가·물극필반",
+   "items": [
     {
-     "title": "Top Anbio Biotechnology (NNNN) Competitors 2026",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLTRaRU01dV9IVHMxMl9yQTJQc0VfVnFwOWJRcWNCcEJlVGU4b1hBdmdWNGpOejlUYTJNa2xBbDA1Q1prUWNVeFR2QnhPQ1dkcHJQYk02SURzOElfanRBVjl6eThaN1dyb1o4NUlYUEZwc3pzX0tpLXJGMDBxVEJHcA?oc=5",
-     "source": "MarketBeat",
-     "published": "2026-09-13T19:49:34+09:00",
+     "title": "Intel Upgraded, CVS Health Downgraded: Updated Rankings on Top Blue-Chip Stocks",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3gxV1MzdkgySFUtT0hDS0pVUW5oZTRvS1pUN3ZxWFBRTU9IZFJ1bWppQjVfcVV0WHJmV2Y5SkNOaVI0ME5SRUdTVW1hTnFsaGh2a3p6SFB5NnhVOUVYMDdKQTA5YlROTmNDX3gtYjNhenNCVTBjLXdSbnJ1M0F5aUZiUjhlWEVRT0tR?oc=5",
+     "source": "investorplace.com",
+     "published": "2026-09-15T08:15:29+09:00",
      "dup_count": 0,
      "summary": ""
-    },
+    }
+   ]
+  },
+  {
+   "code": "TRST",
+   "name": "TRUSTCO BANK CORP",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Financial Services",
+   "score": 0.414,
+   "note": "G1",
+   "source": "신고가·물극필반",
+   "items": [
     {
-     "title": "AtriCure Executive Stock Sale Analysis",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85aXN3V044aUtyYl9fa25YVUpfamg2N1oxZVZzS2xkN0hhNUlGRTAyaWlqS0RUUDQ4TlR2ZFA1cXBTejRfN01wUUpwTFV0Wk9Nd2R2d3l3WXVfOWdoNzZIWWMzY0dhRFhjRkVYQUFFakJrNC1fOWxRLVNxclo?oc=5",
-     "source": "Intellectia AI",
-     "published": "2026-09-13T10:06:18+09:00",
+     "title": "Trustpilot Advances Share Buyback, Cancels 5.8 Million Shares",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU1VVWEhWelY4UFpWenhad2EyZko0TlNkRkZNejhKM2ZBb2pzWk84ZlFHMFZFZVFqNzdGM2ZVOXJrYXlxRUlRMEJWaVhya05FVG9JMm1KZjBMUjJLbndCdFA2QTNjaVFrRDJsYUg2Yk9uZjlEeTYxa3lSWlVSSy1zTWlWMC1rQTNUMlo5WFM0Y2RSSjIwdElVQlhNaDJsRWhfZmJ3UDN1RGVjTmFpeUd5dGVJeFNCMjNEV1FmQlNaSTBlbTNsZERlejZWQW5oWV9pLVZZT1N1WWE?oc=5",
+     "source": "The Globe and Mail",
+     "published": "2026-09-15T15:47:05+09:00",
      "dup_count": 0,
      "summary": ""
     }
@@ -158,10 +93,34 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Consumer Cyclical",
-   "score": 0.791,
+   "score": 0.794,
    "note": "F8",
    "source": "딥밸류",
    "items": [
+    {
+     "title": "Aptiv plc stock falls as technical signals turn bearish",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUE5wcWZRX295YUlXZDZET21qSjQ3dE5ybkM3b01yYXlSWXZJV1ZLdDhTY1dVUlE3ejMwQW5SYWowYlVXaU8xMmlucG9tdGx1am9GZ3JvdEh2WEFWdTh6SnNaVEtOQnA4bER1bkpGa2c0SzIyaEFWbzN0SEhxZ3hkb0tUbzA3WUJnLUNxcWtwSjBzOEs3V094V0loUW5qVlJQMlczWVFkNkt1U2dGQk5wa3NEcVF3bGJwZ2c?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-09-15T18:43:07+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "New Strong Sell Stocks for September 15th",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWxIcS1oYmdBa3Q1YUNQN192TWo0MUUxOHpXeTZpYWlscU50WFh2dzUzZDBiWndjVURYZXpCcXJ0VVpFcV9Ob1ZHT1lRdWFseVdMMEFidmZuMWQyTGhSZmxUR2RVWVZtMnppczFreUNsMnQ4b3VBdzRoLUNDbkVHWDNyRTZtZ2FpeDNRWnRfS0dnMDdsd1ZqZjFLa2dmR1E?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-09-15T18:40:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "JPMorgan Downgrades Aptiv to Neutral From Overweight, Adjusts Price Target to $56 From $65",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRWxiTFpuTGFEai0ySk9yS3h5ZXFScVlHYmZRT3FqbTZyZVVRLWtFaHVlb1NQT2RsRWgyNVFmbU5BczNKX2QyMUxlbDZyQldxQnZaR2VqVVdKWGFuc3FyVEtqRmxQS1hDamJ3NE1PaGNsVmRxaTF2cDBDSTkwcDV2RFBWblBLWHNSeFpHMlIyVnZBS3FuRG5vSWZoRFhvOEcySHk3SXhaRHZoVUJySEpSTzNOQnp4Vk9qU1JyT2YyT2xWNVZteF9qUlNJMHhyNUgzNlFxajM3Zw?oc=5",
+     "source": "marketscreener.com",
+     "published": "2026-09-15T18:25:51+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
     {
      "title": "Aptiv PLC (APTV) Registers a Bigger Fall Than the Market: Important Facts to Note",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWFVRc2lWQW42R2JYT2dSdlNEM0tZT0kxdEV5UXFyeENRRmduLW5rc2ZKNlI1SEt4Y0RiZmRHTmFud0JCOEc2SXZBamdxY1paRE5uUGhfTl9DT09yNWdhVWY5RlVRbVE5eHplaWFNZmQ2UjBJdjFCOU9yb0RJVEYzS1h2eVhYbFZaSWZ0bUJHWXUtTEQzcTlCLWRFQVA?oc=5",
@@ -183,14 +142,6 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzhtUWpfaDJZQURkUkNibHBoZVVkZUtwRVMweFZNVU4wRThpcFZ2SkgwU05FNE1SNTdFS0dYbUlXMWhPblEydWFna3lyV1g3N2V1ZTUxQzNZalYyS2ZEQnFPemNsYVpaSElGY0ZQLTctTTRoWEU1SDlRU1V6dEZqVnRKSVU5WEN3Vm1TR0VlRzI3R3pUY1BqUENsMzNzWlVKZnBIUzdwZ29lam15RHFuOEFpZDJTQmZObWNnSUp0VXlWZWc?oc=5",
      "source": "ad-hoc-news.de",
      "published": "2026-09-15T01:23:48+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "Aptiv stock heads into the open after a 0.3% slip",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2xQdzdZbzFTd1htazIwWU5GVGM2bjc4dkVjb25hN3VWRHNhV1BCZkNOZ05jZV9QbHBhUWhJWlE1ZVdxbkIwNlF1eV9XZ1NQaVFYbW8wMVZEMGlnN284V3c4ZGtfQkJubC1hVnlJajhrMVgtQzJ2cFg1UnpKTXFSS3dXYUZfRXYyR2hFeWgxMnZheVoyT0xUZFhWTWRfU2JMMHdYY1lPODBhMVI3Rk83SFljWHRfQzlZTHQw?oc=5",
-     "source": "ad-hoc-news.de",
-     "published": "2026-09-14T11:36:37+09:00",
      "dup_count": 0,
      "summary": ""
     }
@@ -232,10 +183,66 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Industrials",
-   "score": 0.674,
+   "score": 0.672,
    "note": "F9",
    "source": "딥밸류",
    "items": [
+    {
+     "title": "Pentair (PNR) Gets a Buy from UBS",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHc4dldTdV9OVTkwMVRqcUZKQUE0bTFtWnplVEZ5aF9hUFR6bHJqQ0NZUlh1bGZoSDJsZXZ0UTlfS3VIN3RiWkdIcmFlZzlDYWgwcXFxT3U0d01OUmRScmtEMC04OGZLMWYycDdUVElzYkg2X3h0ZThqTjJCUjFBc3NrdGlxN1JQaGFBYWpsOTZoNFJsdUhVUVRGVnhEaHNUVzZSNnlaLTZsSmJyZXpObDVMdm9CNm9f?oc=5",
+     "source": "The Globe and Mail",
+     "published": "2026-09-15T22:58:47+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "PENTAIR PLC INVESTORS WITH LOSSES HAVE UNTIL OCTOBER 2,",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZGNROVY2NUt5ZU5XV0x4WkhVdTJjRXFhQUF2c2x6V2tfWUxzMEMxc2JPcUZ0S1ViczFJRVRFSjBULU93dEtVRGNvd2Nxalg0QTVvSVI2NjhBVTZjSUFGOTRvc19JRXpPZ0E1Nk9RWDRUYmhJM3pIT29VZTBYNkt4Q0VyeG0yZWJzLURLVlBMTHozaVhGT0J6UjA1RUlpMm95aXRXSmdZM3ZRWmVEWlEwYkJZcXpocndSRUJtelpHM0w5WS1wZ1ladGh4M0dEN0dTLVd1eTJFMy1PUk1zTF9KWk4zMVFMTGtrLWRiZVotd2FBZFlRWDM0RGxwR0xMdktER0NuZWdUNzE4QzlLMkprS2lPbXJEcHpNSE1Cc05iVHpjaDQ5aTJfdk9ac2hVUQ?oc=5",
+     "source": "GlobeNewswire",
+     "published": "2026-09-15T22:32:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "Pentair plc stock falls to new 52-week low as lawsuit headlines mount",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWNHSWMyQ1BHc0dOWUZxWmxBek81U0R4RUo0TEZKMURhNW9KcWNLb3VuRkVOMVdSYW03NzNSY083SWRhSXNHVklmZHk5N0xaWklXUWVLemxwOElfQzI5NW40dXpoU01SZUdsbVVFYk5Tck9iTjZEU3NxdDBJU05WRDNVaF9EYkJaYjFLa2l2NlVMQ3JJQkQ3bnJNTzVWZ3FPQWcyeUd1WHZ5TUNFeGVuV3cxa2hYVjk1anRqeVZtTHo4elFzSnJNb1UyZGQ?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-09-15T22:03:58+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "Pentair plc (PNR) Investors: Securities Fraud Class Action Filed, Contact Hagens Berman Before October 2, 2026 Lead Plaintiff Deadline",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcTVaeVpJRi0ta3BLbXFfT3FqTTRrZTFHOXdLZlozRi0wNk96YzQ1aG9jVE1ib05Lb2t2dmVVTFNVRFJBbGtJOGZNY3VuNFI3WUhRNlFLdHdCNktNaENLVEx3THZRc3dsaWowS3M4akQ1YUMtXzRGQy0zUl96TjFLbmNWZEhvb3R3SjIxNzhVSVdaR2x4UkJjd1NHdTF4SFdiT3dZU01TNkx2OFEtbHFCazlCeHk4WndKc2RCUmJfRVIzTFFFbDRXcjhGTWJ1NWJqbHJTM0VCM0E2U3hvVzA4a2FPN3UxMDliNUhxdzVPXzgtYzRoQmRKa2I1aW5XQmFWVnRSclBacjQ5cHhuckFVN1dmUQ?oc=5",
+     "source": "PR Newswire",
+     "published": "2026-09-15T21:04:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "PNR STOCKHOLDER ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Pentair plc Investors with Losses Have Opportunity to Lead Class Action Lawsuit!",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRE5rN01qZUYwMDZUVDNpQXd6UlJFcUU0YnNkdFFKeUp1MUZnUE85Z05BMHdoRkVoUVFaWXhXU3BibnoxRjlJWEhTQ19waGluNy0xZ042WFVBUG1lcks5NENRaXdENGl2dThKd2tnaTI1S1ZOZ2lkcFJIdm1Na2U3SXE0UzBuVWN6YnZybzZoMk5oeWtSYUJPaS0xWUhJMVBmeTJtVFdlNEUtUzZqZVNoNTlueXdHMWJMYjMycm13blNFd2dUa21ERzBac0dwNmJXWUY5QkY2OTdTUWlVeDZoZWJRLUU?oc=5",
+     "source": "accessnewswire.com",
+     "published": "2026-09-15T11:07:56+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "PNR Investors Have Opportunity to Lead Pentair plc Securities Fraud Lawsuit",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZkZoaGZxUktSV2JTM2tMTHd5RWpKU3RIbFhoZlR1V09adjdrZU55N2xxMlZVY2lfSDR5Z3puZVJlYjVvUFZQbFpBZFJQSUtlT2s1YU5ZRi1yVWl2OEp6VXVwQzNZNHlBMVBXUHNaZU16NjluWUN6OG4yVUplOVBXVUpiS1dTb040RmJvMVNBaTJwN2Q3YjRYMTlqX2hlT3ZFdEFlRGNvYk1HTlZrQ2l4N19WTlkyNE54QzFEV05xdDNxX0xJaTJhQWFSTQ?oc=5",
+     "source": "PR Newswire",
+     "published": "2026-09-15T10:23:00+09:00",
+     "dup_count": 1,
+     "summary": ""
+    },
+    {
+     "title": "Kaplan Fox & Kilsheimer LLP Reminds Investors of a Securities Class Action Against Pentair plc (NYSE: PNR) and Lead Plaintiff Deadline on October 2, 2026",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOY0VidUhLUlp4MFVzVVM4Y1lnMTU1NVdHcE1zWU1RdTVRdU1sVklFaUh4TWs1MFgyemhOQUJGQUotRm1XOHRYaTVmS3liNHYtVEhaeEtiY0xzQXRRa2d0S0RBeTliaXhuU3Q2UmNxb1JIb1NXSkRTTU9Ba3ZfRmgwN01HYlU0czZCQWJ1MjlXX3ZUSHJYQmswRGZ0ZHcwOC0tTmVqSmhKeXREQ3VLSnJKdjRYSTdoR2s2MnhFU0Z5R2tXazFPQ0RhTDVjWm9sWEh0NjJqY1h3bHBtSkR1RWxRclpFV2k5TjJMTG41QjAwbDI3ck1iN005SnhLYVk4c0tHN1RJbTR2enNSZ29tU2VCcEp6WjVNZlhx?oc=5",
+     "source": "NewMediaWire",
+     "published": "2026-09-15T07:47:01+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
     {
      "title": "Pentair plc stock reacts to securities lawsuit headlines as investors weigh recent share-price drop",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzA4SmRWMk1EV3dmTGFGekx5cGNrLWplRTdDdElWcWJ2cnpuNm5RT3JJbGFIS1l5UlU0R3NxVEY2Y3F3NVN4aXhfbWZSd3F1MHdqcHNfcVlkTzB5U21OT3R6ZXRTSG16aWItRnBvdDVKM0p4dWdtMGJhYjVaMXZ1bUxmYTIxZUF2SW9SbHBGVFFtdm4yZlY4YmwxSi1lWVlmTm1nNHB3WXdOekpzdVpLLVR4c1dYckgtcnhzSk5VemtuaGhObnBYZ0ptdmE?oc=5",
@@ -253,42 +260,10 @@
      "summary": ""
     },
     {
-     "title": "INVESTOR ALERT: Hagens Berman Notifies Pentair plc (PNR) Investors of Expanded Class Period in New Securities Class Action Lawsuit and Upcoming Lead Plaintiff Deadline",
-     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSjBHQndBeTFDdldIUkIzQ3QtSEhnT1Z3Tmg3S3NHVUtZdXh5VXI0a290YXZISWZfeFd5N3BJZ19zWHhvZGtoMFZBcklqSjNJdmVKQXQ2YmVIUnprM2ExbXZRRE5iQi13NlYtVDVjV09iTHZ0NmdfODFCTzZjLWxZeDBjeEVYNnU3YWJvTGRjNHpFZUlleVNvRWdPOWFUVWVUYlo1T1dPa3pDWDVTOFBzWGhqa1dQc0o4LXJxSk9RNHpMOUxLSno1WDdxbmxvSFRGTE1TQk5jR2JsTlE3SEQ5RG1xd1YyQXRVLWFKUXh3MjBjX19sc1JxT29iaGEybGc3WlJaSHV2bkV2cFVNRENNWWNXWWU0YWp6bzRHQTdEcWJQT2EwLXlJblFBMFVQY01RUEdENDhjcGRyaGpwVkc3cElB?oc=5",
-     "source": "PR Newswire",
-     "published": "2026-09-15T01:46:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "Bronstein, Gewirtz & Grossman LLC Urges Pentair plc Investors to Act: Class Action Filed Alleging Investor Harm",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNR3pld3g0Sjdqb28yTjBDZWhYM0ZkMDFuaXp0MFQ1ZXJWVW55WUpVZUpveERCcW1vLVI5U0ZTbXctSEs1alFrdk1SV0F4MDlMQ1c2MHp0S1pXcl9MWEkyVE92bkp0X2JBM1EydEVHTVlYSVRkODQxTXlPUEVMTFRLcnN3Sm9pZDI0NVBrTU9pM2lDSm1RTGZJQVc2ZW5YUnlQdDdjUHNpTldzcERnU19SZV9xejMybnFmTGwtSzd1bWJMYUQ0SGJvVzZ2TFhVaU81N01HZVViSWJ6VGNwSkdrYl9xZDQxOGNaeld4bEFfUlFnZks0dm1IZVJBZV9NMzJvaXV5Sm9IeEQwTG5LX0hR?oc=5",
-     "source": "GlobeNewswire",
-     "published": "2026-09-15T01:00:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
      "title": "Levi & Korsinsky Reminds Shareholders of a Lead Plaintiff Deadline of October 2, 2026 in Pentair plc Lawsuit - PNR",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVHhjVXpQcDhNYWdMRHdJX3lOY0o1ZHFfN0tWb3V3MDZoM29leW5qOE95NGdIR2FfWUd5eGgyUzZwbU95dGZMVGtXOWlDazhod0Y1S1M2bEo4MHloM3lkal9WNlpjQXY0VEs0dWhMS2dKUjNpcWVZc0h4SHRManFZU016WDY0TUR6NDZLeTZzN2d2ODZsbk9sNU1lT0haOUQtYzVLeHl3RkQ4RHRyeUZyLTZBVDVQd2pWVGJzWGM4WG5wNGdfT3NnZXJJNFhKcGtORWpUMVdsQ25zWGpwUXE2ZnllN0ZJeW94Z3BNc3lMSFdReVVFa1ZMbnVEMGlWX3h1Ym1mcHVDR1JUTVQzM3c?oc=5",
      "source": "GlobeNewswire",
      "published": "2026-09-15T00:55:15+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "PNR Investors Have Opportunity to Lead Pentair plc Securities Fraud Lawsuit with SBS Law",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX2hQdnVHX1RlUGY2S1dheXd6WFNNb29sbjlyak1xX0FkNGVEcVpGLVRqdUJjemp4TnU3aUVaTkxLenU4RFVVT3NLNktTN3l4XzhwcHJqTDBIbFI4ZmQ3cG5kRHJMRmh6QzVBN19tbGxWWFVLMnVJRjRLMm9pNVd1clFodUlyd1BLVGcwdHNEX09ZZXc1ckxISWZLZXZIaDlmM1pUeUFnYUtfNG91RkVaUWdVY1NJWXppbDNTcmhrZVR4Q1FwY1U0NHB4dks4ZE1uaXYwT2YzcUthaGlyMWZpTFpCRWZsaHVUUzVKVXJLM1kwQQ?oc=5",
-     "source": "GlobeNewswire",
-     "published": "2026-09-14T23:39:34+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "Pentair stock heads into the open after a modest decline",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdW80QTlhdG9mM0p3VlRpc29xZWRLem1IWVhyVFh4a3I1WmJTYW10SGtTMDF5Nl81WS0xT2lwdWROQktYQy0weEJQUFRzNGtjY2hmQW9UcHI1UDlUbzIteEpOMFRaS2ZPUkc3UlozTkp6anNBbFZyeUYwS1VfXzRNNGtKcV8xN005NTZ1R2R5bk5oWUJxWTU3U1hCVFlUZnpXenoxXzJVd0RHMTJXbFFBYktER0F6WXMwMHNR?oc=5",
-     "source": "ad-hoc-news.de",
-     "published": "2026-09-14T12:17:23+09:00",
      "dup_count": 0,
      "summary": ""
     }
@@ -301,162 +276,162 @@
    "push": true,
    "items": [
     {
-     "title": "한화운용, HBM 대장주·소부장 함께 담은 반도체 ETF 2종 상장",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRXpyQ0NzeGN3U09LNEFRR3JETlFOSXpVc1hBQXNNN2R2ZVY0WjZQNVA0UWhCaUU3bHdfOFB4TDBJdUIxV2pmZngycGppbE1hSGgwTng0Q0hUdw?oc=5",
-     "source": "fnnews.com",
-     "published": "2026-09-15T09:25:06+09:00",
+     "title": "공급 부족 2027년까지 지속, 마이크론 9월 30일 실적 발표가 주가 가른다",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EeXFyOVdzOUJvT0dXRFlUMmVjeTRKdjktUkVkQl9GR0NrOTVwU242X3JCMkJPM0NOdUpUUU5LMlNEN1BMdGYzdjl3?oc=5",
+     "source": "코인리더스",
+     "published": "2026-09-15T21:04:00+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "한화운용, '코리아HBM반도체'·'AI반도체소부장액티브' ETF 상장",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81UG9BbFh0bHRORmktSXpXc09CSUxtcVBBWTJlTnkxbzNhajZKNGZ0VkVWeEY0TzhPYUdQVzZVRmQ0N196ZjI0dm10R3BSa3hKazhiVGh6dFIwYnlk?oc=5",
-     "source": "뉴스핌",
-     "published": "2026-09-15T09:25:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "한화운용, HBM·AI 반도체 소부장 ETF 2종 상장",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYVZkVUFJc0d0T0lsUmZQc1NCSmFKQk82ZVlEM0s2UVVWb1J1RXBfdUdOREZraGRKc014aHAtVjBTM05ad2ZKOG50cGJqckNINHfSAVNBVV95cUxPUEN6WkU3V3dLZjBfald4Z3RwenZCM1hFc0g2RzRTZ1J3WWgwYjU3V1Y2Qi1OaW1Obzl0ZzFhRk9Nbjkxa2pBUUJDdnFxdWRIb3JLOA?oc=5",
-     "source": "서울경제",
-     "published": "2026-09-15T09:04:42+09:00",
-     "dup_count": 1,
-     "summary": ""
-    },
-    {
-     "title": "'PLUS 코리아HBM반도체'·'PLUS AI반도체소부장액티브' 신규 상장",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zb09tZE9XUEl4Nmg5ckdaUXVjSnJncDgzZGN5QlBEanM3NWR1bGpObnNlby1qN0VSa0RVR0h1VVNLVUlPSERwOU9kX0NyMUdJTjJQVlZUaUdoTnJRR3lvcw?oc=5",
-     "source": "asiae.co.kr",
-     "published": "2026-09-15T08:53:51+09:00",
-     "dup_count": 1,
-     "summary": ""
-    },
-    {
-     "title": "HBM 가격, 내년 최대 140% 뛴다..그 배경은?",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QU1g0NzVQMUVHYVZibUZnNzhjek1LcnRSWnJHaER5cm5LYXVOQVNJZk9QZDdGMXJmOTlTeXB5Qm9GMTVIT2pycGxsQmtlQV9lLWhDSXpVNmJMenYzLWt2MnE5bWtvQ0JGSHhHNXRVZTduVVpPRWc?oc=5",
-     "source": "dailycar.co.kr",
-     "published": "2026-09-15T08:33:17+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "\"반도체주 추가 상승 어렵다\"...삼전닉스 실적 눈높이도 '뚝'",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDZ1WlBORGQ4bFBFR1NyT0JUUl9STEdXdUwzU2d5akZFSWtudl9tUFpfUGV4XzcyUDBDaWpRd3F1MWdYZ2o4YXZtQWZWY2NFMm1yUFk0a0pLMV9wSkt0bmdWLXVPRTRvUUVReGZTSW9abVgwSC1iRW13UGtqQ0hvSA?oc=5",
+     "title": "AI 속도조절론에 K칩 촉각...\"HBM 수요 당장 안 꺾인다\"",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmNodTNsMjhyZDQwQlZMSXhEeWxvUmwtU2RVbEJhOEZVTktTclBRb0kya3JibVRlRE5LOVNOWHY2LUtHZVA5V29VVkE3eFF3RDhYX2pZUW85Tlk1dC03ckFKVHF0Tm9JY3hsTkFLVmdTbm9fSWVNNHFwbzlhVmhhVw?oc=5",
      "source": "edaily.co.kr",
-     "published": "2026-09-15T07:53:10+09:00",
+     "published": "2026-09-15T19:09:04+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "삼성전자 주주라면 이 날짜 봐야...향후 한 달 주가 흔들 5대 변수",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54ejcyNjBPemtSN09Ib2V2S3dRaGw5ZVF2eUNRSWNfN2h1TXdONG9VSmN1ZEFOWXhnblVhTXNSTmlsM0U0SXBYeGpIM3hSQ1RzcElNaUJ6VXJmeDZQa2VMV3RycWY?oc=5",
-     "source": "베타뉴스",
-     "published": "2026-09-15T07:39:27+09:00",
+     "title": "삼성전자, DDR5 모듈 외주만 늘린다...베트남·인도 등 해외생산 확대",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81RFRQSzhGR0laUkQtazVFNkhjWWd3cGhsU0dfVHBuNG5QYWxRRlVlaW5KRXFoaFdpSG05VzJDV2pVcnlOdnUzRW5ZNWpxaWtfcHFqUlN0VFlvNWVRcGt6WDE4RklZQQ?oc=5",
+     "source": "디일렉",
+     "published": "2026-09-15T18:51:50+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "삼성전자·SK하이닉스, 3분기 영업익 전망치 급상향... “HBM4 성적은 삼성 우세” - 조선비즈",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFpkSGdsTFFkcG9vNHhJTVpTZE1feEZNTmVvSFRsajB0YXh4Nlg0YVlPREhOWHFhMUxmREs5OGFHa0kzeEs4bTBwRVdIMGlrODcyOG5oOVNaakk4b2F4SmpiVlItNUZkcG9CbngwMzJtS1ZqcDdISWNKd0NFd0N1UHVR0gGWAUFVX3lxTE9kUmJlcUlwZkR0SE9CbmIzbmFkdjdsd2x3U0RwbW1YYTFfSE9vajd0VV9rYndvbGd4T1pocWxGYlJuZWFQOGNLcEo5V2xyYjl1dmlINVcwQnJ6dVBOUHlLSXg4ZmNid3NhdHc3aWUtTVN0aWNoSlZOaHFONTRRSHZUMFQ5SE1NYXQyNldMR0c0NnZzSkd1QQ?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-09-15T06:04:05+09:00",
+     "title": "中 반도체 자립 ‘총력전’...HBM부터 첨단공정·EDA까지 육성",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zdHY2bE5HSG03MUxnVFJRQkFwaW9SdTVwdUJlc2pGRDRwOXh0a0p4Mm55QUVWS0l0Y3o5VzMtVW1YR3lHQVlKcXVGQ0F2WXUxLTNIQ09jRl91am8tdl9oLUJ0c2FMSGM?oc=5",
+     "source": "M이코노미뉴스",
+     "published": "2026-09-15T18:36:30+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "EUV 없이 HBM 대안 노린다...케플러, 28나노 개조해 양산 도전",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUwtNkZmNmw5eHVpNnJqa0RNNXBrNHhKQW45MkVucTdfM3lPOURmQ0FxUmx6aFdtdVBOOTBXdkpLckNHdUJHdkg2eDVrOTgwMnpwQnhsdDBPT0I4R2hOSjlSQVRtLVQ4eVFxcEJfdHozNEFnNllES3UzbGdGTnBpaUw1LXdHeWhQ?oc=5",
-     "source": "글로벌이코노믹",
-     "published": "2026-09-15T03:55:00+09:00",
+     "title": "삼성, 천안 HBM 생산거점 재편 가속...AP 후공정 자원도 투입",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbjdRRWFiMGRza2sySXJkVnRKM1haMHlPNGpXbFNLSF9xRzVnQnVQZUROVEl5NzJoaXFMLU8wektZTWc4UTRUc2pKaHA3Z2xSSE12SkU4Y2I4aUdqeG1yMjlsam5lMFk5VE1ERktQNTRpY3RyZy1VTTZfWmR3QjFQcTJYNA?oc=5",
+     "source": "조선일보",
+     "published": "2026-09-15T18:03:00+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "마이크론 주가 상승세 멈췄다···다시 모멘텀 살릴 한 가지 촉매는?",
-     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNZ1Z1bEVjYmN2UE1NNTNIOTlRaW9yV0JncGFYRTg3UGhab3FNNXV3aVJ6YkZmNXlJeGJtQ2h2OWFXbGxRRXRPVWdIRXlwTTdzbkxQeW1BQ3U1S0dVRVpzUjJjM3M4Z1NCVHVVejB3dFIzX2dlTmdwWi1WNVBFa2Rya0xwa3FvbTVJeTdOU1NhUlVGdnBiY2JUbXRqREdkSWV1bkhHYkl0RklPa0VxT190RGIydlAwRWJYRE5GcGoyVVpZdjhHbnVzd1N2SVRuUkhTTFRJc25aeDQzNHJOcTV4cXREYmROTjluc2JFdWUzQzhZUlNwb2xCcnF1eHVwSWk3Z2tReGRKRy1wSE1YOU92c3N1akJwSElYdmZqd3FScWJzMzQyWVltT1k1OU9jVXh0TFVXaEVxMF93ZjZvUHU4?oc=5",
-     "source": "Benzinga",
-     "published": "2026-09-14T20:44:17+09:00",
+     "title": "HBM 잘 팔수록 파운드리도 바빠진다... 삼성전자 '원팀 반도체' 시험대",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40X0l4MG5NbXYyc2xxcmdLN0JtQkpaYXBJdWRFR25MSXMxeWZ3bzE0eWtub3M3R3FwUGJwU3ptLUlsZGFmZUJ2OVE2UkxDM09ZcXNULTRHVW5YMlpuUTNleFVDUnhtbU5ZaWc?oc=5",
+     "source": "프레스맨",
+     "published": "2026-09-15T17:27:38+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "LG화학, 中 장화웨이와 반도체 세정소재 협력...AI·HBM 시장 공략",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Ni0zbU0xaVEyWnZ6d3ZJSzU4Y1ZOdWdxTkoxbE5zVTJTMmdpQXNJSkgzMXJSNEZCT0xEelJndElZYkhQZGJmZklLaEl2WXZOaFZzNFJ3QlN1S0ZYbGtISG1HbjBLQl84YWh6Mw?oc=5",
-     "source": "ER 이코노믹리뷰",
-     "published": "2026-09-14T19:27:45+09:00",
+     "title": "AI 개발 늦춰도 사용은 늘어난다⋯HBM 넘어 서버 D램·낸드로 번지는 수요 [AI 속도조절론]",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GVlprVHlad0dxOFAtMVBUZzZjSnVNNHBPQ0FVcHpqX2dla1lZQS10SFI3dTlPeTJ1Nkl4anhBZUU1RlFLRE9JOFFqNkNWSnFuYnA2Zw?oc=5",
+     "source": "etoday.co.kr",
+     "published": "2026-09-15T17:22:00+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "순이익 18조인데 자체 수익은 고작 2000억?...SK스퀘어, ‘하이닉스 원툴’의 민낯",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wT2lNN28taFdMSGtWUnhhNjVrVnNPVERJNmcyWFZNenV4aVNsOWtFMHBabGlhOHlhbVFzMXFyb0pvOTlELWctcVozdFp2ZmhGdWE4dkV1UDJFNzR6dG0tczF2N05fVGhYNGRldHVSYw?oc=5",
-     "source": "뉴스퀘스트",
-     "published": "2026-09-14T18:34:41+09:00",
+     "title": "[중앙일보] 백서인 교수, 중국 반도체 추격 관련 코멘트",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1URnlPWnB6cGN6TVd3ekVVRU9jRmdlVHVkRzkwRHJMbEVSU0UxM2VGY2E4OHBJWDBrZ3hYenFGNVJfLWhwUnEzWS1MVmJLaFh5VjR4TDZpcGx6RmpYRy1LbzhNN3NjVzhRY0E?oc=5",
+     "source": "newshyu.com",
+     "published": "2026-09-15T16:23:00+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "SK하이닉스, 美 HBM 생산기지 본궤도...1477억 인프라 계약",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85bDVOX3FndGlhLU5COTVpdXp6b05hQmxEVFBEdzFBdkdDbjQtd0p1Ni0wTWhPSkt2MHNfRENQNTZPZGdvUzY4VUhyRWQtajlyRkl0cmVESzhDemd4SUJWbDVpVlg?oc=5",
-     "source": "PRESS9",
-     "published": "2026-09-14T18:15:04+09:00",
+     "title": "HBM에 서버·車용 메모리도 ‘가격 2배↑’...칩 대란 전방위 확산",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOWElFeW9GNlROaTkxc04tcXVvSkgxMEZWTkFpRVE3OGRhQVQzOFBvR1RyQ3BpVWJoYURSaUc3M2VES3JvZzBhRUZ3S3BTaDA?oc=5",
+     "source": "v.daum.net",
+     "published": "2026-09-15T16:10:39+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "다시 등장한 반도체주 하락 베팅...실적 발표 앞둔 마이크론은 매수[서학픽] - 머니투데이",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtZ0c1cmEyZ0s0NWo3b1ZCREh2OG94YkFrLTZuSVlZanA3NHV6RkFkQ3RsRWhvWGNNTWxBTG12V1F5ZzFYcHhIQ1g4TmdSOGRoRURSZ1MxdnFSYjlnbFF3OHhfV3VEWlkz0gFuQVVfeXFMUGxyWXFuRzQyS1VLTGNHak4tWHpnVEw2ZVIwY0ZwcmRkTTNRZXJnTm16R3RIbFBJUEhBZHFVUGwxYXh1TlVzU3dmQ2FKNTd1YnZxeDE1U0pJUG5qVkxUT0pMU3BESU1TMDhSczNnR3c?oc=5",
-     "source": "머니투데이",
-     "published": "2026-09-14T18:05:00+09:00",
+     "title": "[딜라이트닷넷 창간 9] GPU 넘어 HBM·NPU·CXL까지...AI 반도체 생태계 확장",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ER094QUFXYndDQXBRNnd1amsta0lsZE4xQ1ZxeTNiVC1wWnROMXJ4eWxyOV9jb2ljOVFmdEdDX0pTZWFvQ3pVaG5FYU1ka2ZRb0JJVmxOckg0OVVzWmdFZGZ3?oc=5",
+     "source": "디지털데일리",
+     "published": "2026-09-15T16:01:14+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "LG화학, 中 장화웨이와 '반도체 세정액' 동맹... 글로벌 AI·HBM 소재 거점 뚫는다",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FcDNTSC1Qei01WHBaZXEzSXlRaC0xeFFzeTJral9SaUZNNFpSSWl2MEIxZm4wbUMyTkJjZE1PSHNZYjJfY2lLN0pyaTRuellhT0l3Q2R6R0xwYnJrSmo1ZXVIYw?oc=5",
-     "source": "매일산업뉴스",
-     "published": "2026-09-14T17:19:31+09:00",
+     "title": "한화운용, HBM·AI 소부장 ETF 2종 신규 상장",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MzhTZ205QzZocVRTcHg4N2tWWFhjSHFCNWVXQ2Riak4yd21WRENSeV9mTldtMUZ3c2NJUHVNQWxnVFVDWF90OEVBcDdtaE53MThaWkJwRnVjY0dSTjlNSNIBeEFVX3lxTFAxdVBveTRLcEgwdEs0ZHpmZDdDdzNHdzJNeEtWV3ZTV1Iwa0FwRXBHY2I2anN0eUN2MUlFSDgwVmJ4eFNfNi1Cekh1QXY1SXVGdGFsbHMwdmNPQUdqMkNoRmpBdXA2encyMWZhYVkwV1lnWWhXNVMyTw?oc=5",
+     "source": "뉴시스",
+     "published": "2026-09-15T15:55:22+09:00",
+     "dup_count": 1,
+     "summary": ""
+    },
+    {
+     "title": "환율 두달새 200원 '뚝' 직격탄...'반도체·완성車' 실적 기대치 하향세",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91eTRUa3dQV000eDA3ZkhpUDRtRElYZGtUSGZ0Z0NMSWlQTjJoUzRGRXo4X056UjYwcmc3NEszeFYzSmRncDN1VUkzWlU4cG1vMzduckhlb1V4NmZlbG15Zw?oc=5",
+     "source": "뉴시스",
+     "published": "2026-09-15T15:44:06+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
-     "title": "LG화학, AI·HBM 시장 공략...中 장화웨이와 반도체 소재 협력",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51c0JEUUZUSjd5ZUtwTlRBaFpLUEhaY1FLTjF2SzhmYXlkUjJsRE5wb2k1OE5OWWQ4TzdTcDltT0FwTVlFekNsTHQweE8yb09qWXJUYzkxaDlOMzk3NWlIVndkSTPSAWhBVV95cUxNdzM3Q3VMX2hCM1VCYzNzRlJjd2k4TE5WSXhFMmQwRldvdWZrQ05teWVsVURuUERVY3ZwWVMwdU4tOGEyU1V0azlxY2FnU2YtYjZrMzBfdlJrbHVuX1htTFJsUF81c09mMA?oc=5",
-     "source": "매일일보",
-     "published": "2026-09-14T17:17:29+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "‘HBM 전성시대’ 끝?⋯ AI 서버, 이제 ‘효율’ 따진다",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ta0w4N3N6SXhfSFFtQ2NFaVVYSTlrc1VNQUJuNm0yNnVHRXFfd0FYMXZZN1kwcGZQb2plMFhja1VGdVJ3UDlDa1B1MXVFVDhMdVFtSEZuRnBFQQ?oc=5",
-     "source": "브릿지경제",
-     "published": "2026-09-14T16:32:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "[반도체포커스] HBM 8단에서 4단까지 내려오나...‘대역폭 효율’ 경쟁에 셈법 복잡",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iZm5iYVdOMmtfYWE0M0pvcDUwNDVQQTJoSjJCMTRGZk1vcVNtZDA2TVBwV1dLWURLS1hLTVVveVpCMHBuZTlYaW5oV0Iwa2dwRU5TSlZ4RVA4ZllVdHNpM0VMWlF4ZWZIWTFmbkdoU1A2UW0tNGlZ?oc=5",
-     "source": "이코노미트리뷴",
-     "published": "2026-09-14T15:59:56+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "中 창신메모리 ‘HBM 수율’ 25%에 불과, 단기 추격 막아선 TSV·본딩 공정의 벽",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jRnFsaWpnZWV4SC1mQ3lOTzNPdHUzS2tiMFNMZk5QUmE5ZEk5Z29mUnk4UUFMcGlNNW5VYmlMa2FoVndTVnk1aS1XMTZ1SDBxeDNMUk10YTlIRWM?oc=5",
-     "source": "The Economy Korea",
-     "published": "2026-09-14T15:58:12+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "AI ‘속도조절론’ 부상...삼전·하닉 HBM 영향 촉각",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hbDd4VHNEaHViOXVOYW1MN1Y3RnUwVkVfMGx5WVBVN2l1SVVvRFlBaXRpODdKUElCd3E3dFZRdFJObVNRb3R5cnZaVlpucGdITUliV1ZJNjFsQkJhSDl1OA?oc=5",
+     "title": "‘HBM 아버지’ 김정호 “HBM4, 제품 아닌 생태계 경쟁 시대”",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YZWsweWtjNlU4OENRMGtmLVZFRVZlWkg3WkZLLWpjZVpNX1U4RDUxa0huakVCa2VtV2UtQmpCelM0eUFIMENnQzFOclhmNEY3NENfUnBpSjIzU3Jpal92Wg?oc=5",
      "source": "뉴스토마토",
-     "published": "2026-09-14T15:56:00+09:00",
+     "published": "2026-09-15T15:35:42+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "AI 반도체 시장에 '저용량 HBM' 확산 조짐, 삼성전자 SK하이닉스 중장기 실적에 변수",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55LWtJWjlvOTN3NFI4N3VWeXZNRW4wdmxtNnRhbm9YQ3F1R19FdlJfM05KY2RUWExzSEJwQU9pelpQNU9WX3M1RFJ3eUlteXVVc3lzREVRUHBBNjdFTnRsdVlOMjFJWGVMZDB2TUh5NEQxQ3M?oc=5",
+     "source": "비즈니스포스트",
+     "published": "2026-09-15T14:40:08+09:00",
+     "dup_count": 1,
+     "summary": ""
+    },
+    {
+     "title": "범용이 HBM 격차 메운다...삼성, D램 실적 SK하이닉스 추월 전망",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KNW82cE5Ha0JzQktDLVRpdDk1dUk5UmJRY1gtWjBsTHJ4ZkRPMW1GQVVsVEIwNGRLZUg1UlM1SkotbUFSRmYtLWt3dFR1OHYwcWZEUXlDZ2cwWDJsQkdZWFpyelRIWHo10gFsQVVfeXFMUERFSThkMzJaMW5DVUhfNG94MDVVSk41U25aaVhMMS1wR3hETVhJZ2tBOUVDMnJ3OGFubTJ2eVpPS09GZWZpdDhpOUkxdE43Zmt5eVhRdzdwVU9ScUxPRGZkVHlSSjNPbXhuUXJa?oc=5",
+     "source": "블로터",
+     "published": "2026-09-15T14:28:57+09:00",
+     "dup_count": 1,
+     "summary": ""
+    },
+    {
+     "title": "삼성전자, 커스텀 HBM서 '핵심 칩' 공급망 변화...내부·TSMC '투트랙' 추진",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Od0NZQmplSXVCZzdWLVdMWVAzdWxTMlItenMtelQyWlk0NXhVNkpYcmgxYm14YWZ5QkgxRnZrZ0ZPOU5RQkFfbF9NRkdfbHBCVHI4aVRB?oc=5",
+     "source": "지디넷코리아",
+     "published": "2026-09-15T13:56:09+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "배터리·자동차 이어 HBM까지...中 추격, 한국경제 ‘밥줄’ 흔든다",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iUlU1TmtuNF9TU29sX3FQanJOQ0ZyZGZFOVNPZk9wZ3hLRjJoa3djZEhMdkxUbjZCLXpHT3B4SWxlSmZsTU1ETm9tTHBLYWw4VU9oTWNpNk1CU3VhdUlaY1VRSHRieUs4R29R0gFvQVVfeXFMTVNTYkxIMTY1UnItVjE5NzBXcXB6ajZvaVRPX2Q4bXJZOFVfS2c3QXAtZkNWSWlVd2RxMEJwYWk0emp0TkxPZi1KOUpsby1sYlZ2d0lOakt1X3I0bC1ORHFCTC1CSGU2LWZiVzJia3FR?oc=5",
+     "source": "펜앤마이크",
+     "published": "2026-09-15T11:01:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "한화운용, HBM·AI 소부장 ETF 2종 출격...반도체 투자라인 넓힌다",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAybWhqVnlWR004Z1UtTTNDSWxUSzdFYm1HZm1Vc3pFUDA2a0lxejI1RE1kN3Byc0JFZXdEZlg5Mjg1dXdtNVFETmQ1OVB5Y0pVUW5qZzJn?oc=5",
+     "source": "biz.heraldcorp.com",
+     "published": "2026-09-15T10:09:57+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "김정호 KAIST 교수 “AI 반도체 경쟁, HBM만으론 부족...삼성·SK 풀스택 전환해야”",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BRWVQdzNCTWtlZlE4NHRJZG1uSkJWZDd6cHVSMDZKcUw4amU3MHl0OW15VEJWaHU2VTgxSF9lWTFIbWNacW0zN0ZPRFJsZ3ZnZ3ZV?oc=5",
+     "source": "산업종합저널",
+     "published": "2026-09-15T10:01:20+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "[단독] 삼성전자, 천안서 엑시노스 패키징 접고 HBM 설비로 전환",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RX3RubENyYlRncEE4dEozY3Q5TEVPOHVaVGpndm14NDFMQ1RVUjJQVDVaeW1ld3V2eE8wSDJFUUlFTTJFWEJRaHo5WEk3MkE0RUNCY043RGJJYm1PTDZDN2VSZ3JJUUYwUzhYMDdXX1lkZ9IBdkFVX3lxTFBUa1hfbmZhZGNad0hkdEtvajNNVDhXWTRXY0JRUjYzZXJKSkw0dnIxaUFsVmpCQkdueWpiUTJNdzFDSkNJdDhaR2kxODZ1WEhraFpzZVFWaHVEbFExeGpmQTc4UGUtRFhoMm1URmoxalA3V2pzNUE?oc=5",
+     "source": "시사저널e",
+     "published": "2026-09-15T09:43:09+09:00",
      "dup_count": 0,
      "summary": ""
     }
@@ -467,6 +442,54 @@
    "push": true,
    "items": [
     {
+     "title": "코스맥스, 美 더마시장 확장...‘박테리오파지’ 생산",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyMF9HTG53bERVZS0ydFliLWl3dEw0R3NCY1ZmOFk1aW9Zb1lHLTZmb0V6a3d4b3BQbDBJeTFhVDlhLXotTi1NZGpRWFFWaTdybVN1SVB3WThWdmhwWnJHb3RtbzhaMU9IYWM5N211dm9fenF3?oc=5",
+     "source": "데일리메디",
+     "published": "2026-09-15T18:55:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "[진격의 K-뷰티1] 화장품이 제2의 반도체? 글로벌 영토 확장 ‘가속 페달’",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SdDhaekkwVjBnY3pwVjVQOEYya3FFSmZwaHpzMWNORnRKWVBLWjVxYjViMzZoWU1FNmFacE15X2VFNi1PWURiUWFqWnEybWM4d1JYSkJzVVg4aVE4Y20xc0R3?oc=5",
+     "source": "에너지경제신문",
+     "published": "2026-09-15T17:10:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "[코스닥 기관] 에코프로·올릭스· 실리콘투· 기가비스 쓸어 담았다",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jdWNoN1ZFQUR1VnQyMXlhYXVUV2loejBSOXJ4aGc2bmh1aWh6QWRsbTIycDJVd1c3MzZCVnppQk9SMXBDSDhoQ2l6WEdlYVhkVVd6azR6dklXM0d4MlBac1g5NWNHYld1OUY1MHFoSFFSbTjSAXdBVV95cUxNbjlnelF1NXNWeU1MX0JOYU5JUTJKdkxEbFotVDRMcE5BVGN3emdVRl9zb2dCU3BGcWlUNW55NkNYUEsyZ2hiSzlxaU1OYlVVXzBzV0ZtaTRjMTBUVTBLVld2VDM1bEZiVC03T1RfdmFBUmdsTE45OA?oc=5",
+     "source": "핀포인트뉴스",
+     "published": "2026-09-15T15:59:51+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "[공시] 실리콘투, 3000억 유상증자...글로벌 확장",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SVGNfbXNIWXM2YTZEV1RYcmtUVWZEU1IxM3VzekhzYjVQaG5SajNuWjlxU2ljaFU5SDE3SGtoUTRzTm05c0lhVDZzQWtWMXphS1B4Und1cDYwNFdYMWFwYWtYNGpNS0owcFM00gFvQVVfeXFMTUFGb2NvMXVnMVFJdmlibjJ1M3c3MFN5Sm4wMTF1Z1ZHY3RpLVk5c2NMOThadUh3cFl0WE5hUXJQVl83TUpkVVhnSEtlVkV0d3Q5aGtZbGZ3ZHRvZkFyU0J4X19MZ3VSVXlDN2ExMkZz?oc=5",
+     "source": "한스경제",
+     "published": "2026-09-15T14:49:46+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "국내 화장품주 원화 강세 우려에도 수출호조로 매출 성장...최대 4배 자금 운용 전략은",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10YTlha3c5LU9LanFEMjVvZjVCUHlZZUhqcUhLWjhySkdNOFBnYTQzaHYwdWxtR3BBZXZjS21JMFpOY3pQSDJ5NUVSa2J1LXdPOHg5cnY2MDBSdjQ3YnJWakNn?oc=5",
+     "source": "아시아경제",
+     "published": "2026-09-15T10:42:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "차세대 성분으로 떠오른 PDRN...코스맥스 '글로벌 뷰티도 관심 고조 '",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rcjdDV19zNFAzMngxdmxmZk9LaUJ5UG9EVDlFZFVXb3lydHZ2NVVNN2tDejBjSDdnWHNDdDE5WDNjYmVwazNfSlVrejFFbUhzMVlPam9HcmJ6emZWZV9ZYU90RFpuTHF0Umc?oc=5",
+     "source": "뷰티경제",
+     "published": "2026-09-15T10:20:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
      "title": "[Weekly 뷰티·패션] 올리브영·트리밍버드·로엠·신성통상·빈폴·코스맥스",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TVTRoVk43ZEVMVVExSmp1cHE3b1RmS2NfSnRVbVpERTNOWVFETzZJdGJNb2FtTTJvYmJacEFBcGthd1JSbFhBTGZIVzFiU1JwaDVmT0JBeUxDQXVQUkVfMWROUUx5R1FYWElYZThuMmFyMHc?oc=5",
      "source": "오늘경제",
@@ -476,7 +499,7 @@
     },
     {
      "title": "신비코스랩·포카스, 미국 유통 파트너 브랜드 공개 모집... “말이 아니라 매대에 올리는 유통”",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yczNFNVFPUlhaX0RYY0VGc1pTTjExdzM5bkphcEZILTZlTVR0VXlEV0JrdVdqdE82eWNTVVVUZWt4Y1hjMFZkZVNON0NwdGNyUEliMDJkWjcxMnRZU2ZEZHh5VDZ0UQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ScG9Ic202cFB4Z1dWWkZybUZ6aF9OYjJCMWs0S1BEaXlKRzdMaUw1QUZ5ZkFsN0pQdzFnTmZ6aGVBWjc4aTVyYXd5VVgyc09fdTJBZjNkM1VZNGlZV3BiRWJEYw?oc=5",
      "source": "코스인코리아닷컴",
      "published": "2026-09-15T06:41:31+09:00",
      "dup_count": 0,
@@ -491,17 +514,9 @@
      "summary": ""
     },
     {
-     "title": "'올리브영'이 키우고 '실리콘투'가 세계로...K뷰티 생태계 확장 중",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDlNVkQyWkcwU0tjcXJnbFo3cUFHYU81dmp6czU2YXpGTUhOLXJnc3dNRHd5OXJ1TFhlZWRRLXpsOTBPVzRwZU5FTmhGVHdpMUVEdUdPdDVPaDNVVnhhZnJQSU0zb0N0eVlHZkZRXzFKSkU5RzNmdFcxSjJTVDlNY0VB?oc=5",
-     "source": "어패럴뉴스",
-     "published": "2026-09-14T23:20:17+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
      "title": "K-뷰티 빅5 한 달 수익률 보니...코스맥스 1위·아모레 2위",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jV0tUSWN3WGMtMEJRNUZFWjFoNVllSmhONVk2RzJ4aENjaW9zbU12ZEFtLUN4a3V4RGpHT1Vra2N6Zk9QVzhuWG05ZlRqZ25uSWUzS0doQmFyeUtpV1dhYVZnR1FPY1lTVWc?oc=5",
-     "source": "thebk.co.kr",
+     "source": "뷰티경제",
      "published": "2026-09-14T20:31:58+09:00",
      "dup_count": 0,
      "summary": ""
@@ -540,9 +555,9 @@
     },
     {
      "title": "[특징주] 화장품주, 원화 강세 우려 vs 수출호조에 혼조(종합)",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByZnk0akVoUnhJbk8yWUJCYnN0UFc1NTU5djJBTEc2MWI3VnVmb2MxR3kzODlOUDRuVVUtQmdoeUwyOXdPNDVlZzMxYU5qMkk?oc=5",
-     "source": "v.daum.net",
-     "published": "2026-09-14T16:03:49+09:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UMExVcGJvYm9jb0NobE5hYzN5cUhEbW5xZTBSWjZDRkxIaDU3bE56cnlQUkZQQjR0TnF0bzJQM1hVaEREcDlXUHFCQUQ2NnQ5emNwQTRyYzNxSTTSAWBBVV95cUxNYjVDOGZMQ08yblNyTERCWnRkbUp4MjdTV0Vtbm1zWnkyNnR2ZXNXX0YtZDljZkkyLTUtQlE0Q2RjMW8zd3dMbkdfLTRNWUlSMWdLY1F5aFVpRkhScFZhdkY?oc=5",
+     "source": "연합뉴스",
+     "published": "2026-09-14T16:01:49+09:00",
      "dup_count": 1,
      "summary": ""
     },
@@ -563,14 +578,6 @@
      "summary": ""
     },
     {
-     "title": "실리콘투 주가, 9월 14일 장중 45,750원 5.17% 상승",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pN1lGZDRrOU5CWEY2Y0R0cV9BN3paLWxCOEIwdmRpa2FkTlp0QlFlU2drTFR6TDRfSmJ5dERMWWt1TVVYaGt4Wkc4d3c1SE1XekozdDljSWJPXzk1MVJvLWFuMGFnYlFGc0VkWEJlazdDZw?oc=5",
-     "source": "중앙이코노미뉴스",
-     "published": "2026-09-14T13:46:43+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
      "title": "[리포트 브리핑]실리콘투, '이번 역은 유럽입니다' 목표가 58,000원 - 상상인증권",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkTGdPVGhTTUllNnJwYzNRd1Fpa1FIWnhSMXdNYWY0MDhkdDBJZzctcWlWaDNpUS16Q3Y3ZWhzUjIyZWxOWXlHamp5RFNkekZ5LXRURjRQZ0d3MklX?oc=5",
      "source": "뉴스핌",
@@ -579,17 +586,9 @@
      "summary": ""
     },
     {
-     "title": "코스맥스, 증권사 목표가 상향에 강세...3.51%",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQnJDbzNiamNDZFRyal9IVHgyLUk0YTloaW5VTjBGLWNPTjRvVFA3YlJGWkdZV01VR1FXNURfdTF0eElWOENhRnVhcDA3a25OaEE?oc=5",
-     "source": "매일경제 마켓",
-     "published": "2026-09-14T12:03:24+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
      "title": "화장품 역대급 수출에...ODM ‘3대장’ 증설 경쟁",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5SzRBSUZ0cENkWGQ3dXZRTTY1T0pBQnNUQVFCTEJRNnNwZlRLTllQSG9mV0ExM0RVamh5U2pkQVVHbDU5b3RFWmgyeS1UWXQyd2ZLcWVB?oc=5",
-     "source": "헤럴드경제",
+     "source": "biz.heraldcorp.com",
      "published": "2026-09-14T11:08:33+09:00",
      "dup_count": 0,
      "summary": ""
@@ -601,30 +600,6 @@
      "published": "2026-09-14T11:06:00+09:00",
      "dup_count": 0,
      "summary": ""
-    },
-    {
-     "title": "[특징주] 화장품주, 원화 강세 우려에도 수출호조에 장초반 강세",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hNFNQQXMtZ1VIZjRVcjdqXzFOTlotVTA0V2xPQ2U3X3BDeHRhU3NCa1RNenFHTkNhbzhUM2RPRGZPU0NQLWhubGtBS2xsMExaVmJrSjlyVXZNMzZ3YWd0WdIBYEFVX3lxTE1hNFNQQXMtZ1VIZjRVcjdqXzFOTlotVTA0V2xPQ2U3X3BDeHRhU3NCa1RNenFHTkNhbzhUM2RPRGZPU0NQLWhubGtBS2xsMExaVmJrSjlyVXZNMzZ3YWd0WQ?oc=5",
-     "source": "연합뉴스",
-     "published": "2026-09-14T09:30:10+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "[가보니] 올리브영, 부산 남포ᆞ민락에 글로벌ᆞ로컬 강조한 ‘K뷰티 랜드마크’ 매장 출점",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40b2pVbGI2YURGTHd0cEtUOWxPeWhtdHdEMmZMdVdoa0xvV3pzMkNpQmgtVGlFWHlFbVNUWWxCWVliVy1NbGZtU2d4ZmhSbDlVMU80WDBHSjh0THlzbFh1bXc1M0tYRHNTWnEzdDA5cVRndFAt?oc=5",
-     "source": "대한경제",
-     "published": "2026-09-14T08:40:13+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "K뷰티 \"중남미 전문 직원 찾습니다\" - 머니투데이",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkYmROb3RxYkVXcnNmSTNOTnlPOVRBZng2aVBLaXA0bUJoejBlLUY3SER1WXdsUU9kUVZIZms5Rmw3ZkFQMTB0M041QVhXMWxGeGFsbUZIc3B4VHotYmg1YlNlRWtUaE9nZEHSAW9BVV95cUxOdl9mcDREdVJxRHBsYW9DQjd1bmtjVk1yNUYtNUlsVVQwMXVfVTlmdTBidFlaT0tYeWlER3Rmb2NMMk5USXZkcHZrUEU0aWd0dEtnQlpVSlVIWmVLOFZfeGtIb25nR1U5SjhqTDB4azQ?oc=5",
-     "source": "머니투데이",
-     "published": "2026-09-14T08:38:08+09:00",
-     "dup_count": 0,
-     "summary": ""
     }
    ]
   },
@@ -632,6 +607,150 @@
    "name": "제약·바이오",
    "push": false,
    "items": [
+    {
+     "title": "동국제약 “택시 운전자 96%가 배뇨장애 경험...40대부터 전립선 관리해야”",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sZS1nVFp6WktLZ19uYWVKOWFVVm5CMFpoaC0xSHZlZ0NwaHhIVkZfNU1uLUpxY0hCY2o4RURWWm1Kc081M192azhTWk8yV2MxVlFxZ01lcnVhUklIZXJubmlQOW90VnhhVFo40gFvQVVfeXFMTk5KcHFsMzI3b1U5NzA0M0lMUjFkQ1dQQ1I3WFdUZEJPTndTcVFVM041VmhyMEN6MVlHX05QVVUxUWxMcHR1MVZPbmc1NHVZdWlGaTQyRWYwZEViRlgzWHJfc1dMMTJ0Y3BkbDF5Zmww?oc=5",
+     "source": "더퍼블릭",
+     "published": "2026-09-15T21:49:31+09:00",
+     "dup_count": 3,
+     "summary": ""
+    },
+    {
+     "title": "코트라, 방콕서 한·태 바이오헬스 파트너십 개최... 국내 30개사 5천만 달러 상담",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03QS1DcVFOMG5ZLU1sNE5fQ0NPUXFOSDY5TXRsR2FoQjJ5Z2w5R1Q1alV1ZWRVNk5HOUdpN1Uxa1Nsc3Mxa0t1VTRfMEpKcHNyMVItckVCOWdwbmFJX2FZV19rMkI5RHhh?oc=5",
+     "source": "시사캐스트",
+     "published": "2026-09-15T18:16:48+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "동국제약, 4050 전립선 경고등...\"선제 관리 필요\"",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHYml3TEgyU2Y4NjZNdWVRQmVFdXR1NENPMG41cWNyTWowTnltdFpySm1EX2d2bF9tWTNmdXgwYXh4U2FGZmYzT3BDeGljQTZSX2dna3pvVFY4cWsyWjdweQ?oc=5",
+     "source": "메트로신문",
+     "published": "2026-09-15T16:51:22+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "동국제약, 택시 운전자 96.2%, 최근 한 달간 배뇨장애 증상 경험",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CMFBCN0xwNkhyUmdVRGU2eVJ6bjc4OWxzTVVyVVRlNjJhSlFVRzFCWl92RFhnc2ZDcUZhRWtSczl3bW4xbGhxS2JiRk1qcVo5MUZfZjViOGhBNDUyYVdndXNEY1kxdw?oc=5",
+     "source": "이슈투데이",
+     "published": "2026-09-15T16:45:26+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "[제약업계 소식] 9월 15일",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zZFk4NUFXcVAwaHJvWVBDbk90NzJlemV3b2RrVjNRaG5TMWlSQllHM1NvSl9NX0R5dXg1dXlRZmZmSEdQMVJRSVZsenhGaUFvNmVvb2EwS0RpN1NtNk9MTGJlcDl3M1NDMUhySmR1SQ?oc=5",
+     "source": "의사신문",
+     "published": "2026-09-15T16:00:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "택시 운전자 90% 배뇨장애 증상 경험...\"40대부터 선제적 관리 필요\"",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hNUNER0Y3Q0ZCQWwyb0tnWTBlXzZCZ0w3Y0pVZDFGVVFIRXJXbmN2YnM4TVBSUVNwblB0YlJablI1VWgyb3hzQTg0MkV3TVNGMVVWN21lRDQxTExXY3hIMNIBZkFVX3lxTFBHdVNSeEFBb3I2SFFQY3BLZnJvazZrVUxIQk5zOEFKTjZVQ0NOcWRWWmNFQ2stcERFRktRMzJobm9NSWJ6Ykh1TS13NUdVa01yR1kyWk5EM2NkbndRX3NPdEtFUndHUQ?oc=5",
+     "source": "뉴스1",
+     "published": "2026-09-15T15:13:04+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "미국행 의약품에 15% 관세...K바이오 현지생산 압박",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GMDdJVUZYUDBqVXJTSE9PVWtsVDZwN18xaWpRLXRjVG55SFA5REQyNE5BV3l3OW8wM2pzRjdDQ25OZTEtSFg1dEZpQ1NsSnRPNktucXhmdllpTGxjTlE?oc=5",
+     "source": "동행미디어 시대",
+     "published": "2026-09-15T14:24:11+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "한국유나이티드, 항암제 '하이드린캡슐' 말聯 수출",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmZFFHRVl4QWQ0cUZJMUNZakIzTzc2WW5zNGNLU2NiN2NHclBEdVdKWTkwYjY1X2hvRjAwUWFZNHFkZG5JTGVpMDVHNTM4NS0xcHpjRjVpZlVoYzV3V3VnVTNtZlE1NmV6M1c3NDc3c3MxX0pvX1E?oc=5",
+     "source": "메디칼트리뷴",
+     "published": "2026-09-15T13:17:36+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "알테오젠 SC제형기술, 기술수출 넘어 실적 연결 주목",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uZnRuUGlXMjE3NXJmUTNBSU9JSTFkZmsxcXQ3TUI5Uk82dFBmWFo2REttblJVTkplUmEwRVBhd012OHZLVnFzMWVVWHNyQjNlWUMzUmJRZzFoV0xndmtocHpuOVhubF8zV1JB?oc=5",
+     "source": "메디칼업저버",
+     "published": "2026-09-15T12:11:43+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "한국유나이티드, 말레이 항암제 시장 수출 확대",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5mTG8weE40OEhCaHZJbzRHYWNObFgyV1c2amRfWFpxcWZDSVUyaDlrUmlaMFZsVnRqREtfQWJZN0xmSWE0?oc=5",
+     "source": "후생신보",
+     "published": "2026-09-15T11:55:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "동국제약, 택시 운전자 절반 ‘중등도 이상’ 배뇨장애 호소...50대부터 급증",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85ZThvakhzTVRNNjA3MTNWMzFEZm5fNlY5dHRZcWo0OGREa1hhRFhWSzJyTEh1Y25xQ2NoQ2czN3ZHUDZJQW9yUXFfY2lncDVXd05lUlhjVkN4SXZ2NFNBY1FfTHBvWTUza3JLWDhCd9IBckFVX3lxTE9fMzhpS3k5c0Nxd0xHYVV2emt3MVE1UkVmd1BjRlEyZ0s3VU1SSnl5bVpzSHZidE5LNEp2OHE5RldoTXZfN2JUNWdjNzNvWG8ydV9KYUplaEVKWDhzdjRudEVRS0xtTl9UZ3VJZTVOVzdudw?oc=5",
+     "source": "팝콘뉴스",
+     "published": "2026-09-15T10:58:44+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "동국제약, 성장 맞춰 투자도 늘렸다...설비·재고 동시 증가",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SUVdWZDlDNlRVM2FmVm1QSGNEdnB2TDI5VkQ0WU9Rakd3WWMteXNGVVhJdl8taW1GUy1Ob2Z6eEtTV2lmSkgwdnBjRDVHTC00X29IamN5eVlDQVVBMXd5OTVlWVI?oc=5",
+     "source": "PRESS9",
+     "published": "2026-09-15T10:57:57+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "“택시 기사 10명 중 9명 배뇨장애”...동국제약 조사 결과 발표",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByUENQLUt1SWRsWmFoY2FTNnF4bEI1Zl9yRHRfUnQ2WUFTSFNPWWJYQWZVblRVaTlLOWRIa1pWSHZTY3NUQWdDMVo2OVBubk0yLUFnZlJTUlRBbVVaSFBpai0yZWs?oc=5",
+     "source": "서울경제TV",
+     "published": "2026-09-15T10:54:42+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "택시기사 96%가 겪었다...운전 중 참기 힘든 ‘배뇨장애’",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLaFE5VjFuRHc5R2pKQ05wUHF3RjExNkRfLVJ4UGpoanJsaUlrU18zU3h6dXlxSFBnUlZQdDR2MXA4WU5idXlEWGZicnVWQmlHN205c0cwZE5DZzVoVXpIS0RIeDE2SkhIY0N3eGloWQ?oc=5",
+     "source": "리드경제",
+     "published": "2026-09-15T10:46:46+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "[굿모닝! 15일 제약바이오 소식] 대웅제약·셀트리온·메디톡스·동국제약·GC메디아이·보령",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BT1BVNWlsTjl1dkhxemdDSy1DRHd6VnRGZUpyek95aWJoV3ktWG8yd1FhcHZzaU9yNmhGdlppVzF4dFdFRy1BMW9UN0RKRUFpNUs4dGZQbzNXVWdiSi1UMjdpWGY2bl9aNk0xZg?oc=5",
+     "source": "굿모닝경제",
+     "published": "2026-09-15T10:46:07+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "동국제약 \"택시기사 96% 최근 한 달 배뇨장애 경험...50대부터 중등도 이상 절반 넘어\"",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNWNzTlB6UUpPZjAtSWV1OTNacHozdVlmSHJpamwzSXpORVlXNUhleEUwOGcycERHVENreXZrV21hUjRmdGxpZDFlVkhpTG1aMERoT015SXdmZ19ib1duMGRKazQ?oc=5",
+     "source": "PRESS9",
+     "published": "2026-09-15T10:46:06+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "동국제약, 택시 기사 배뇨장애 실태 조사... 50대 이상 절반이 불편 호소",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfOFNiTXMxUGRCdTdhcVlhRkFiU2dYMzJjckZBOWRoc3VzUGN1QzVReUlJWHVlTTFTdklSNU5UTU53TTI2ckxGRWNfel93QWlFQmItcVBEUV9Va2RtdVZ4Yi1qNXFJQQ?oc=5",
+     "source": "열린뉴스통신",
+     "published": "2026-09-15T10:43:25+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "2명 중 1명 ‘배뇨 불편’...동국제약, 택시기사 640명 조사",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tbjVoemE1aGdUMUM5d1ZFRjhuVzU3YngyY3Y1bXJkd0pFZ1lNQ182bkZGV1A1MmVzelpxSm9fM1lSSWtFNUhiQ3ljckNKVlBvbXRwVVZWQ2ktUkpkaS1SbHlzN1I?oc=5",
+     "source": "인더뉴스",
+     "published": "2026-09-15T10:23:59+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
     {
      "title": "식약처, 우즈벡과 의료제품 규제 협력...수출 확대 지원",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tWGc4UkZRR3hGcnJ5Sm1UZXdVZmZYZkxBQk5Tblc0UEhQYzFGMnZJdXdBTXFqcU1OZkZVajJTTERlZEswTGp1Q1JsZGZZRDNGQXVVM1lJQ3dheWRDOUtBX0xiN0JFTHpF?oc=5",
@@ -647,70 +766,6 @@
      "published": "2026-09-15T08:26:48+09:00",
      "dup_count": 0,
      "summary": ""
-    },
-    {
-     "title": "동국제약 “다가오는 추석, 맞춤형 의약품으로 가족 건강 챙기세요”",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ySC1rWHl6OWJ2dXQtbVJXWFo2dGt2endnWGhCYVJLZkhnbmNQR2JHTGl5X3VKZEZoNDFMTEEzM1dWb09FaEFZS2d3bVM2eDJoUmtGTFlKRkZlRGxwY1RyZDN2clVhUWZpZDlN0gFvQVVfeXFMT0JTVVhoXzRScXNISEF5WEEzbnlRNzBoREhNUDFEbjdjODFndDRoTXVwYzdxNXJjTTIxNU5iOVFSMmdRMldMZUdfdFlqMElkY0pkYmRvNjNfbmExVUJNVTlid2F4Rl9qRVZ3YlRnQUxj?oc=5",
-     "source": "더퍼블릭",
-     "published": "2026-09-14T21:34:36+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "[K-뷰티 부스팅] 동국제약, 파마시 뷰티 전략 확대일로...제조공장 인수 '시너지 UP'2",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zZ0p2TmVXNEk1eUVESEZCMjVYbUxIMDhISU1MY3JQcUxVQ1lEWjB2SE9LVFQ4WTctek9xQXMxRkIxVXpWN1huVmlkX3dHR3pyeE5yLXJsbVF2YjVhLW40YnRQWTE1a1U0?oc=5",
-     "source": "녹색경제신문",
-     "published": "2026-09-14T15:20:46+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "동국제약, 독거노인 '잇몸 건강' 사회공헌 이어 추석 가족 건강관리로 접점 넓힌다",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Wa01FUnpKRUlNTGFUenNXR3NDMWlHVlp3RFFuQnI3RVNsZ0drcmEwaV9feldIM1Y2b1d6bmlkSlBTQ01KbURCLWRGQWRRY0l6THRvUEwxSjBVVXBQWXpIZHZfckt4TDFC?oc=5",
-     "source": "데일리팝",
-     "published": "2026-09-14T14:28:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "[Weekly 제약&바이오] 차병원·JW중외제약·동국제약·건강보험심사평가원 外",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wdXJJc0ZYSzNncmQ1NGQyaG14el9GbTJ6YTduVTFXNS1fLVpPVHJrMlByLVdBcmtuVmVhRUhqNnhBbFB2ZW9YSTVsek53b3BMMG5NM2xDdnNmcUFBUDYtcW9iWV9OTHVSQ2F1blhsZ3VPMWc?oc=5",
-     "source": "오늘경제",
-     "published": "2026-09-14T13:50:34+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "동국제약, 추석 앞두고 가족 건강 챙길 일반의약품 4종 제안",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sblFELWktWnk4M1lFbUUyME0xWEdybzlBUTh0SWJYQ2lhenQ5SmVwLTlUWUhPTlBQcnd2OVMxWHE0Yk5rSWVLdEVCRWE1d1ltamk5S2NNYVhybE9HYjZhY0IwUmtFaDdxMno0dUdFdw?oc=5",
-     "source": "리드경제",
-     "published": "2026-09-14T12:44:14+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "[굿모닝! 14일 제약바이오 소식] 유한양행·롯데바이오·에스티팜·삼성바이오에피스·동국제약·오스템임플란트",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhQmRaek81MzQwUTJteDZ3d1JrdHpRbmFKZl9PSkpFcEVHTncxSUhQcmV2eWZ0YWJ3UWpwX2Y2UjIzMnBaeUdjaDRZZm41cTFEM3RzNjB4X2Z5SXBEekR5cjIwbGRYZ1FqRkp5Rw?oc=5",
-     "source": "굿모닝경제",
-     "published": "2026-09-14T11:32:44+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "동국제약, 환절기 건강 관리 다양한 아이템 제안",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRE9SVTVaN3l2UGdKWFlJYnJ0RDJBYlJOSkM3Tkd0QjQ0MlFJUFNWMEZzWnFZVm5uR2g1X1Z3VnRKQ1lFS2I0U3dReGlSeEJMSE96b29xMGh1NjI0eEtDUXVGek9pY1E3VURB?oc=5",
-     "source": "마일드경제",
-     "published": "2026-09-14T10:33:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "\"미국·유럽 다음은 중동\"...K-바이오, 수출 영토 넓히기 나섰다",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GcmFvei1BbF9ua0lyUjBwTm5XX1dSaXZZMWMyUGNud0VlcGV4OThaQ1RXYTNEaWtwVTRISTRCX3JUbEhLd2VmQkwxdHVsdHVNZ3dhOF9KVTRldGhhZ0lLTdIBZkFVX3lxTE15dFlEaWVsZ0dqdmRxMm1pY3gtbW1XNi0wdUhqWnhXVXUtV1ZDa2JKXzdqeGVnazBlckpBbXJucnNXOFpyLUFyeE81R25UQkNfLWJvUFRsTUIwZ2R6ZlZJeWphcnhhZw?oc=5",
-     "source": "뉴스1",
-     "published": "2026-09-13T11:27:52+09:00",
-     "dup_count": 0,
-     "summary": ""
     }
    ]
   },
@@ -719,8 +774,104 @@
    "push": false,
    "items": [
     {
+     "title": "삼성중공업 ‘LNG선 승부수’ 통했다...수주 목표 넘고 북미 공략 속도",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96R2F4WUhyYlFvaS1CVVRaYkdBVnRSNXdlMzcxVi0tVmZtUlVPeW85cGxJOHJuX2JMUnhtSzNCMHJxeDZlcmZuV2pGR2l6aEtablMtLWJ1UlFFR2szN2hGWHFDMy1tZ0hieU9v0gFvQVVfeXFMTUVmS3lsWUdwSE9IVlI0dVBndGtmcWpLNV9mdTg0djdKa0NHc2lOQUVnUnVUeWlrSl82RjhBWUxkQnc4emQ3aWZhWU5ZTGxHeWpDU3pyV2pPcjNWNWlBcHJJRmM0QnhaRlBxNEhyWHg0?oc=5",
+     "source": "더퍼블릭",
+     "published": "2026-09-15T16:49:41+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "전기산업연합회, 에너지산업 수출 협력망 구축",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mUmRDNjJMVUpsX2lPcC1lUGtpTTZhLWRuSFBxQlJNdGx4bHlZbUZhUEN6TmxtWlVNY25YZ2lySVctM3pJMTh1SHR1eWlWa042S3BpNHBOeVRNWmdYNndQcWFUbw?oc=5",
+     "source": "국토일보",
+     "published": "2026-09-15T16:47:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "AI 데이터센터 전력 수요 증가...국내 전력기기 업체 수주 확대",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wXzd0NWNjbTU1VHpMS2NjbmpnZ2JEdElWVjBIUWI3NC1Camh3SjBKMGJmMVBKREJreGpuOFBjUjVuQzVCaHJ3dTcxRVRxNFpmci1aY3Y1VVVNZUhxaGN1d3dYZEJ6akJzUlVyU3pQZ0JPUdIBckFVX3lxTE4wXzd0NWNjbTU1VHpMS2NjbmpnZ2JEdElWVjBIUWI3NC1Camh3SjBKMGJmMVBKREJreGpuOFBjUjVuQzVCaHJ3dTcxRVRxNFpmci1aY3Y1VVVNZUhxaGN1d3dYZEJ6akJzUlVyU3pQZ0JPUQ?oc=5",
+     "source": "폴리뉴스 Polinews",
+     "published": "2026-09-15T16:33:25+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "[단독]군함 MRO 민간 위탁 늘린다..한화오션 추가수주 기대",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fVzR2MnpDNS1VbXpfV3hpTzVET0VZeTE5U0U4UG9CNGd4ZUdjT1kyVm4yeG5Lcm9vWWlsM3lTVC1OTEVEeGZPeEdTMWRrQVE?oc=5",
+     "source": "v.daum.net",
+     "published": "2026-09-15T16:32:08+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "효성중공업, 미국 빅테크 업체에 3865억원 규모 초고압변압기 공급",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQZFhnNmhqWjh3V0gyVjJhWk5GOUIwZGFNc1dXR19JdTVkTkptLTZRYUJJWjFnalBuelBnaVN4MVdqZkxGLS1HYlNWdWRTbTFzYVd3TEZsMVJsajZPVlpJ0gFfQVVfeXFMUFBkWGc2aGpaOHdXSDJWMmFaTkY5QjBkYU1zV1dHX0l1NWROSm0tNlFhQklaMWdqUG56UGdpU3gxV2pmTEYtLUdiU1Z1ZFNtMXNhV3dMRmwxUmxqNk9WWkk?oc=5",
+     "source": "khan.co.kr",
+     "published": "2026-09-15T16:19:00+09:00",
+     "dup_count": 1,
+     "summary": ""
+    },
+    {
+     "title": "에너지산업 수출 혁신포럼...‘K-원팀’ 통합 에너지 인프라 수출 추진한다",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUTN2MlJhaVZlNU01aEpZVEQ0N2Fpc3NnR3BmOWRzTHhDaHJuWDAyQW9MZ3lTSDd4Tl9qcjhnWFhBWWNMRk16aW1odW1aYjFtQWNuYnZFTUNfRkc0VWxLNG1yTHl2R19nMWNyaksyOXBJQQ?oc=5",
+     "source": "에너지데일리",
+     "published": "2026-09-15T15:29:11+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "조선 빅 3, 글로벌 판도 바꿀 '수주 무기' 살펴보니",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLRlkySnVpWVFWOXpYLVhUSW81MHJyeDVMUklGenBEdmQ5dF9YTXhUYVBlWlRNV0U5QmlOYXVoUU5haWVubHVXMmtDNUFzeldIcFREU0c5VXRWUm9XMXlDT3E4TUZBOTVyWlNUdnFxUGhOX01E?oc=5",
+     "source": "파이낸셜포스트",
+     "published": "2026-09-15T15:00:05+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "효성중공업, 미국 빅테크 2곳 뚫었다...변압기 3865억원 수주",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVENHQjlnYlZvejBGeElZQnB2LXJBSGZuUFJBZG9EOGNvejh0T0FrdDV4YTFqTXl3b2JTYm9vc21DVnJnbFFJcC1wRjg5d2xCNmxrbjg5OFlHTW5uc1NWYUh0TkNKaGpyYmVj?oc=5",
+     "source": "뉴스저널리즘",
+     "published": "2026-09-15T14:41:26+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "조현준의 '美 전력시장' 승부수...효성중공업, 빅테크서 3865억원 수주",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GbGpuUmNoMXlZT0dYUlNLcU9uV1RMRkMwaWQwbFR3Z2sxSlFldlc2YkdFMG9GNElFS0FlMV9pMlBBWFFSYzNEazB3OGxNTWJ3VnlpTFNGODNlN0tJbE5PeDBncG9nN1JB?oc=5",
+     "source": "데일리팝",
+     "published": "2026-09-15T13:40:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "효성중공업, 美 빅테크에 3865억 변압기...AI 전력 수요 잡는다",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43bUQ4Snp6amhMT19hNm94M3BPU1JRWW54U0JtYW1LWFBoRHgwQmxHUXEwb3RRaFVsQ1BTWS1hUjloYl94emdvTF9meV9CWTRnc1VjbVVYakpWcUMzRmMyaWdhQ2c?oc=5",
+     "source": "ppss.kr",
+     "published": "2026-09-15T13:20:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "효성중공업, AI 전력수요 타고 북미 공략 가속... ‘변압기→토털 솔루션’ 전환",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ajdkd3JETjBwaTRhVnFKalFmWUwwSmZtOWVzNkhWUUdwUV9PWmdsVl9yZndRTDEzcjQxSXRyVWdtZ0lpOUY2SVNQUzBjYjQ5MUlOYzgzMzBSekw0NkVRNFJQNEg2czlYMlRjOGdKOVg?oc=5",
+     "source": "Korea IT Times",
+     "published": "2026-09-15T10:54:12+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
+     "title": "효성중공업, 美빅테크와 초고압변압기 3865억원 공급 계약",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QanhYU0w2aGZSN3UxRUw0M1lEWXRnMzktOExkQ0FrYXExcF9oS0JSNi04cXlnT205MWZwNEc3WDBlLTJoM1h0elVzM21SS2hxaXfSAVNBVV95cUxPRVp6VEZCbXk2ZGVjT3lWZm93Z2pZUU1nZ3JYbWY5V2ZWOUYxTnhwaHZkTEw4OHFMN2FaWjJoUnNMWFFQbmNhdnc2eXNycUNWMUlZNA?oc=5",
+     "source": "서울경제",
+     "published": "2026-09-15T10:18:00+09:00",
+     "dup_count": 0,
+     "summary": ""
+    },
+    {
      "title": "효성중공업, 미국 빅테크와 3천865억원 변압기 공급 계약",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pZG5qWmY1UnFMenVSazFveHozZlVCbXNfY0JzSUlqeWF6ZmdTWE00WWNLSkpGaE9pYm5COFI0aFZoMXVhakVFX24zTWw5MzR2Tlg1cGQwYmhlaEnSAWBBVV95cUxPQnZhcGV4NU9lVW1NQVZrZzVtcXJTZ1ZIZlgzN3V1M2Jfa29NUjc0X2xyNU40SVVrMXQ0Q0U0Q3VsRWl2YzZ3Tk9wYkZBQ29ra2dVWU5fN29LdDRDR3duR0E?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CdmFwZXg1T2VVbU1BVmtnNW1xclNnVkhmWDM3dXUzYl9rb01SNzRfbHI1TjRJVWsxdDRDRTRDdWxFaXZjNndOT3BiRkFDb2trZ1VZTl83b0t0NENHd25HQdIBYEFVX3lxTE9CdmFwZXg1T2VVbU1BVmtnNW1xclNnVkhmWDM3dXUzYl9rb01SNzRfbHI1TjRJVWsxdDRDRTRDdWxFaXZjNndOT3BiRkFDb2trZ1VZTl83b0t0NENHd25HQQ?oc=5",
      "source": "연합뉴스",
      "published": "2026-09-15T09:20:03+09:00",
      "dup_count": 0,
@@ -728,23 +879,23 @@
     },
     {
      "title": "美 해군 MRO부터 상선·특수선까지...HJ중공업, 글로벌 조선 강자로 우뚝",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYR2JORzJoZ3gzdlRodXp3MjNTSkthZ3p2TDNaOHMyUDVMMmUtSjNhZFdhNElidjlIYlRPakJHZ1VqWng0c2tZU0xFTENtVEtGeU9UZXdKX3QyalMyZTJ2QWtBQldkdGRVc2lVdDFpOTJ5d041UGfSAWZBVV95cUxQc0tjeTdxdVVXNWhla0N4Rjlwa0duWm9BMHZOSEpGaTZRVXJDV3VWMm02RFlJSG1GMGJmS3BjbWVvM0IxLUV1VTdRZTFqUE9XWjdWWmxXOFNMOVN4QklPZUs5WUw0bkE?oc=5",
-     "source": "동아일보",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VOVlIXy03emtpMzVXb0J2SWEyZ05Yd0RJU1UtOTRDNUJIU0lSdFRfaFhzaC1LVHBiNzFPWG11Yml0OXNZTzZpM0thaTg4Mlp5RmFYV0lXRjh1VmJ0Tmc?oc=5",
+     "source": "동아비즈니스리뷰 | DBR",
      "published": "2026-09-15T09:00:00+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
      "title": "변압기 호황, 철심 공장까지 바꿨다...전기강판 수요도 ‘꿈틀’",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMWV6VUp0eFY3MDQ4c2RWVy1UWV9mNDF6UXhmQ2k2RUEwOENzdTY5TWRLMWhJSFNTaVZvQ0VPWTdrTE9NWTEtSXRvS3VRVFE?oc=5",
-     "source": "v.daum.net",
-     "published": "2026-09-15T06:02:00+09:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXVVM2bDM1TGpGYU9wVFRRZmZUcExUd1NzS0otc003Wjhtd1U1OG82ZjVUNzZvd2FEaXhaQjlORFllV2xzYWtfaUpCVQ?oc=5",
+     "source": "아이뉴스24",
+     "published": "2026-09-15T06:00:01+09:00",
      "dup_count": 0,
      "summary": ""
     },
     {
      "title": "AI 특수 누렸던 변압기 ‘휘청’...M&A 스텝 꼬인다 [시그널]",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES1FMOU93bVd5Wmo1SVNKdFFZNkdoZ1lwekN4anVqdFhZeFRvNmxLRkt6QkNQTjhFWnF0MmcxQ1MtZ0U4OXVMUExHTS1LZ2dYX19z0gFTQVVfeXFMTURLUUw5T3dtV3laajVJU0p0UVk2R2hnWXB6Q3hqdWp0WFl4VG82bEtGS3pCQ1BOOEVacXQyZzFDUy1nRTg5dUxQTEdNLUtnZ1hfX3M?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGdllCeGtBOHJpLWk4S3Y4TVJ0NHNrS0l0WmlpeVlNQVFUbEUzVmJhNDRXRnQ1dWtDdV9vcVR5Zkk5b0FucHVuMW1waWNTRmQ2VUHSAVNBVV95cUxNREtRTDlPd21XeVpqNUlTSnRRWTZHaGdZcHpDeGp1anRYWXhUbzZsS0ZLekJDUE44RVpxdDJnMUNTLWdFODl1TFBMR00tS2dnWF9fcw?oc=5",
      "source": "서울경제",
      "published": "2026-09-15T06:00:00+09:00",
      "dup_count": 0,
@@ -761,7 +912,7 @@
     {
      "title": "\"주문 쏟아진다\"...한 번에 1조6000억 '잭팟' 터진 이 회사",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlU09kemtMTnc3RHdZZHF1VFVzYjJoeXNfODRJLVFfNmREQlp1bDdfWUdGeTZRNFBSbkJhdFFReXppeDcyQ3FCamJhNWtEODVpUjZ3aHhRZVVUQQ?oc=5",
-     "source": "한국경제",
+     "source": "hankyung.com",
      "published": "2026-09-14T18:13:38+09:00",
      "dup_count": 0,
      "summary": ""
@@ -776,105 +927,9 @@
     },
     {
      "title": "삼성重, 1.4조원 LNG선 수주 잭팟...조선 3사, 가스텍서 미래 먹거리 공개",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lVVA5RTU0bzZ0ZUd1VkJVdHZjTGppUy1TT1hUUmU4ZzNVTndkMFRFa20zR1dOR0RsWTVlblNNMzBzdHdYM2hHeXZzbzhmTk0?oc=5",
-     "source": "v.daum.net",
-     "published": "2026-09-14T16:47:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "HD한국조선해양, 누적 수주 191% 급증...15억달러 넘어",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04SXFweXQzLVo1cEdDd0p2LXVNTU11MHUyaWtZNnNkWk9QWUdIN3lSclpndVp0X2ZiekthQkxDMEkwMkI1a2xxTV9tcjRGc1FCYndrZ0ItVWpNbHJxWFAwaDl3TUxoeXo1SUdV?oc=5",
-     "source": "한국신용신문",
-     "published": "2026-09-14T16:35:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "남부발전, 美 현지 발전소 거점 중소기업 수출 지원",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oXzF6SkdMUlhkR2l3Zk1NVEh3RjNGbGRrQzkyU2kxR1JhQmU3Y3lfMlZ0aGNQRGJHWDFoWlZaM0JZdW1sQzJOck0xbWRzVmFHN1ZmY0tjamxvWXBTMnNBN2U0blZ2SDI2VlpvQw?oc=5",
-     "source": "투데이에너지",
-     "published": "2026-09-14T16:20:11+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "삼성重, 대형 LNG운반선 등 1.6조원 수주",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16cFh0TGJVZ0FtWHZEQjczd3I5eUxzVVkxMzlLZEhnZF9zb2R6LTY2UlJ0bFBtazBvREhnSFdqTVVPUTBLMzJaRFQtVkdTQ3ZNb3VJNnltdHcyei1SV2llbGdyMWhvcXFDcDdPM2dKdXFQLVE?oc=5",
-     "source": "쉬핑뉴스넷",
-     "published": "2026-09-14T15:44:00+09:00",
-     "dup_count": 1,
-     "summary": ""
-    },
-    {
-     "title": "[기획]AI 속도조절 현실화하면...반도체·전력도 ‘연쇄 영향’",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0SXNtZzJ0WmpqdFdsRkY2bmVDdEpkNnlhV1JDOXZCYmI0NjhBTlMxTzFrMFk5QWdCbVg3Q0hWWGpKN21HVERDR3MzSWZPYTRIRjZES0RVYk1kaEd4b3AxelMtcVRzY2x60gFoQVVfeXFMUHRJc21nMnRaamp0V2xGRjZuZUN0SmQ2eWFXUkM5dkJiYjQ2OEFOUzFPMWswWTlBZ0JtWDdDSFZYako3bUdURENHczNJZk9hNEhGNkRLRFViTWRoR3hvcDF6Uy1xVHNjbHo?oc=5",
-     "source": "매일일보",
-     "published": "2026-09-14T15:03:42+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "함정 분야 우울한데 '상선'으로 전진하는 'K조선'",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TY2VXbEhJZUZGYW9SaTVYQ214dzE5YnR3bFBkY2tyMXhfV3dvU0F1d0JpeF90d0lJalBZYUZpWm9KUHRkNXN4MmNyNHd2RmZJZUVJS0hGYWltS09wWUhmbkVn?oc=5",
-     "source": "이코노미스트",
-     "published": "2026-09-14T14:49:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "1조 6476억 잭팟...삼성중공업이 오세아니아 선주와 계약한 '이것'",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjZlJrT0hOTml0bklKYmZlbzRkdDZPdVZFQzZZQnplWU5QUTJrdVJESU9wSFpCb19oVDE1LWJNajNKS0Vyemt3NlNyZEF1MlUtT2s3bU93?oc=5",
-     "source": "위키트리",
-     "published": "2026-09-14T14:33:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "금호건설, 수원 파장1구역 재건축 수주... 공사비 927억원 - 조선비즈",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNy0tZlpwQm9YMEp1Mm5sV0hEeV9mTWZqN09mZGRhdzNPZEwxZENjT2I1VXRpT19zWGVsYnU1ZXlMMkZaYWhLOXdCZjRoSUxpbGRnVWtaY0E2MWI0NnBoOUFpSmtvazJQREJSTjhRdU1WSS16cEZyU3hnbGN5N1VRVTBSVzhQcS0yUnZNR00yTU0wOHdYNDN5Q9IBrAFBVV95cUxOVThpeFVDN3ZoY08xQnZhWmxQNFdleVdzcTNsSTNoNjFOeHNIMmFwM3VCRmpUWEJtMGxZdUJub1RneVl1NEJQVGhZZ2dCVFNMbF9mSHc3RnE2Y3FlOWpYczVUbGdOVlZxeUoxSUhjSnV4b1ZyY0ZHdzlSV1JVSGltbGdncUdBc1lzNi04UGZET2FuRmpyTU1hM0ZHaThVQUFXem9naE44T25RbWFN?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-09-14T13:41:00+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "삼성중공업, 상선 수주 73억달러...지난해 실적 넘어섰다",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3am42dXZ2MHRlTlBRd1dZRGpRVm1sWk9ISFpIajNkZHdVbGhUM0ZWNUtucDBDaEFGdDBPS2ExS2tSdmk5U1BEb045OUxiVllwMVpqaTNUbDBFalZKamc0Sy04RHBfdW1F?oc=5",
-     "source": "ebn.co.kr",
-     "published": "2026-09-14T13:22:07+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "'26년 상반기 공작기계 수주 1.8조 원 돌파... 전기·전자·조선 설비투자 '폭발적' 성장",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14c1JZa0JVeUtneElhek5XUHo3MVI4RjFPVE9mR0wtNGZjSHEzelctMEg4YVJfcmFHNVV3NGNiZFNNYXVrUHlOS0ttZ09nWHFWSWw2SU5hNnE5WDN4Wjd1VFhxbjZGZ00?oc=5",
-     "source": "기계신문",
-     "published": "2026-09-14T12:00:09+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "대형 LNG선 힘 싣는 삼성중공업...상선 수주 목표 28% 초과",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BN3dYbU9idWFVVTJPNzFER0VqTFhyVDEyTG1nSmw3Q1RqS2pRZkk0cEtHZ3pWVXh4b1Zwem9udXZiRTlXazFNZzdZa1hIQjVpTEVnSU0zSzdCX0sydFpGaHdhVk54bV8ySkHSAW5BVV95cUxNdV9pSTdRTjViZlFFTVc1dTFsa29zX3I4dEtidWJWVzVfT2RrZGF3aGVUTmFMUGlrQzhXTndFSENkS1owMHZCZU55bV94ZWlfMF9TTmlhd1lBWVhWdmFxNUZlTkU5NHo1UWRzWEhjZw?oc=5",
-     "source": "the-pr.co.kr",
-     "published": "2026-09-14T11:53:19+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "삼성중공업, 20만m3 LNG선 앞세워 1.6조원 수주...연간 목표 128%",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sUVZSeWxvNjVkM0NKSHpKOEo4TG83RXY0cGdTZ2RpeHNsSDN6bnA2M2M0WVBMWkctT0w0SWpUTXpDcHd5cjQ0NHhKTEprQUlkMWVteGdSOWFGX3VIcG9DcG9uVWpCajctd2VIWllUM0k?oc=5",
-     "source": "거제타임즈",
-     "published": "2026-09-14T11:48:38+09:00",
-     "dup_count": 0,
-     "summary": ""
-    },
-    {
-     "title": "삼성重, 대형 LNG운반선 등 1조 6476억원 수주로 작년 실적 추월",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LQk1Ed0Z4RG90WVJmRzFEbFRqdkdYQkIzRjlXakUzay15VWRiVEdSMXNhRmVtNjBrNVVBYlJ2WDdvMzNPRkxGcWdCUTJuR09IdTlxMTdTQzhWdVRDMFJtQ212a3NBSWxLWVQ0?oc=5",
-     "source": "새거제신문",
-     "published": "2026-09-14T11:06:03+09:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aMlI3U0JacXgzYXdfbW8yOWY4ektXVHVsSGlQcUVtLVhiLTJkREdnWUR1dy1vbm1LaFczUnpVSUtubWN5aHdmdWZzQlBvVDAxb2lyNGh3?oc=5",
+     "source": "joongang.co.kr",
+     "published": "2026-09-14T16:46:04+09:00",
      "dup_count": 0,
      "summary": ""
     }
