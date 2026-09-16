@@ -1,218 +1,202 @@
 {
- "updated_at": "2026-09-15T23:32:15.061488+09:00",
- "total": 42,
+ "updated_at": "2026-09-16T09:53:52.929083+09:00",
+ "total": 40,
  "stocks": [
   {
-   "code": "OSPN",
-   "name": "ONESPAN",
+   "code": "NEO",
+   "name": "NEOGENOMICS",
    "items": [
     {
-     "title": "OneSpan (OSPN) Stock Sees Fair Value Lift After Analysts Revisit Guidance",
+     "title": "NeoGenomics Stock Just Turned Its First Profit, Creating an Optimal Entry Point",
      "broker": "Yahoo Finance",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUl9VNUJweUVxUmJocGRmQmEtaTI1cmtla28tYWFSeGVmUUgwdGVhUWEycU9hZ0J3Mk1teG5XQXZPMnQxblhPU2tveDNNYTN5ejlwSjBFQmlqVlp6ajd0WG5NaVdOM09GZ0w2UjRvdURxeko3OHp0UlVGN3BGN2FERWgxUzJSbV9qR3NsZDM1Q2MwUFJQUGZscw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGhOSS1qcWdTOEtyUXF6SXdQM1Q4a25sQVV5cWFpZFNZbXFaNjlRWmhZTHYzOXZJbFQwcVdYZmJIRTh6ekx2WGl2WVEtVVBGZHBiU2VtMVVUUFJuRWo5UFFIYjM0a0RIYXF0M0dXSWtLMUxZbHV4YlU4clRFU0p6V1M3bGdmN1N2VU14cGotd2NKQnRTLWZQWWVQdmI4cEZhS2c?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "OSPN Forecast — Price Target — Prediction for 2027",
+     "title": "NEO Forecast — Price Target — Prediction for 2027",
      "broker": "TradingView",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83RTE0dlpPeTNmZFZQWkF2bEZvU2xWcnhsUy0wUExKQXc0bUZkSWZZUHFIb2lmMXM1Tnd2RmMyYWV2dHRydWZzcnZLMHRLcTRPcVZ2TjF5d3VhNHZJTjhmb2E0US0zd3ZlUHhMdVpTajZabzNhcVZSaUN3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tdnNsNkdBTGFYQV9IWnpCQm9JbElhR1UwVjQtV0xmcWtIb3VWWkhRWG9CVi1jNkNWRHZ6YTVEX2RDUjF0STBaSXRFeGY1bV81elE2c3l5NHo4OXVqbTBRQnR3MGEzX0xnSTdkMENzcmlRMlVBcXQ4WQ?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "Results: OneSpan Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts",
-     "broker": "simplywall.st",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUklWWjVZQ25OVXpxWmdUbF9DYzVVQWMteGluUXMtS0hyRFVtMGFBMXRSckZUOTJWcHpkSGhjQWFzU1VMa1NETmV4aW1YSlh4cFVhcVhiUmFWbHBKR0xQNUlPdXpRM3Ytb3ktZVNYZTQtRFUzZkp1V2FhS2NSMWVHUGRNcjgzX2JkaHBQVVJFa1ZtbDZ5bUEzTVNyRE9UOXhJYzlvZmpCZ05hLVE0LTZpaUhRZWhCSlhrTkd5Wlk4SnlNeW_SAcgBQVVfeXFMT19LM2FsTmZfRVFjY0EwODI4bXJFNmlwLWxtZGYzNF9UTVZtWUpweWpZNDktUTg0Z1BJeEdSRG5mOFVWSzdlbVA4OEZ3bzk2cDkyZTh6QVJYNlJLWTVzSmkycEd0SzgxLTVRaUVjM2NyeE9BWS1mV0h0Zmo4YVhBMTZaV2lSV2xaeTJVcW1CQmdKRi01dzhhSElFR3I4ejFrT1dZWXh0a3hBMXVHbzdubUo4TVBFRnhtSUVNbGZnSmlwaU5EQlJZYjI?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "symbol__ Stock Quote Price and Forecast",
-     "broker": "CNN",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwd1J4Q1lGelliemYwNDV3WTBXbExWdEppSkVkRmFkY3FqSnZBOXdJMnZJSHRaS2ttQzA3N0c1b0ktUmVUUExuNDhSQlc2eEtv?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "What is the current Price Target and Forecast for ONESPAN (OSPN)",
-     "broker": "Zacks Investment Research",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15UlhjQWZOUFgzWnZkVnIxTGt5LXRIa0stX1NEaFk5Wjh5ZThueE5NRUZWcC1wRjhxcGNwYVlhU1I4LVNZcm5DRnM1TWpJdW1zTmFyaGxRZkV2Y2lKNHliM3Y2ODQydmhhanlpTXZxZEYyNWp3RmNQQQ?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "OSPN - OneSpan Inc Stock Price and Quote",
-     "broker": "Finviz",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45VjFHa3dTTzc4VUlDcXdaRlE2QUxtYVVCMmRyTTFsZzc1bUVxYmJDRVF0TkZIbTAwcVRkTTlhdV9mQkFzc0E?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    }
-   ]
-  },
-  {
-   "code": "ASC",
-   "name": "ARDMORE SHIPPING CORP",
-   "items": [
-    {
-     "title": "Bank of New York Mellon Corp Makes New Investment in Ardmore Shipping Corporation $ASC",
-     "broker": "MarketBeat",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNzVfU2MtbjhyOWVQa3diVl90TGVJeGxqbkRXWm5WYjlBZVR0UlFRTWVSTmc0ZVRkMllsbWM3bEFFZkc4ODF6d1NKVVI2QzNGZFFSN1BSTUpPUUx1T0pIWGRnZzJaa3RtcU9fVEd0bE9pM1R3Y0lTZjdWOFI4X0cyNU5vYXNBUmZJTnU4NURtaEhFN1pnRXZCUlROUmhzSjNIUzBsSUxweHBUcHlYeHoyRnA0ZlNKMWR6cjRGSEdVNlAxUTNFSEJfS0NFREpJYWJhdFdJbmF5bHprZXE1Rk9v?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "ASC Forecast — Price Target — Prediction for 2027",
-     "broker": "TradingView",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VaUxjZjN0MWJQdUhkNWJiSDB2VTdZZkM4c00ySUgtaHJJbVdFN0EyUnBNenRYdkdNQ2NRR1RrWENvT1dDdTZxX18zdG02NGFFV0t1T0Y0aHVta1FaSy1DVE5tUm4wOVdEYl90c1hpdE52UENGaUE?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "ASC - Ardmore Shipping Corp Stock Price and Quote",
-     "broker": "Finviz",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0xbGh4RlU0N1JSZWkxVHNKS242VkJQNWhVTTJIbFYyT3MzSF9CTTh0amgzLUJJdUZyaUVTQll3S1dQVzRk?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Ardmore Shipping (ASC) Stock Extends Rally As Tanker Margins Surge",
-     "broker": "simplywall.st",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdy1UY0xsclpSa1EtT2Exc2NKTThUcklObHFZamhRWGZ3cjVlMGxIb1F5V1BfLXJTTm9MeFBFX3RhUEE3ejhXS1dnZ0ROcm1USlhaNE13NHdUSW9hcW9neUh4QlNKcUk4LTc1MXpGaThEWmttbmtxY3FURmduQ0wyd1dHTW1IanVLbktiLTY2d0xISGdhYVMwYWlIUmNNT0M5R1Rtcl83amJOVEJ3X0VxU1pNSFpzcGhnRThzb3lXdUZhZnpyRUlnWEJR0gHPAUFVX3lxTE94RDdlV3dwMFZUdm42bjBCbDk2Y2JiUzlIaEJ4S0VYNUVzSklJN0d6MS1fWWlWQVR2cGZWeU1fcndDNC1KaDd1dUxiWUQ2RnR2NE9QZkhJdlRybkRkUm5MR01LYVFCS2gzdVFNV1JvNWhTS0Fkc2VFbkhoR0xhRXducndLdXkzbEs2cEF3d1hYMG51T1J5aFNWaFJHSkJ4bjFWN2R4Z3pTRHdHdU95b01rQm8wQ1o1VkNLclJBa2lhcUhjTHdybm5od1FQeGEtRQ?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Ardmore Shipping (NYSE:ASC) Shares Down 4.6% - Here's What Happened",
-     "broker": "MarketBeat",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHdoY1hmeV81a1RzRlpFVTBDeUtwaWdhOWRLZnh6enl0b2xDTmJaQ2lVZHlFdjBwc3pGX3ZodVZrU0RLLWJPY2pPUU5vSmxNMlZ3YVdxU0tSX19LZnh0Zzg4b0F3WVZNNkh2VV95aDFqUlZZMXlYa0VYSDdCdE92aXdLdEtkb2dBR05PaVhlMjA2NzYzSmp3Rzk3RjRYOVk3elR0UW5PdjFZVXhyVEpwbm1JZ2tJRFVEM2dfcw?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "13 Lucky Dogs: June Graham Value All-Stars (GVAS)",
-     "broker": "Seeking Alpha",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGZSOTd6LUpkaXlHRy1MNkMxT1o5WnlvUUtGVTQzQU5zNDQ5MlFESlphZ0ZyVWwzTmJCOWQxUUN0ZVJvWVAxbHlXbkVaWkRXNEVIY0J5bXdpbGhVR2hCZWIyX3hDTlJycTd1MWVIZWtWRjFOOGdlbHZmZFNtd2NSbElMQmNUaFg4T1FWY2RCUmc?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    }
-   ]
-  },
-  {
-   "code": "CFFI",
-   "name": "C AND F FINANCIAL CORP",
-   "items": [
-    {
-     "title": "SPCX Stock Quote Price and Forecast",
-     "broker": "CNN",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mNFpQdmpQSHpfbjh0RmFkcGxLQ1d1dWxoeUoxMTUwM0pnRmYwRDVjMFlvdVNKQm85LUsxSjNVZFlSZm9iSmYwRkJfSVhlNmtK?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Grocery Outlet Holding Corp. C Stock Short Interest Falls to 36.45%",
-     "broker": "Quiver Quantitative",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUtjeVF1TE1PZW8teF9yd3dGUzVXbVl2RlowM3VvcjdCYVFPTHJ1XzJwSm9NVEJSaThHOFc5c1RRbkJmMXRESHlNUWFHbVFyVm5DZ3pDTlU0QzNHOEhCXy1VcU9oYkdmdW5kZjNZMWFtS1hBdllyT2VGaDRQVEt2UEN4cUxoTEt6MklDTE0zck5jZ29vdFRtR2RBOU9FeWphbG9CWA?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Toronto-Dominion Bank (TSE:TD) Stock Price Expected to Rise, Jefferies Financial Group Analyst Says",
-     "broker": "MarketBeat",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLTBsOHQ2ckhHWUdQb0FHdVZtNlZMTXJwN004a2pKeU9pMFJaOUZDMXh1MU1Tb1VNXzMxSFNNOVF1VDB6LWpxckdpTHUtV1FXVTJpVWQzQkpWUFJnS1JBT182UEVPZXNzbmdhNXZaZUxTSUo4cFFTMFZLZ2RFXzYwN1c1Ukt0MmticWFleUI5bUhVSzZ3RXc3SkZOQXlrdWN2YjV5d0hocU9EVDZmeUdYRjJNYTJobENkN3AwTzRSZFN4NlFfdEplVjk0ZjYwNDMzSEw1VzQ1bUpiMm85SDlVMmctY3hlNVBCU0hSYlluMA?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "5 Top Goldman Sachs Stock Picks Pay Big Dividends (One Yields Over 6%)",
-     "broker": "24/7 Wall St.",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3JlQVB3NFpFaUpfVjM1dG9ncEEyUmFyV1lZMkoxbU5zM0VReElRbGxxT0ViZXljVE9tUTJPcGlnY29sOGpDakNsREVnM21CYlk4X0ZXaG5tZUpFYjNYWGcxT1RuVzFJVExwSzhncGl4OW05YVJVVDEyZVo0RTgyV0tnZGpWQTJtaVA0Tm50RFZxSU1ZVnNWYnhDU21fMm5qRjhnN05Qc2JIaXZUendFWFV0TjB1eGVEZFE?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Lockheed Martin Corp Stock (LMT) Moved Down by 3.89% on Apr 24: Drivers Behind the Movement",
-     "broker": "TradingKey",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmhNOVUxdmIxRjEydllVMURzOXV5ZWNHdHc3ZXZQbVp6eHpmalJyMjRuMFliZElGdnNfTGtUZVhqQTJDUGJJN2xDMnRrSkV4aXZ5Yk1qd2dzdDVQeWwzY3hnUVN6YWtvN21WOUR0WHVyUHZXT1RQeEI4bWN1bzE1QWxWaUFkT0RRWFE?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Going Public: Business Combination with a SPAC vs. Reverse Merger with a Non-SPAC Shell Company",
-     "broker": "Loeb & Loeb LLP",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbkEyUjV6VmtoOS1oT0RmNjcxNWw2akNBRDZmVW9QWXFjNl94aU5ScXRwZWYwVEVYMmg1bFNsU2t4ck1GUjYwWFdOSmNaeEpMVkt5S1hFTjdXMmhuUVZiU1VsaGdoY0lfV1dDUXM2WFZnbmdBZmZobWdYUnB6TUtaRjRjUnNMS2prTlgtekpfZEEyeEVfM0ozemZxX0JMZ1dNTVAxSEs2b01mNUtwbFVrb2dzX0VJS1ZZWVU2YmtsOXNpWjI4WDlBWkg5aHVHelQwVTBtQVZHdw?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    }
-   ]
-  },
-  {
-   "code": "TRST",
-   "name": "TRUSTCO BANK CORP",
-   "items": [
-    {
-     "title": "Earnings call transcript: TrustCo Bank posts stronger Q2 2026 profit, stock steady",
+     "title": "Needham raises Neogenomics stock price target on strong Q2 results",
      "broker": "Investing.com",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlJ3TEJJbTVMX05BYjVzYlpfWnRmSkEyNFNfQW1CYXZkYXJ2RXVETDQ1VGRSekY3NlpsZllGR3dEb2w5c1EyT0JKeU1VN3J2azVsV0R2bDRFcFdldTFzRF9rTnlIc2llRTJRY3JGaTRIUEM3YmlEbXo1RnNvZjFtaDN4bnV3aE1KZG5YX0tzVWxVXzNPMDU1OGFtSktucUhMZ0sxc001NS1YbjVEODdlWmFQUnF1S0xMSGtMOHNfQVh1czllN2VZOVJsNWY5czdobHc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYzFOcktRU1NxRVhlRHhvWnQ3X1A2TFZBUE9HVDRiaEVlSUd5U2JQMWFDaTBCQUxYSjJsc1M1X016cHlrZ1NwRlhFOWc1cFI2SmNXWUx2TFBsZkZSazR4R1N0N01FeXE5Q0Q1VzQ0YVVPc3dWSWNqNm10amlnd1ZqRHZNeFhYRko2bmRGVHdkY0JHU0RRdXVWRnpfVGtGcEJzM2dMMU9UeE01bzZ2Y1dRM1lxeVRZZmszQ3R0Y2pPZGViU193?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "Glenview Trust Co Makes New Investment in Stock Yards Bancorp, Inc. $SYBT",
-     "broker": "MarketBeat",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMXlBaUlqWk81bEl1cDV3TThMQ3V5QnBZc3ZWODdKTFExeklweHp0X2hsM29jZVZyMU9UY3dmNnhHMS03cFN6VVZBZV9ZcXRiRHFSUnpncC1hZnFtQ2YxdXdMdW9yTzJvcldfQVpDdmtZckZlcjZFWjZ2LTh0MGlHQXFaYXExTURvYUtIcjJCSWV2N21HZTFpeF83U2w0OTFsMklPd25rYjBQN1BQNXRfaUdxQlFxYTljdVg0T1NGT0ZrNHNPdXM3eW9ucw?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "TrustCo Bank Corp NY (TRST) Advances 2% as Regional Banking Sentiment Improves - Revenue Growth Stocks",
-     "broker": "Vinanet",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2ltSnR5WWVyc0wzR0VBY1N0cEJqNzBsdHBwUHpiOGZQbVctRV9PMFYxemVNempicmVWcDdjVW5temd4M283d2Y1aS00WV9TX296cDk1cjZEeFdpaGpHRzRwS2pLOG93c2VvTWtzZVRORWJINmw0V1ZCSWFIbUptdlR3S0lISnJ1d1ZPdnF5N0JHb0hsTzhVc2pXT2xGLWRqU3hDWnZzbXhXbHNSaWdPbUZqT1FtNlpa?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "TrustCo Bank Corp NY Announces New Stock Repurchase Program for Up to 2 Million Shares",
+     "title": "NEOGENOMICS ($NEO) Releases Q2 2026 Earnings, Stock Rises",
      "broker": "Quiver Quantitative",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQk9SZGotYWlqSGd1Snl1eWp3RERlV004dXBxTS01VUVQSnVKMGUxWHN4TXFMVHg5X3NndlRleGhVZ0x0Qy1sV2FwSWo1a2c1dG92SmFZblpZWFAwTjI2RlZkM2hmaU9vdTlhczZlTWxxaTZvcTFPTlFVeWZDa1A0QmxmOUsyc3REQ2hQWFlBdGZ4SS1LNUJQMzZmUXdweGtmalV3UWJfSHZOd3NEQWt4aElCLVNTUFkzRnNB?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFFuSExWSlhwbm9aZHE5em01aVdjZlFoVFpoOE95Z0VZeDVJQWtiN25yZGVGcWtwdHh1SERibl93OW9UWnctOFRrQkU2ZTRqRlFDRDQ0VUVURFlPUy1iMGdTbFdndzlRdkJxNUJpMVNuM3Ricmkta0dKUDduNUZ4MjduTHNYclN3UE11eFd3SnE2Q252?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "NVIDIA Corporation $NVDA Shares Sold by Central Bank & Trust Co.",
+     "title": "NeoGenomics (NEO) Stock Rallies As Profit Returns And Margins Improve",
+     "broker": "simplywall.st",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVUQxSlZNc3dWY1Q0ZHRGbjk3UnVDWEl4YVk5OWVVcWxMWWJfZG1YdWM2VlpqeWIxdzJFSElJVTZNQm5yVGN6b0E3NUdFajJCYU1Nc0o4YWZjMFdhbUlZTHNSSDVtclB5STA4TU00NDc4dGxmNmRMM3hIRkRDZXMyUTlDNmtVaVVWaktxb2t6RmZUVmNKZzRvV1BVbTlRNmJEdzlLX19SUS1JNWcycGg1bWJrUUNSQUExN3dRbzljUDd0U2tHOUVWb2Vn0gHPAUFVX3lxTFBSSmF5amktRndfM29keGQ2b3dLQUR4NGtVTXpsVjZOakVUTnVWaUs5V3F3S0x6QmU0Zlo3alhyNDhCbW1IaFZoV2lrQkkxeDJoNzJEaWxPcS1kZGZuSTBLZWw3OGxNT2ZoTEtZZ1gwd1hEZjhxUUJDWUI5anVBb3ZiTUFMc1MxMzV4VkdjZnl1YThoY2t4c3ZiUk9UeHUzclNnMGZlZG52cVN5Ulp5YWh3ZHJZZ013ZWJQZV9WLUdWOEJsek9qb1Y5N1g2TkFVRQ?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "NeoGenomics, Inc. Stock 12‐Month Price Target Raised to $15.67, Implies 11% Upside",
+     "broker": "TradingView",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX0YxVmx3MVhRUmVmNEJzbUhOZHo3MlQwbUt4ak9GR2RoWTNYNVM3eFA3NjRDNXpJbmR5UmhiQUxVdXlSdHZzVUt2NXBEVE9JSmYzM01SMS1jeFZRY05hX25kemtiWWtQVWxySXIyb0VhSFZnaW41NFc1bGluWmZFZUNYSGRCc1VjYVJuZkdfcWtjUm0zVWw5bzlRNTE4a1REc3g3YzZjZzAxQkhrRk4wYkFWQzlpZ0oxYUp4X3o0SDJQVzczUUZER2JMZDk4RkFSalBRTHBB?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    }
+   ]
+  },
+  {
+   "code": "LILAK",
+   "name": "LIBERTY LATIN AMERICA CLASS C",
+   "items": [
+    {
+     "title": "Form 8K LIBERTY LATIN AMERICA LTD. For: 15 September By Investing.com",
+     "broker": "Investing.com India",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPck9SU0J1TDlkZTRobGlDa2ZSV1JVYnVoM0NJWFFzdEFSS3NaRUl6Z2I5R1AwNk9LaFlmVFk3d19LU1RVYUl3NktaeE1zOUVwZmpxTlFOcEota2pFNno2Z2JDR3hmei1rTnFsaGlzTEp3dVB2UnRTR3lFVUpPZ3ZJamtjcTZGekZpV1hNOGpPVFdGLXNYMFJ6b1RtOS1HaUEtVmFVMGlUb05fN2J3U0JoMQ?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Liberty Latin America Price Target Announced at $9.00/Share by UBS",
+     "broker": "Moomoo",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjgwd3drVUZuV3RwWWhKa0ZsazNPOE44SjJseWw1bk9wVV9xRm9FMzR6dmUwVG1SSE9MbzkxV082ak04UnFPWS1OZVVBaXZGbFgxMEZXVmNKOGlfcVZFOGVxUTJsR0M5SDJxYTlpM1lFLTFuRUFVSTg4RGlOZ05MQi1ZZGhwUDd6TzBTWTVLZWlfMzZ2SVFmdThTUzJQY3MtQ2c?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Bank of New York Mellon Corp Takes $3.14 Million Position in Liberty Latin America Ltd. $LILA",
      "broker": "MarketBeat",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSlFOSFhNNDhVRjBnSUxyQzR1QzBWZUVmcTllR05YOGRvNE5KdkVnSFRrV1RWNlR5TEhXSXhWRlkxN0hxUVBLQlg1ZHZRRWplUDN5ZEd0VXV6Q3YwaHJuSTNINk4waEduTnl3U0g5UkF3YmVFcHpmR0RyYVh2SXBrR2F5X3Foem41Q2lhUloxaEZYbmtObUdmX0M2d2h4cUdBcFpLVGpnRjFYRlRBQ09jUlBreWhEX2MyT3U3c2RB?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUmd6bm9vYkRzYzZnb00xcjRYOVdLczdYUl9OYUxMUmtfUi1GVENIYlRlYjVfVXloZGdma0NIU3h4V2FreWgwYXdQUFJJT09IZ2ZSUVFQQmZiS3BkY3AtRmhMOU05eVlaRHh2VWhGY3VjZjcyWjUxd0ptN1NuZE9ORmtKU3NrUF82dWN2ckVQUHFlTkxpRnRtODktbUc1VV9MOG53aW1rRnV5WTk0cHgteFRQb0dkU1hCcllLc2NrT2lMOEl2SjhOQlRqcFFhc0RvWk9BMS1SbTVIR0c3cDBpM0ZDYVk?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
     {
-     "title": "symbol__ Stock Quote Price and Forecast",
-     "broker": "CNN",
+     "title": "Billionaire Media Titan John Malone Buys 121,000 Liberty Latin America Shares. Should Investors Be Buyers Too?",
+     "broker": "The Globe and Mail",
      "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJRzFoeFBITnF1bG1pZURlc1B5T3UzT1Nqai1OSkxPWE1saWJhWGFGYnRXejlFblVFYTVHdmhoTmI4MVdKZmhsY29ZMmxGeGdF?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdEE4RGNhQmw5SmVtRnZYSlJNa1hTQ2thQmliSzZtRHpKM2NMRVlpNGsxMUNnOE5Zck0tWWxsV2hpcWtxMmwySFFnbXBZNl9VSXpiYTBTTmRVbW5ESkk3R0EzUE83OGdqcGJJSHl6SEFvZF9zQWpUSHJNWU1maVdDS3Zja0JGVERQNjA5Si1LOXctckxRT3Q1cFVlT3dpcVBtN05tMzBEaGR1R1pZdHlITFVBSm04UjY1NHJZck1xU0xadlpRWGNJa0lEM1E0N1paTzBiYThkQ1gyblNsQUI1VEhMaUNyZmozQmctUW5PS0ZBNHFLOE56X2xrNmhQRGVzdFVDWU9qOXVRY0JYejMzX05vSF9NZw?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Liberty Latin America Reports Q1 2026 Results",
+     "broker": "Business Wire",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekU0TDdVbkNJVGpOTlVEVjg3UGxoNUF0bnhjZFdKTVhQUU5XNTZoM25Jc3pSRHdaYXZEa1FnOEg2YWIyYXY2WWlNRG9pV1hfak5XQk16aHZCTkpscUU4dUlvaUEwRm1KOVd4eXpFNC1sZXFPcEt2bUc4UFhuY0h6Y1ZZUHJIcmJkQmpmNXBaN1oydTgxWVFrbWF3aHdYZmVFcTF5TQ?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "GCI Liberty Invests $107 Million in Liberty Latin America Shares",
+     "broker": "citybiz",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVh1alB5c1A5azIzTnp2MTF1aW5EeWhwYzR1WG42cTh4TUlRZjNEYmRYM2s5TkkxLVA2R3hqcGpBYzlQZ3REczdVdEQ1QVM4bnZlQ1JXcmU1ZS15alJIUUhVSlN3dVctcWlTNzRNeGlrRm1NbmRsZ0VmTm5BYkNTZkU2S1JmTXdsVXlUUUJhU3AweUVoZnc5aXlUMDRSVjJIckZpNg?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    }
+   ]
+  },
+  {
+   "code": "TXG",
+   "name": "10X GENOMICS CLASS A",
+   "items": [
+    {
+     "title": "10x Genomics Stock (TXG) Opinions on Insider Selling and Atera Platform",
+     "broker": "Quiver Quantitative",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1Ria3hxU0ZkTDlvZWdlQkhZTnpINWJCSXB4M0owd09LcENOTE4zMEQ5VUc3Yk51WTRfelNzbFdSSDVnNmxSVXE5azlnV3NHUjlIX0hRS0dXNXR0dnVfeFkwTUFQUEVGUmxPbVJaWWY4RnYxeFlSWVY2NW1pVHBYaC14UHRuSGtNRWI0MVI0SldFdnVOZk5XNTdIZ0VoNzJ1Q0lwTkZNa2JlNl9t?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "10x genomics CFO Adam Taich disposes of $2.99 million in company stock",
+     "broker": "Investing.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2RDR3lPSUNTSm83My13LV9sMzE1VWp2cEZtTWlKU21DLVdrY2JwUFJFOVNzNExhWHZ5UEs3WTRmc1JlTkhCckl3WFoxalZFSWFKeHdDVndubHJQREJPdDNwc0s1OW45V2xiSEtUcGRucUhnNVdrQ0ZZWGx0c2RsLWp5LVRfT0hsX3FfM3NSWjBfZWVCN2dIWVdGQTVPMkVzZ2JGNXhfOHhBSWFGQVNNMEFPaGN5S2JxNnZWQ0VMb2RjNGVYTElsdk5vU0lFUQ?oc=5",
+     "kind": "기사",
+     "dup_count": 1
+    },
+    {
+     "title": "10x Genomics (TXG) Reports Earnings Tomorrow: What To Expect",
+     "broker": "StockStory",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3E2MGoxdHJBUzFiV3k2SnlWV2lqY0tkc05UeWNaQmxycXZkYUtIajIwWHhrcnBEYWhxXy1JTzYxb3NQRFEtTW5XbHlKOGQyZVN1bW5Kc1FkcnR6c05qaXdJR2JCWllRdnEzWEx4OXZNeGFNMTY1RnN6eDNyVzVNOE45X3RTbTR5dkt0VEY2bksxSDBWZWIwRENtRlR0QXUyaG82SjRmbTNaYU5QNDFlMUk0WE5nNm9I?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "TXG Stock Price Prediction 2026-2027 | 10x Genomics Forecast",
+     "broker": "24/7 Wall St.",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzVHNjQ092ZkgtOEd1aXBBdFFyc3N4N1FvSzZZXzRwMzRzd2dJZXpkSlN5eWc1NHdjeVMzeHZPS0hBb1ZGZDdadmpCVnBoVUFOVEExckVFT3NaOXh1bS1CSWdTaw?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "TXG Stock Rallies As Wall Street Hikes Price Targets",
+     "broker": "StocksToTrade",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EeEZCMkNPWkhqdVpKNmVabDlEWE1FU2VRSmx5eGRRSHlvYkU4bUEzQjVBaFBkdjBKNldiUGlPS1ZQaDN0dlNyZ3A1STFhMklWUVlGZW5NYXhJZTVjX1laUjRxcVNVb0x2aktaaVhYUlFwb09la2Z3?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    }
+   ]
+  },
+  {
+   "code": "RVTY",
+   "name": "Revvity",
+   "items": [
+    {
+     "title": "Revvity Stock: Is Wall Street Bullish or Bearish?",
+     "broker": "Yahoo Finance",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkFBTFVqMDBUVXpPTWdMTnRtN0Jlek1jS1pzV2M2RHFDbllEUHdsUFVGc2xQck53ZVFaWGZnblBPZ2RiWWZ3TzZCNTFGUlRIY0tkQ0plMlBQRXVvc3lyS0F5dVEySy05LVluQmVrUmo4enBqV3A2WlBrSTRiZDBuUEV1VTN3UzdCWHhDd2RSM2NVZEJiNG5jejdlRF9idUU?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Revvity Inc. stock gains on Morgan Stanley conference momentum and strong valuation signals",
+     "broker": "ad-hoc-news.de",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0tpZEJDTzExam1rV09nSGxEcmNCa2s3Ty1jX1A5SEItcTBkMWRFUTBwVlk2ai1zUWFHS094SWg1Q2JLQ3QtNVE5NVdpQjR0U1pGWUE3SnJkaGtNSzA0Q1RTeW1Yak5vZUhNbjhMbzBwYnUwNXpQbE1MbjJQeEhtOUlYUndVT3ZldE1PaEk1YXI3MWVnOVIwZ0t4dVJSenV6TzRheEJ2bDJsVnhuMHZ0dzdob0owX01ZdHIxcktJeEJ3TkM1by1TT3hjNTBXSzVi?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Why Revvity (RVTY) Stock Is Up Today",
+     "broker": "StockStory",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcHhrYWowUWpkb2MxX3JPeVlxMFFmM3h3UjZHYzBnUEtCbFU5c01EXzNrWWQ5aVlJMmYxc2dLQ1R3TFczdWQ5NUxGaGFOdE13czV1YWpLMEFEbFNGaWRuSDBRdlRuQ0d4ZHBqNl9zYW5vZlRTYVcxVUtjakw4UW1oSjZ0Q0U4SGZYOWd1OWt0aEl1Z2dxaWVwbUln?oc=5",
+     "kind": "기사",
+     "dup_count": 1
+    },
+    {
+     "title": "Revvity, Inc. Stock 12‐Month Price Target Raised to $116.07, Implies 3% Upside",
+     "broker": "TradingView",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUJ3SmdwYktYVmVBdVpmRnVQSVNoMVlCZF95YUpPT0FjUGZwQVhiUm1JQl9CU25UeGRpbk9NZVhyM3pXR3NldER4VmpkZWFDQ1hoVXdvYllGaGZOODdSYXA2QS13UEhqNmxVLWRKVS12djRjU0x2b0hGYU0wazNScTBXMWlxVlkyNVBTVHd4czR1cDBFeWFiWWFDeUdPelpuTFBfOEt1elh1eTJVTmxtZHlFQzk5dXdnaENDdWpOczhrTm9VanpKYXg2bE0ycHNr?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Revvity, Inc. (NYSE:RVTY) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock?",
+     "broker": "simplywall.st",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOblVQWXpBOXVTVXV1NjFuMndZWnFERWxJX3NJU29IVmlhdUJpOUNUYms5cER0enRsVVJTTERwZk1VWjZzczd6V2tKTUQ5ak9ZdFpGTFFCOE9CejJLWkRUbFlnUjFaTzExOG1iczRrOEtTc3Q2cTJ2NHdpQ3VPNHlrUVhQdWdRN1NQbWZmZ0Q3eExhSlg2dzlXc3BzWWlqLXFYRjE0ZVV0NWVnZlhzX1RodWhBME5TNG1xZUVXS1JCV1J0Z1Zua0R2OFpMXzJJQmVlVEtaUDF30gHbAUFVX3lxTE9QVkViWXpvNnNDOEZXU3pCeEtDa2xnekJJX0RPZkdwbjNUSmRQcFF1bWg0cVU1eWd0M01MV1A1X09qOXZEUGl3X205anpyWjduRGV3ZDFDVlBoTXZSWElaUHR6V0tublFrM1Y4eXIzREdub1N5cWZrczhHeGRoQ2EydFMwQWVFSnJBcUZmWXkwMGlvNUd1SlJSUzFYMFFQYk5YOXF1UVdwRUlwZk84M205VDVnanEtLWU2cnB5VGlTSElEYmJKNEtFMGpCTDJIbThLNXd0clZlS3dKUQ?oc=5",
      "kind": "기사",
      "dup_count": 0
     }
@@ -239,18 +223,18 @@
      "dup_count": 0
     },
     {
-     "title": "Aptiv plc stock trades below analyst targets after recent slip",
-     "broker": "ad-hoc-news.de",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzhtUWpfaDJZQURkUkNibHBoZVVkZUtwRVMweFZNVU4wRThpcFZ2SkgwU05FNE1SNTdFS0dYbUlXMWhPblEydWFna3lyV1g3N2V1ZTUxQzNZalYyS2ZEQnFPemNsYVpaSElGY0ZQLTctTTRoWEU1SDlRU1V6dEZqVnRKSVU5WEN3Vm1TR0VlRzI3R3pUY1BqUENsMzNzWlVKZnBIUzdwZ29lam15RHFuOEFpZDJTQmZObWNnSUp0VXlWZWc?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
      "title": "Is Aptiv PLC (APTV) a Cheap Robotics Stock to Buy on Revenue and Earnings Growth",
      "broker": "Yahoo Finance",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYTlzVjcxUzlnQUZ6X1k4eFpMbmJCYzZla2pDb3hTamhtdXNud2liLWFtbUhtYWJ1MWZLUmxCZnRkQVA0dDRmXzVLVEVPSTczMDVxVGVoRHE0NWJBMmcwNmM2Ykx1X2Y2VjlaVVpBVjlsbUEzOU5KVUo1OUZfeHAzaHhFcGR2bkYydnJmSUpwMkJDeHYzQTQ1b0F3?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Aptiv plc stock trades below analyst targets after recent slip",
+     "broker": "ad-hoc-news.de",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzhtUWpfaDJZQURkUkNibHBoZVVkZUtwRVMweFZNVU4wRThpcFZ2SkgwU05FNE1SNTdFS0dYbUlXMWhPblEydWFna3lyV1g3N2V1ZTUxQzNZalYyS2ZEQnFPemNsYVpaSElGY0ZQLTctTTRoWEU1SDlRU1V6dEZqVnRKSVU5WEN3Vm1TR0VlRzI3R3pUY1BqUENsMzNzWlVKZnBIUzdwZ29lam15RHFuOEFpZDJTQmZObWNnSUp0VXlWZWc?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
@@ -277,6 +261,14 @@
    "name": "Zoetis Inc.",
    "items": [
     {
+     "title": "ZTS Forecast — Price Target — Prediction for 2027",
+     "broker": "TradingView",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qRHl6OVN2Q19jdDhoZDdxWDhoaTI4ZWZWcU9jWTFuckdiOFY5U0RoLXJESTFCZDlmOExMNU45UWcxX2FjSk9XMUQwZXhSTFc5eEFYRDVWZUJGbk5DQVl6eHVROHlULVJsWjVLeFdqbWU5aGlWemc?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
      "title": "Zoetis Inc. Just Missed Earnings - But Analysts Have Updated Their Models",
      "broker": "Yahoo Finance",
      "date": "",
@@ -289,14 +281,6 @@
      "broker": "Investing.com",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaV9Ubk1pbHNFbXU0a3lmdTZ0enRYT2pmMmdPVVM0QVM4Si1RVkxjOHBtRmgtRjdqUU5YNmQ3Z2FlLXFUSWVmVEIxcllOdlJXVnU4ZWVWMnN5dG51c09CQk5yTDNxNkJGNjVqcERYTDJtUXVRWldLM0dyVm50MGlmS3FrZUlkbWVRWV9SOXBhZkhZWGVmRGEydzI1SVB2dEdJNzFlNDFvbnU3S0dSdXdSTHJaZXUzTjBJTTdjVmVRMzVtS00?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
-    {
-     "title": "Zoetis Inc. Stock 12‐Month Price Target Cut to $106.21, Implies 38% Upside",
-     "broker": "TradingView",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUjQwMnFpLWJ3cUl0N2pEYXlfNlFTMnZYRTRwR1gtYVlOWlVIV2VHTVlmTThzWFVsOGFJWXk3WjlNQTBSMlNlVWJadE9fVll5MlJMMElDUWJYYTdWQ0RmNEpPMnU4TG4wOVZzUEprQzhlODN2VnR5R29BcVdCdGprSkxNS29PZUVKWFZ6UnNDdU83MGtMa3Nhcm85eFJ0NmZVUkY4R2VQcDZvREc1UWl6Rks4OF9CR3lLZWVFZm5MaEZCZ3M4RV9vLVk1cXI?oc=5",
      "kind": "기사",
      "dup_count": 0
     },
@@ -330,14 +314,6 @@
    "code": "PNR",
    "name": "Pentair plc.",
    "items": [
-    {
-     "title": "PNR Upgraded by Wolfe Research -- Price Target Set at $91.00",
-     "broker": "GuruFocus",
-     "date": "",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOE8xS0FMTjB2UWxkaDhOUVV3NUxGWU93TlpDQWhtWGlrZms4YlZiTGdPT2hqSnFGYnpVOXB2MHJzejBmU3Bwc3U0MXZlQ2hvTjZRaVUxQ2NISGN6YkZCQnlzVjVScm95ZHNFaGVNdG9ubTNrWmtWN3U2TjZ0cGZpYXBWNmpCVFhaYXJmX01ETWsxRHppWkxHamtn?oc=5",
-     "kind": "기사",
-     "dup_count": 0
-    },
     {
      "title": "Pentair plc stock falls to new 52-week low as lawsuit headlines mount",
      "broker": "ad-hoc-news.de",
@@ -375,6 +351,14 @@
      "broker": "Seeking Alpha",
      "date": "",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXlHdmdTaVF4TUZ2UkxNUkZmQW9EZy1PVGNrZFVnRHZjdmtCaEw4TUhBVVRlLTl5MHpRRkItNnc3cEFnX29kQ1dpM0JKU1lYQTQ3X05iaXpGUHVnZkpGbVBoZXI2U0ppYnJDa0FWOFNqSDJJSUJ2R1R4RWk4YzVCMUtDYWhWZ0pRSEtGZ19rSUh3SnpBUGZ3?oc=5",
+     "kind": "기사",
+     "dup_count": 0
+    },
+    {
+     "title": "Pentair Stock Forecast: Where Analysts See the Stock Going by 2027",
+     "broker": "TIKR.com",
+     "date": "",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczNkWmdOeTBqOEVTTS1fWmNQemtzZW5QWFZib2QxeThUanBqaG5YbzlpcDJWMDRlRGNUcGlodjJSWlpqSFRZcHJnS0x1RTRMZW14SF9yaFU4RmlSTGZ2WTZUa09SVERiMm8wS0JrNGs2YlFnN05GelY3NzNralRCXzM5UlZMWlhyR3RBcF93U2NobWZ4SlE?oc=5",
      "kind": "기사",
      "dup_count": 0
     }

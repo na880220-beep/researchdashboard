@@ -14,5 +14,13 @@
   "buyable": 0,
   "dv_candidates": 15,
   "dv_triggered": 15
+ },
+ {
+  "date": "2026-09-16",
+  "highs": 45,
+  "gate3": 1,
+  "buyable": 0,
+  "dv_candidates": 13,
+  "dv_triggered": 13
  }
 ]

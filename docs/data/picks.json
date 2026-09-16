@@ -1,48 +1,48 @@
 {
- "updated_at": "2026-09-15T23:31:49.655288+09:00",
+ "updated_at": "2026-09-16T09:53:29.142978+09:00",
  "picks": [
   {
-   "code": "OSPN",
-   "name": "ONESPAN",
+   "code": "NEO",
+   "name": "NEOGENOMICS",
    "market": "us",
    "strategy": "신고가·물극필반",
    "universe": "R2K",
-   "sector": "Technology",
-   "score": 0.58,
-   "note": "G1",
-   "source": "신고가·물극필반"
-  },
-  {
-   "code": "ASC",
-   "name": "ARDMORE SHIPPING CORP",
-   "market": "us",
-   "strategy": "신고가·물극필반",
-   "universe": "R2K",
-   "sector": "Industrials",
-   "score": 0.511,
+   "sector": "Healthcare",
+   "score": 0.749,
    "note": "G2",
    "source": "신고가·물극필반"
   },
   {
-   "code": "CFFI",
-   "name": "C AND F FINANCIAL CORP",
+   "code": "LILAK",
+   "name": "LIBERTY LATIN AMERICA CLASS C",
    "market": "us",
    "strategy": "신고가·물극필반",
    "universe": "R2K",
-   "sector": "Financial Services",
-   "score": 0.507,
+   "sector": "Communication Services",
+   "score": 0.72,
    "note": "G1",
    "source": "신고가·물극필반"
   },
   {
-   "code": "TRST",
-   "name": "TRUSTCO BANK CORP",
+   "code": "TXG",
+   "name": "10X GENOMICS CLASS A",
    "market": "us",
    "strategy": "신고가·물극필반",
    "universe": "R2K",
-   "sector": "Financial Services",
-   "score": 0.414,
-   "note": "G1",
+   "sector": "Healthcare",
+   "score": 0.704,
+   "note": "G2",
+   "source": "신고가·물극필반"
+  },
+  {
+   "code": "RVTY",
+   "name": "Revvity",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "SPX",
+   "sector": "Healthcare",
+   "score": 0.615,
+   "note": "G3",
    "source": "신고가·물극필반"
   },
   {
@@ -52,7 +52,7 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Consumer Cyclical",
-   "score": 0.794,
+   "score": 0.783,
    "note": "F8",
    "source": "딥밸류"
   },
@@ -63,7 +63,7 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Healthcare",
-   "score": 0.689,
+   "score": 0.669,
    "note": "F8",
    "source": "딥밸류"
   },
@@ -74,12 +74,78 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Industrials",
-   "score": 0.672,
+   "score": 0.649,
    "note": "F9",
    "source": "딥밸류"
   }
  ],
  "table": [
+  {
+   "code": "NEO",
+   "name": "NEOGENOMICS",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Healthcare",
+   "score": 0.749,
+   "note": "G2",
+   "rank": 1
+  },
+  {
+   "code": "LILAK",
+   "name": "LIBERTY LATIN AMERICA CLASS C",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Communication Services",
+   "score": 0.72,
+   "note": "G1",
+   "rank": 2
+  },
+  {
+   "code": "TXG",
+   "name": "10X GENOMICS CLASS A",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Healthcare",
+   "score": 0.704,
+   "note": "G2",
+   "rank": 3
+  },
+  {
+   "code": "RVTY",
+   "name": "Revvity",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "SPX",
+   "sector": "Healthcare",
+   "score": 0.615,
+   "note": "G3",
+   "rank": 4
+  },
+  {
+   "code": "ATKR",
+   "name": "ATKORE",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Industrials",
+   "score": 0.578,
+   "note": "G2",
+   "rank": 5
+  },
+  {
+   "code": "CRWD",
+   "name": "CrowdStrike",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "SPX",
+   "sector": "Technology",
+   "score": 0.55,
+   "note": "G1",
+   "rank": 6
+  },
   {
    "code": "OSPN",
    "name": "ONESPAN",
@@ -87,20 +153,64 @@
    "strategy": "신고가·물극필반",
    "universe": "R2K",
    "sector": "Technology",
-   "score": 0.58,
+   "score": 0.52,
    "note": "G1",
-   "rank": 1
+   "rank": 7
   },
   {
-   "code": "ASC",
-   "name": "ARDMORE SHIPPING CORP",
+   "code": "CVI",
+   "name": "CVR ENERGY INC",
    "market": "us",
    "strategy": "신고가·물극필반",
    "universe": "R2K",
-   "sector": "Industrials",
-   "score": 0.511,
+   "sector": "Energy",
+   "score": 0.489,
+   "note": "G1",
+   "rank": 8
+  },
+  {
+   "code": "LPG",
+   "name": "DORIAN LPG",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Energy",
+   "score": 0.487,
+   "note": "G1",
+   "rank": 9
+  },
+  {
+   "code": "INSW",
+   "name": "INTERNATIONAL SEAWAYS",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Energy",
+   "score": 0.487,
+   "note": "G1",
+   "rank": 10
+  },
+  {
+   "code": "VLO",
+   "name": "Valero Energy",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "SPX",
+   "sector": "Energy",
+   "score": 0.485,
+   "note": "G1",
+   "rank": 11
+  },
+  {
+   "code": "TALO",
+   "name": "TALOS ENERGY",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Energy",
+   "score": 0.482,
    "note": "G2",
-   "rank": 2
+   "rank": 12
   },
   {
    "code": "CFFI",
@@ -109,9 +219,152 @@
    "strategy": "신고가·물극필반",
    "universe": "R2K",
    "sector": "Financial Services",
-   "score": 0.507,
+   "score": 0.468,
    "note": "G1",
-   "rank": 3
+   "rank": 13
+  },
+  {
+   "code": "MPC",
+   "name": "Marathon Petroleum",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "SPX",
+   "sector": "Energy",
+   "score": 0.466,
+   "note": "G1",
+   "rank": 14
+  },
+  {
+   "code": "ACVA",
+   "name": "ACV AUCTIONS CLASS A",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Consumer Cyclical",
+   "score": 0.465,
+   "note": "G1",
+   "rank": 15
+  },
+  {
+   "code": "NAT",
+   "name": "NORDIC AMERICAN TANKERS LTD",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Energy",
+   "score": 0.463,
+   "note": "G1",
+   "rank": 16
+  },
+  {
+   "code": "DK",
+   "name": "DELEK US HOLDINGS INC",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Energy",
+   "score": 0.448,
+   "note": "G1",
+   "rank": 17
+  },
+  {
+   "code": "BWIN",
+   "name": "BALDWIN INSURANCE GROUP CLASS A",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Financial Services",
+   "score": 0.44,
+   "note": "G1",
+   "rank": 18
+  },
+  {
+   "code": "DHT",
+   "name": "DHT HOLDINGS",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Energy",
+   "score": 0.437,
+   "note": "G1",
+   "rank": 19
+  },
+  {
+   "code": "APA",
+   "name": "APA Corporation",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "SPX",
+   "sector": "Energy",
+   "score": 0.432,
+   "note": "G1",
+   "rank": 20
+  },
+  {
+   "code": "TNK",
+   "name": "TEEKAY TANKERS LTD CLASS A",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Energy",
+   "score": 0.43,
+   "note": "G1",
+   "rank": 21
+  },
+  {
+   "code": "ASC",
+   "name": "ARDMORE SHIPPING CORP",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Industrials",
+   "score": 0.429,
+   "note": "G2",
+   "rank": 22
+  },
+  {
+   "code": "PSX",
+   "name": "Phillips 66",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "SPX",
+   "sector": "Energy",
+   "score": 0.426,
+   "note": "G1",
+   "rank": 23
+  },
+  {
+   "code": "COP",
+   "name": "ConocoPhillips",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "SPX",
+   "sector": "Energy",
+   "score": 0.418,
+   "note": "G1",
+   "rank": 24
+  },
+  {
+   "code": "MATX",
+   "name": "MATSON INC",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Industrials",
+   "score": 0.417,
+   "note": "G1",
+   "rank": 25
+  },
+  {
+   "code": "LTC",
+   "name": "LTC PROPERTIES REIT",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Real Estate",
+   "score": 0.376,
+   "note": "G1",
+   "rank": 26
   },
   {
    "code": "TRST",
@@ -120,9 +373,31 @@
    "strategy": "신고가·물극필반",
    "universe": "R2K",
    "sector": "Financial Services",
-   "score": 0.414,
+   "score": 0.373,
    "note": "G1",
-   "rank": 4
+   "rank": 27
+  },
+  {
+   "code": "ADM",
+   "name": "Archer Daniels Midland",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "SPX",
+   "sector": "Consumer Defensive",
+   "score": 0.373,
+   "note": "G1",
+   "rank": 28
+  },
+  {
+   "code": "STNG",
+   "name": "SCORPIO TANKERS",
+   "market": "us",
+   "strategy": "신고가·물극필반",
+   "universe": "R2K",
+   "sector": "Energy",
+   "score": 0.365,
+   "note": "G1",
+   "rank": 29
   },
   {
    "code": "REPX",
@@ -131,64 +406,9 @@
    "strategy": "신고가·물극필반",
    "universe": "R2K",
    "sector": "Energy",
-   "score": 0.386,
+   "score": 0.355,
    "note": "G1",
-   "rank": 5
-  },
-  {
-   "code": "TK",
-   "name": "TEEKAY CORPORATION CORP LTD",
-   "market": "us",
-   "strategy": "신고가·물극필반",
-   "universe": "R2K",
-   "sector": "Energy",
-   "score": 0.383,
-   "note": "G1",
-   "rank": 6
-  },
-  {
-   "code": "FLNG",
-   "name": "FLEX LNG",
-   "market": "us",
-   "strategy": "신고가·물극필반",
-   "universe": "R2K",
-   "sector": "",
-   "score": 0.322,
-   "note": "G1",
-   "rank": 7
-  },
-  {
-   "code": "BRBS",
-   "name": "BLUE RIDGE BANKSHARES INC",
-   "market": "us",
-   "strategy": "신고가·물극필반",
-   "universe": "R2K",
-   "sector": "Financial Services",
-   "score": 0.297,
-   "note": "G1",
-   "rank": 8
-  },
-  {
-   "code": "WASH",
-   "name": "WASHINGTON TRUST BANCORP INC",
-   "market": "us",
-   "strategy": "신고가·물극필반",
-   "universe": "R2K",
-   "sector": "Financial Services",
-   "score": 0.284,
-   "note": "G2",
-   "rank": 9
-  },
-  {
-   "code": "RRBI",
-   "name": "RED RIVER BANCSHARES INC",
-   "market": "us",
-   "strategy": "신고가·물극필반",
-   "universe": "R2K",
-   "sector": "Financial Services",
-   "score": 0.05,
-   "note": "G1",
-   "rank": 10
+   "rank": 30
   },
   {
    "code": "APTV",
@@ -197,7 +417,7 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Consumer Cyclical",
-   "score": 0.794,
+   "score": 0.783,
    "note": "F8",
    "rank": 1
   },
@@ -208,7 +428,7 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Healthcare",
-   "score": 0.689,
+   "score": 0.669,
    "note": "F8",
    "rank": 2
   },
@@ -219,20 +439,9 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Industrials",
-   "score": 0.672,
+   "score": 0.649,
    "note": "F9",
    "rank": 3
-  },
-  {
-   "code": "NKE",
-   "name": "Nike, Inc.",
-   "market": "us",
-   "strategy": "딥밸류",
-   "universe": "SPX",
-   "sector": "Consumer Cyclical",
-   "score": 0.638,
-   "note": "F7",
-   "rank": 4
   },
   {
    "code": "FISV",
@@ -241,20 +450,20 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Unknown",
-   "score": 0.623,
+   "score": 0.617,
    "note": "F6",
-   "rank": 5
+   "rank": 4
   },
   {
-   "code": "CPRT",
-   "name": "Copart, Inc.",
+   "code": "NKE",
+   "name": "Nike, Inc.",
    "market": "us",
    "strategy": "딥밸류",
    "universe": "SPX",
-   "sector": "Industrials",
-   "score": 0.553,
+   "sector": "Consumer Cyclical",
+   "score": 0.613,
    "note": "F7",
-   "rank": 6
+   "rank": 5
   },
   {
    "code": "STZ",
@@ -263,7 +472,18 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Consumer Defensive",
-   "score": 0.538,
+   "score": 0.527,
+   "note": "F7",
+   "rank": 6
+  },
+  {
+   "code": "CPRT",
+   "name": "Copart, Inc.",
+   "market": "us",
+   "strategy": "딥밸류",
+   "universe": "SPX",
+   "sector": "Industrials",
+   "score": 0.524,
    "note": "F7",
    "rank": 7
   },
@@ -274,7 +494,7 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Technology",
-   "score": 0.512,
+   "score": 0.5,
    "note": "F7",
    "rank": 8
   },
@@ -285,7 +505,7 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Consumer Defensive",
-   "score": 0.509,
+   "score": 0.484,
    "note": "F6",
    "rank": 9
   },
@@ -296,19 +516,19 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Healthcare",
-   "score": 0.496,
+   "score": 0.48,
    "note": "F7",
    "rank": 10
   },
   {
-   "code": "TYL",
-   "name": "Tyler Technologies, Inc.",
+   "code": "APP",
+   "name": "Applovin Corporation",
    "market": "us",
    "strategy": "딥밸류",
    "universe": "SPX",
-   "sector": "Technology",
-   "score": 0.481,
-   "note": "F7",
+   "sector": "Communication Services",
+   "score": 0.454,
+   "note": "F9",
    "rank": 11
   },
   {
@@ -318,31 +538,9 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Healthcare",
-   "score": 0.47,
+   "score": 0.447,
    "note": "F8",
    "rank": 12
-  },
-  {
-   "code": "APP",
-   "name": "Applovin Corporation",
-   "market": "us",
-   "strategy": "딥밸류",
-   "universe": "SPX",
-   "sector": "Communication Services",
-   "score": 0.459,
-   "note": "F9",
-   "rank": 13
-  },
-  {
-   "code": "TSCO",
-   "name": "Tractor Supply Company",
-   "market": "us",
-   "strategy": "딥밸류",
-   "universe": "SPX",
-   "sector": "Consumer Cyclical",
-   "score": 0.423,
-   "note": "F6",
-   "rank": 14
   },
   {
    "code": "ORCL",
@@ -351,9 +549,9 @@
    "strategy": "딥밸류",
    "universe": "SPX",
    "sector": "Technology",
-   "score": 0.354,
+   "score": 0.347,
    "note": "F6",
-   "rank": 15
+   "rank": 13
   }
  ]
 }
